@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\2.2For Loop - Exercise\1.NumbersEndingIn7\bin\Debug\netcoreapp2.1\1.NumbersEndingIn7.deps.json
+C:\Users\User\source\repos\2.2For Loop - Exercise\1.NumbersEndingIn7\bin\Debug\netcoreapp2.1\1.NumbersEndingIn7.runtimeconfig.json
+C:\Users\User\source\repos\2.2For Loop - Exercise\1.NumbersEndingIn7\bin\Debug\netcoreapp2.1\1.NumbersEndingIn7.runtimeconfig.dev.json
+C:\Users\User\source\repos\2.2For Loop - Exercise\1.NumbersEndingIn7\bin\Debug\netcoreapp2.1\1.NumbersEndingIn7.dll
+C:\Users\User\source\repos\2.2For Loop - Exercise\1.NumbersEndingIn7\bin\Debug\netcoreapp2.1\1.NumbersEndingIn7.pdb
+C:\Users\User\source\repos\2.2For Loop - Exercise\1.NumbersEndingIn7\obj\Debug\netcoreapp2.1\1.NumbersEndingIn7.csprojAssemblyReference.cache
+C:\Users\User\source\repos\2.2For Loop - Exercise\1.NumbersEndingIn7\obj\Debug\netcoreapp2.1\1.NumbersEndingIn7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\2.2For Loop - Exercise\1.NumbersEndingIn7\obj\Debug\netcoreapp2.1\1.NumbersEndingIn7.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\2.2For Loop - Exercise\1.NumbersEndingIn7\obj\Debug\netcoreapp2.1\1.NumbersEndingIn7.AssemblyInfo.cs
+C:\Users\User\source\repos\2.2For Loop - Exercise\1.NumbersEndingIn7\obj\Debug\netcoreapp2.1\1.NumbersEndingIn7.dll
+C:\Users\User\source\repos\2.2For Loop - Exercise\1.NumbersEndingIn7\obj\Debug\netcoreapp2.1\1.NumbersEndingIn7.pdb
+D:\Softuni\Задачи\4.2 For Loop - Exercise\1.NumbersEndingIn7\bin\Debug\netcoreapp2.1\1.NumbersEndingIn7.deps.json
+D:\Softuni\Задачи\4.2 For Loop - Exercise\1.NumbersEndingIn7\bin\Debug\netcoreapp2.1\1.NumbersEndingIn7.runtimeconfig.json
+D:\Softuni\Задачи\4.2 For Loop - Exercise\1.NumbersEndingIn7\bin\Debug\netcoreapp2.1\1.NumbersEndingIn7.runtimeconfig.dev.json
+D:\Softuni\Задачи\4.2 For Loop - Exercise\1.NumbersEndingIn7\bin\Debug\netcoreapp2.1\1.NumbersEndingIn7.dll
+D:\Softuni\Задачи\4.2 For Loop - Exercise\1.NumbersEndingIn7\bin\Debug\netcoreapp2.1\1.NumbersEndingIn7.pdb
+D:\Softuni\Задачи\4.2 For Loop - Exercise\1.NumbersEndingIn7\obj\Debug\netcoreapp2.1\1.NumbersEndingIn7.csprojAssemblyReference.cache
+D:\Softuni\Задачи\4.2 For Loop - Exercise\1.NumbersEndingIn7\obj\Debug\netcoreapp2.1\1.NumbersEndingIn7.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\4.2 For Loop - Exercise\1.NumbersEndingIn7\obj\Debug\netcoreapp2.1\1.NumbersEndingIn7.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\4.2 For Loop - Exercise\1.NumbersEndingIn7\obj\Debug\netcoreapp2.1\1.NumbersEndingIn7.AssemblyInfo.cs
+D:\Softuni\Задачи\4.2 For Loop - Exercise\1.NumbersEndingIn7\obj\Debug\netcoreapp2.1\1.NumbersEndingIn7.dll
+D:\Softuni\Задачи\4.2 For Loop - Exercise\1.NumbersEndingIn7\obj\Debug\netcoreapp2.1\1.NumbersEndingIn7.pdb

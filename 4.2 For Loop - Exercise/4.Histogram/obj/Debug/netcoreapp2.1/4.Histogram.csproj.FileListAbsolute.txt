@@ -1,0 +1,21 @@
+D:\Softuni\Задачи\4.2For Loop - Exercise\4.Histogram\bin\Debug\netcoreapp2.1\4.Histogram.deps.json
+D:\Softuni\Задачи\4.2For Loop - Exercise\4.Histogram\bin\Debug\netcoreapp2.1\4.Histogram.runtimeconfig.json
+D:\Softuni\Задачи\4.2For Loop - Exercise\4.Histogram\bin\Debug\netcoreapp2.1\4.Histogram.runtimeconfig.dev.json
+D:\Softuni\Задачи\4.2For Loop - Exercise\4.Histogram\bin\Debug\netcoreapp2.1\4.Histogram.dll
+D:\Softuni\Задачи\4.2For Loop - Exercise\4.Histogram\bin\Debug\netcoreapp2.1\4.Histogram.pdb
+D:\Softuni\Задачи\4.2For Loop - Exercise\4.Histogram\obj\Debug\netcoreapp2.1\4.Histogram.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\4.2For Loop - Exercise\4.Histogram\obj\Debug\netcoreapp2.1\4.Histogram.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\4.2For Loop - Exercise\4.Histogram\obj\Debug\netcoreapp2.1\4.Histogram.AssemblyInfo.cs
+D:\Softuni\Задачи\4.2For Loop - Exercise\4.Histogram\obj\Debug\netcoreapp2.1\4.Histogram.dll
+D:\Softuni\Задачи\4.2For Loop - Exercise\4.Histogram\obj\Debug\netcoreapp2.1\4.Histogram.pdb
+D:\Softuni\Задачи\4.2 For Loop - Exercise\4.Histogram\bin\Debug\netcoreapp2.1\4.Histogram.deps.json
+D:\Softuni\Задачи\4.2 For Loop - Exercise\4.Histogram\bin\Debug\netcoreapp2.1\4.Histogram.runtimeconfig.json
+D:\Softuni\Задачи\4.2 For Loop - Exercise\4.Histogram\bin\Debug\netcoreapp2.1\4.Histogram.runtimeconfig.dev.json
+D:\Softuni\Задачи\4.2 For Loop - Exercise\4.Histogram\bin\Debug\netcoreapp2.1\4.Histogram.dll
+D:\Softuni\Задачи\4.2 For Loop - Exercise\4.Histogram\bin\Debug\netcoreapp2.1\4.Histogram.pdb
+D:\Softuni\Задачи\4.2 For Loop - Exercise\4.Histogram\obj\Debug\netcoreapp2.1\4.Histogram.csprojAssemblyReference.cache
+D:\Softuni\Задачи\4.2 For Loop - Exercise\4.Histogram\obj\Debug\netcoreapp2.1\4.Histogram.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\4.2 For Loop - Exercise\4.Histogram\obj\Debug\netcoreapp2.1\4.Histogram.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\4.2 For Loop - Exercise\4.Histogram\obj\Debug\netcoreapp2.1\4.Histogram.AssemblyInfo.cs
+D:\Softuni\Задачи\4.2 For Loop - Exercise\4.Histogram\obj\Debug\netcoreapp2.1\4.Histogram.dll
+D:\Softuni\Задачи\4.2 For Loop - Exercise\4.Histogram\obj\Debug\netcoreapp2.1\4.Histogram.pdb
