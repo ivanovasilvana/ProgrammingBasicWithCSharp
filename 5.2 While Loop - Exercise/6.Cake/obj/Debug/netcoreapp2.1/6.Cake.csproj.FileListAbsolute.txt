@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\While-Loop-Exercise\6.Cake\bin\Debug\netcoreapp2.1\6.Cake.deps.json
+C:\Users\User\source\repos\While-Loop-Exercise\6.Cake\bin\Debug\netcoreapp2.1\6.Cake.runtimeconfig.json
+C:\Users\User\source\repos\While-Loop-Exercise\6.Cake\bin\Debug\netcoreapp2.1\6.Cake.runtimeconfig.dev.json
+C:\Users\User\source\repos\While-Loop-Exercise\6.Cake\bin\Debug\netcoreapp2.1\6.Cake.dll
+C:\Users\User\source\repos\While-Loop-Exercise\6.Cake\bin\Debug\netcoreapp2.1\6.Cake.pdb
+C:\Users\User\source\repos\While-Loop-Exercise\6.Cake\obj\Debug\netcoreapp2.1\6.Cake.csprojAssemblyReference.cache
+C:\Users\User\source\repos\While-Loop-Exercise\6.Cake\obj\Debug\netcoreapp2.1\6.Cake.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\While-Loop-Exercise\6.Cake\obj\Debug\netcoreapp2.1\6.Cake.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\While-Loop-Exercise\6.Cake\obj\Debug\netcoreapp2.1\6.Cake.AssemblyInfo.cs
+C:\Users\User\source\repos\While-Loop-Exercise\6.Cake\obj\Debug\netcoreapp2.1\6.Cake.dll
+C:\Users\User\source\repos\While-Loop-Exercise\6.Cake\obj\Debug\netcoreapp2.1\6.Cake.pdb
