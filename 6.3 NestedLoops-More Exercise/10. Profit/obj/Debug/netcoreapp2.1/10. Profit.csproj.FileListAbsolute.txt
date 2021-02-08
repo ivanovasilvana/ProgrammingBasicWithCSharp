@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\10. Profit\bin\Debug\netcoreapp2.1\10. Profit.deps.json
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\10. Profit\bin\Debug\netcoreapp2.1\10. Profit.runtimeconfig.json
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\10. Profit\bin\Debug\netcoreapp2.1\10. Profit.runtimeconfig.dev.json
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\10. Profit\bin\Debug\netcoreapp2.1\10. Profit.dll
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\10. Profit\bin\Debug\netcoreapp2.1\10. Profit.pdb
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\10. Profit\obj\Debug\netcoreapp2.1\10. Profit.csprojAssemblyReference.cache
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\10. Profit\obj\Debug\netcoreapp2.1\10. Profit.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\10. Profit\obj\Debug\netcoreapp2.1\10. Profit.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\10. Profit\obj\Debug\netcoreapp2.1\10. Profit.AssemblyInfo.cs
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\10. Profit\obj\Debug\netcoreapp2.1\10. Profit.dll
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\10. Profit\obj\Debug\netcoreapp2.1\10. Profit.pdb

@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\11. HappyCatParking\bin\Debug\netcoreapp2.1\11. HappyCatParking.deps.json
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\11. HappyCatParking\bin\Debug\netcoreapp2.1\11. HappyCatParking.runtimeconfig.json
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\11. HappyCatParking\bin\Debug\netcoreapp2.1\11. HappyCatParking.runtimeconfig.dev.json
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\11. HappyCatParking\bin\Debug\netcoreapp2.1\11. HappyCatParking.dll
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\11. HappyCatParking\bin\Debug\netcoreapp2.1\11. HappyCatParking.pdb
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\11. HappyCatParking\obj\Debug\netcoreapp2.1\11. HappyCatParking.csprojAssemblyReference.cache
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\11. HappyCatParking\obj\Debug\netcoreapp2.1\11. HappyCatParking.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\11. HappyCatParking\obj\Debug\netcoreapp2.1\11. HappyCatParking.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\11. HappyCatParking\obj\Debug\netcoreapp2.1\11. HappyCatParking.AssemblyInfo.cs
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\11. HappyCatParking\obj\Debug\netcoreapp2.1\11. HappyCatParking.dll
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\11. HappyCatParking\obj\Debug\netcoreapp2.1\11. HappyCatParking.pdb

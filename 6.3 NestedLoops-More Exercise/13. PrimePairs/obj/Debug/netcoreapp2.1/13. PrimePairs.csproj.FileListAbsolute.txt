@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\13. PrimePairs\bin\Debug\netcoreapp2.1\13. PrimePairs.deps.json
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\13. PrimePairs\bin\Debug\netcoreapp2.1\13. PrimePairs.runtimeconfig.json
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\13. PrimePairs\bin\Debug\netcoreapp2.1\13. PrimePairs.runtimeconfig.dev.json
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\13. PrimePairs\bin\Debug\netcoreapp2.1\13. PrimePairs.dll
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\13. PrimePairs\bin\Debug\netcoreapp2.1\13. PrimePairs.pdb
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\13. PrimePairs\obj\Debug\netcoreapp2.1\13. PrimePairs.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\13. PrimePairs\obj\Debug\netcoreapp2.1\13. PrimePairs.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\13. PrimePairs\obj\Debug\netcoreapp2.1\13. PrimePairs.AssemblyInfo.cs
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\13. PrimePairs\obj\Debug\netcoreapp2.1\13. PrimePairs.dll
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\13. PrimePairs\obj\Debug\netcoreapp2.1\13. PrimePairs.pdb
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\13. PrimePairs\obj\Debug\netcoreapp2.1\13. PrimePairs.csprojAssemblyReference.cache

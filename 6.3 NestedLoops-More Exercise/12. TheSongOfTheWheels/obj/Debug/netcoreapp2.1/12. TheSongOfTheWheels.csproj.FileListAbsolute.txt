@@ -1,0 +1,10 @@
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\12. TheSongOfTheWheels\bin\Debug\netcoreapp2.1\12. TheSongOfTheWheels.deps.json
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\12. TheSongOfTheWheels\bin\Debug\netcoreapp2.1\12. TheSongOfTheWheels.runtimeconfig.json
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\12. TheSongOfTheWheels\bin\Debug\netcoreapp2.1\12. TheSongOfTheWheels.runtimeconfig.dev.json
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\12. TheSongOfTheWheels\bin\Debug\netcoreapp2.1\12. TheSongOfTheWheels.dll
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\12. TheSongOfTheWheels\bin\Debug\netcoreapp2.1\12. TheSongOfTheWheels.pdb
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\12. TheSongOfTheWheels\obj\Debug\netcoreapp2.1\12. TheSongOfTheWheels.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\12. TheSongOfTheWheels\obj\Debug\netcoreapp2.1\12. TheSongOfTheWheels.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\12. TheSongOfTheWheels\obj\Debug\netcoreapp2.1\12. TheSongOfTheWheels.AssemblyInfo.cs
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\12. TheSongOfTheWheels\obj\Debug\netcoreapp2.1\12. TheSongOfTheWheels.dll
+D:\Softuni\Задачи\6.3 NestedLoops-More Exercise\12. TheSongOfTheWheels\obj\Debug\netcoreapp2.1\12. TheSongOfTheWheels.pdb
