@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\4.1ForLoopLab\9.LeftAndRight Sum\bin\Debug\netcoreapp2.1\9.LeftAndRighSum.deps.json
+D:\Softuni\Задачи\4.1ForLoopLab\9.LeftAndRight Sum\bin\Debug\netcoreapp2.1\9.LeftAndRighSum.runtimeconfig.json
+D:\Softuni\Задачи\4.1ForLoopLab\9.LeftAndRight Sum\bin\Debug\netcoreapp2.1\9.LeftAndRighSum.runtimeconfig.dev.json
+D:\Softuni\Задачи\4.1ForLoopLab\9.LeftAndRight Sum\bin\Debug\netcoreapp2.1\9.LeftAndRighSum.dll
+D:\Softuni\Задачи\4.1ForLoopLab\9.LeftAndRight Sum\bin\Debug\netcoreapp2.1\9.LeftAndRighSum.pdb
+D:\Softuni\Задачи\4.1ForLoopLab\9.LeftAndRight Sum\obj\Debug\netcoreapp2.1\9.LeftAndRighSum.csprojAssemblyReference.cache
+D:\Softuni\Задачи\4.1ForLoopLab\9.LeftAndRight Sum\obj\Debug\netcoreapp2.1\9.LeftAndRighSum.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\4.1ForLoopLab\9.LeftAndRight Sum\obj\Debug\netcoreapp2.1\9.LeftAndRighSum.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\4.1ForLoopLab\9.LeftAndRight Sum\obj\Debug\netcoreapp2.1\9.LeftAndRighSum.AssemblyInfo.cs
+D:\Softuni\Задачи\4.1ForLoopLab\9.LeftAndRight Sum\obj\Debug\netcoreapp2.1\9.LeftAndRighSum.dll
+D:\Softuni\Задачи\4.1ForLoopLab\9.LeftAndRight Sum\obj\Debug\netcoreapp2.1\9.LeftAndRighSum.pdb

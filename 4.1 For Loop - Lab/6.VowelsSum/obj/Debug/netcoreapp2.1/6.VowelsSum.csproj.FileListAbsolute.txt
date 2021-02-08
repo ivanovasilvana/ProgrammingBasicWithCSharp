@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\For Loop-Lab\6.VowelsSum\bin\Debug\netcoreapp2.1\6.VowelsSum.deps.json
+C:\Users\User\source\repos\For Loop-Lab\6.VowelsSum\bin\Debug\netcoreapp2.1\6.VowelsSum.runtimeconfig.json
+C:\Users\User\source\repos\For Loop-Lab\6.VowelsSum\bin\Debug\netcoreapp2.1\6.VowelsSum.runtimeconfig.dev.json
+C:\Users\User\source\repos\For Loop-Lab\6.VowelsSum\bin\Debug\netcoreapp2.1\6.VowelsSum.dll
+C:\Users\User\source\repos\For Loop-Lab\6.VowelsSum\bin\Debug\netcoreapp2.1\6.VowelsSum.pdb
+C:\Users\User\source\repos\For Loop-Lab\6.VowelsSum\obj\Debug\netcoreapp2.1\6.VowelsSum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\For Loop-Lab\6.VowelsSum\obj\Debug\netcoreapp2.1\6.VowelsSum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\For Loop-Lab\6.VowelsSum\obj\Debug\netcoreapp2.1\6.VowelsSum.AssemblyInfo.cs
+C:\Users\User\source\repos\For Loop-Lab\6.VowelsSum\obj\Debug\netcoreapp2.1\6.VowelsSum.dll
+C:\Users\User\source\repos\For Loop-Lab\6.VowelsSum\obj\Debug\netcoreapp2.1\6.VowelsSum.pdb

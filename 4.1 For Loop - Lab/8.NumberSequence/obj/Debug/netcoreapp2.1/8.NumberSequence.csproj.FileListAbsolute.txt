@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\For Loop-Lab\8.NumberSequence\bin\Debug\netcoreapp2.1\8.NumberSequence.deps.json
+C:\Users\User\source\repos\For Loop-Lab\8.NumberSequence\bin\Debug\netcoreapp2.1\8.NumberSequence.runtimeconfig.json
+C:\Users\User\source\repos\For Loop-Lab\8.NumberSequence\bin\Debug\netcoreapp2.1\8.NumberSequence.runtimeconfig.dev.json
+C:\Users\User\source\repos\For Loop-Lab\8.NumberSequence\bin\Debug\netcoreapp2.1\8.NumberSequence.dll
+C:\Users\User\source\repos\For Loop-Lab\8.NumberSequence\bin\Debug\netcoreapp2.1\8.NumberSequence.pdb
+C:\Users\User\source\repos\For Loop-Lab\8.NumberSequence\obj\Debug\netcoreapp2.1\8.NumberSequence.csprojAssemblyReference.cache
+C:\Users\User\source\repos\For Loop-Lab\8.NumberSequence\obj\Debug\netcoreapp2.1\8.NumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\For Loop-Lab\8.NumberSequence\obj\Debug\netcoreapp2.1\8.NumberSequence.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\For Loop-Lab\8.NumberSequence\obj\Debug\netcoreapp2.1\8.NumberSequence.AssemblyInfo.cs
+C:\Users\User\source\repos\For Loop-Lab\8.NumberSequence\obj\Debug\netcoreapp2.1\8.NumberSequence.dll
+C:\Users\User\source\repos\For Loop-Lab\8.NumberSequence\obj\Debug\netcoreapp2.1\8.NumberSequence.pdb
+D:\Softuni\Задачи\4.1 For Loop - Lab\8.NumberSequence\bin\Debug\netcoreapp2.1\8.NumberSequence.deps.json
+D:\Softuni\Задачи\4.1 For Loop - Lab\8.NumberSequence\bin\Debug\netcoreapp2.1\8.NumberSequence.runtimeconfig.json
+D:\Softuni\Задачи\4.1 For Loop - Lab\8.NumberSequence\bin\Debug\netcoreapp2.1\8.NumberSequence.runtimeconfig.dev.json
+D:\Softuni\Задачи\4.1 For Loop - Lab\8.NumberSequence\bin\Debug\netcoreapp2.1\8.NumberSequence.dll
+D:\Softuni\Задачи\4.1 For Loop - Lab\8.NumberSequence\bin\Debug\netcoreapp2.1\8.NumberSequence.pdb
+D:\Softuni\Задачи\4.1 For Loop - Lab\8.NumberSequence\obj\Debug\netcoreapp2.1\8.NumberSequence.csprojAssemblyReference.cache
+D:\Softuni\Задачи\4.1 For Loop - Lab\8.NumberSequence\obj\Debug\netcoreapp2.1\8.NumberSequence.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\4.1 For Loop - Lab\8.NumberSequence\obj\Debug\netcoreapp2.1\8.NumberSequence.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\4.1 For Loop - Lab\8.NumberSequence\obj\Debug\netcoreapp2.1\8.NumberSequence.AssemblyInfo.cs
+D:\Softuni\Задачи\4.1 For Loop - Lab\8.NumberSequence\obj\Debug\netcoreapp2.1\8.NumberSequence.dll
+D:\Softuni\Задачи\4.1 For Loop - Lab\8.NumberSequence\obj\Debug\netcoreapp2.1\8.NumberSequence.pdb

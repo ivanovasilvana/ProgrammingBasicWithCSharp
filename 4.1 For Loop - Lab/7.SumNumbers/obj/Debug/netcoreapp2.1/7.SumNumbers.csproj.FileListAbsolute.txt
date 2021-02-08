@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\For Loop-Lab\7.SumNumbers\bin\Debug\netcoreapp2.1\7.SumNumbers.deps.json
+C:\Users\User\source\repos\For Loop-Lab\7.SumNumbers\bin\Debug\netcoreapp2.1\7.SumNumbers.runtimeconfig.json
+C:\Users\User\source\repos\For Loop-Lab\7.SumNumbers\bin\Debug\netcoreapp2.1\7.SumNumbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\For Loop-Lab\7.SumNumbers\bin\Debug\netcoreapp2.1\7.SumNumbers.dll
+C:\Users\User\source\repos\For Loop-Lab\7.SumNumbers\bin\Debug\netcoreapp2.1\7.SumNumbers.pdb
+C:\Users\User\source\repos\For Loop-Lab\7.SumNumbers\obj\Debug\netcoreapp2.1\7.SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\For Loop-Lab\7.SumNumbers\obj\Debug\netcoreapp2.1\7.SumNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\For Loop-Lab\7.SumNumbers\obj\Debug\netcoreapp2.1\7.SumNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\For Loop-Lab\7.SumNumbers\obj\Debug\netcoreapp2.1\7.SumNumbers.dll
+C:\Users\User\source\repos\For Loop-Lab\7.SumNumbers\obj\Debug\netcoreapp2.1\7.SumNumbers.pdb
+C:\Users\User\source\repos\For Loop-Lab\7.SumNumbers\obj\Debug\netcoreapp2.1\7.SumNumbers.csprojAssemblyReference.cache

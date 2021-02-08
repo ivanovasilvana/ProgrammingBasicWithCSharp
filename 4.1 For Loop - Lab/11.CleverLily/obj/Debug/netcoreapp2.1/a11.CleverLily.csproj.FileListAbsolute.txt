@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\4.1ForLoopLab\11.CleverLily\bin\Debug\netcoreapp2.1\a11.CleverLily.deps.json
+D:\Softuni\Задачи\4.1ForLoopLab\11.CleverLily\bin\Debug\netcoreapp2.1\a11.CleverLily.runtimeconfig.json
+D:\Softuni\Задачи\4.1ForLoopLab\11.CleverLily\bin\Debug\netcoreapp2.1\a11.CleverLily.runtimeconfig.dev.json
+D:\Softuni\Задачи\4.1ForLoopLab\11.CleverLily\bin\Debug\netcoreapp2.1\a11.CleverLily.dll
+D:\Softuni\Задачи\4.1ForLoopLab\11.CleverLily\bin\Debug\netcoreapp2.1\a11.CleverLily.pdb
+D:\Softuni\Задачи\4.1ForLoopLab\11.CleverLily\obj\Debug\netcoreapp2.1\a11.CleverLily.csprojAssemblyReference.cache
+D:\Softuni\Задачи\4.1ForLoopLab\11.CleverLily\obj\Debug\netcoreapp2.1\a11.CleverLily.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\4.1ForLoopLab\11.CleverLily\obj\Debug\netcoreapp2.1\a11.CleverLily.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\4.1ForLoopLab\11.CleverLily\obj\Debug\netcoreapp2.1\a11.CleverLily.AssemblyInfo.cs
+D:\Softuni\Задачи\4.1ForLoopLab\11.CleverLily\obj\Debug\netcoreapp2.1\a11.CleverLily.dll
+D:\Softuni\Задачи\4.1ForLoopLab\11.CleverLily\obj\Debug\netcoreapp2.1\a11.CleverLily.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\For Loop-Lab\2.Numbers Nto1\bin\Debug\netcoreapp2.1\2.NumbersNto1.deps.json
+C:\Users\User\source\repos\For Loop-Lab\2.Numbers Nto1\bin\Debug\netcoreapp2.1\2.NumbersNto1.runtimeconfig.json
+C:\Users\User\source\repos\For Loop-Lab\2.Numbers Nto1\bin\Debug\netcoreapp2.1\2.NumbersNto1.runtimeconfig.dev.json
+C:\Users\User\source\repos\For Loop-Lab\2.Numbers Nto1\bin\Debug\netcoreapp2.1\2.NumbersNto1.dll
+C:\Users\User\source\repos\For Loop-Lab\2.Numbers Nto1\bin\Debug\netcoreapp2.1\2.NumbersNto1.pdb
+C:\Users\User\source\repos\For Loop-Lab\2.Numbers Nto1\obj\Debug\netcoreapp2.1\2.NumbersNto1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\For Loop-Lab\2.Numbers Nto1\obj\Debug\netcoreapp2.1\2.NumbersNto1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\For Loop-Lab\2.Numbers Nto1\obj\Debug\netcoreapp2.1\2.NumbersNto1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\For Loop-Lab\2.Numbers Nto1\obj\Debug\netcoreapp2.1\2.NumbersNto1.AssemblyInfo.cs
+C:\Users\User\source\repos\For Loop-Lab\2.Numbers Nto1\obj\Debug\netcoreapp2.1\2.NumbersNto1.dll
+C:\Users\User\source\repos\For Loop-Lab\2.Numbers Nto1\obj\Debug\netcoreapp2.1\2.NumbersNto1.pdb

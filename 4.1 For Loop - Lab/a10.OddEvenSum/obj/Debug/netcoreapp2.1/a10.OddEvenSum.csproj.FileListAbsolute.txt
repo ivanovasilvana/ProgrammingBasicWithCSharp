@@ -1,0 +1,32 @@
+C:\Users\User\source\repos\For Loop-Lab\a10.OddEvenSum\bin\Debug\netcoreapp2.1\a10.OddEvenSum.deps.json
+C:\Users\User\source\repos\For Loop-Lab\a10.OddEvenSum\bin\Debug\netcoreapp2.1\a10.OddEvenSum.runtimeconfig.json
+C:\Users\User\source\repos\For Loop-Lab\a10.OddEvenSum\bin\Debug\netcoreapp2.1\a10.OddEvenSum.runtimeconfig.dev.json
+C:\Users\User\source\repos\For Loop-Lab\a10.OddEvenSum\bin\Debug\netcoreapp2.1\a10.OddEvenSum.dll
+C:\Users\User\source\repos\For Loop-Lab\a10.OddEvenSum\bin\Debug\netcoreapp2.1\a10.OddEvenSum.pdb
+C:\Users\User\source\repos\For Loop-Lab\a10.OddEvenSum\obj\Debug\netcoreapp2.1\a10.OddEvenSum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\For Loop-Lab\a10.OddEvenSum\obj\Debug\netcoreapp2.1\a10.OddEvenSum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\For Loop-Lab\a10.OddEvenSum\obj\Debug\netcoreapp2.1\a10.OddEvenSum.AssemblyInfo.cs
+C:\Users\User\source\repos\For Loop-Lab\a10.OddEvenSum\obj\Debug\netcoreapp2.1\a10.OddEvenSum.dll
+C:\Users\User\source\repos\For Loop-Lab\a10.OddEvenSum\obj\Debug\netcoreapp2.1\a10.OddEvenSum.pdb
+D:\Softuni\Задачи\4.1ForLoopLab\a10.OddEvenSum\bin\Debug\netcoreapp2.1\a10.OddEvenSum.deps.json
+D:\Softuni\Задачи\4.1ForLoopLab\a10.OddEvenSum\bin\Debug\netcoreapp2.1\a10.OddEvenSum.runtimeconfig.json
+D:\Softuni\Задачи\4.1ForLoopLab\a10.OddEvenSum\bin\Debug\netcoreapp2.1\a10.OddEvenSum.runtimeconfig.dev.json
+D:\Softuni\Задачи\4.1ForLoopLab\a10.OddEvenSum\bin\Debug\netcoreapp2.1\a10.OddEvenSum.dll
+D:\Softuni\Задачи\4.1ForLoopLab\a10.OddEvenSum\bin\Debug\netcoreapp2.1\a10.OddEvenSum.pdb
+D:\Softuni\Задачи\4.1ForLoopLab\a10.OddEvenSum\obj\Debug\netcoreapp2.1\a10.OddEvenSum.csprojAssemblyReference.cache
+D:\Softuni\Задачи\4.1ForLoopLab\a10.OddEvenSum\obj\Debug\netcoreapp2.1\a10.OddEvenSum.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\4.1ForLoopLab\a10.OddEvenSum\obj\Debug\netcoreapp2.1\a10.OddEvenSum.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\4.1ForLoopLab\a10.OddEvenSum\obj\Debug\netcoreapp2.1\a10.OddEvenSum.AssemblyInfo.cs
+D:\Softuni\Задачи\4.1ForLoopLab\a10.OddEvenSum\obj\Debug\netcoreapp2.1\a10.OddEvenSum.dll
+D:\Softuni\Задачи\4.1ForLoopLab\a10.OddEvenSum\obj\Debug\netcoreapp2.1\a10.OddEvenSum.pdb
+D:\Softuni\Задачи\4.1 For Loop - Lab\a10.OddEvenSum\bin\Debug\netcoreapp2.1\a10.OddEvenSum.deps.json
+D:\Softuni\Задачи\4.1 For Loop - Lab\a10.OddEvenSum\bin\Debug\netcoreapp2.1\a10.OddEvenSum.runtimeconfig.json
+D:\Softuni\Задачи\4.1 For Loop - Lab\a10.OddEvenSum\bin\Debug\netcoreapp2.1\a10.OddEvenSum.runtimeconfig.dev.json
+D:\Softuni\Задачи\4.1 For Loop - Lab\a10.OddEvenSum\bin\Debug\netcoreapp2.1\a10.OddEvenSum.dll
+D:\Softuni\Задачи\4.1 For Loop - Lab\a10.OddEvenSum\bin\Debug\netcoreapp2.1\a10.OddEvenSum.pdb
+D:\Softuni\Задачи\4.1 For Loop - Lab\a10.OddEvenSum\obj\Debug\netcoreapp2.1\a10.OddEvenSum.csprojAssemblyReference.cache
+D:\Softuni\Задачи\4.1 For Loop - Lab\a10.OddEvenSum\obj\Debug\netcoreapp2.1\a10.OddEvenSum.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\4.1 For Loop - Lab\a10.OddEvenSum\obj\Debug\netcoreapp2.1\a10.OddEvenSum.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\4.1 For Loop - Lab\a10.OddEvenSum\obj\Debug\netcoreapp2.1\a10.OddEvenSum.AssemblyInfo.cs
+D:\Softuni\Задачи\4.1 For Loop - Lab\a10.OddEvenSum\obj\Debug\netcoreapp2.1\a10.OddEvenSum.dll
+D:\Softuni\Задачи\4.1 For Loop - Lab\a10.OddEvenSum\obj\Debug\netcoreapp2.1\a10.OddEvenSum.pdb
