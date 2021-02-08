@@ -1,0 +1,10 @@
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\01Trapeziod Area.deps.json
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\01Trapeziod Area.runtimeconfig.json
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\01Trapeziod Area.runtimeconfig.dev.json
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\01Trapeziod Area.dll
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\01Trapeziod Area.pdb
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\01Trapeziod Area.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\01Trapeziod Area.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\01Trapeziod Area.AssemblyInfo.cs
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\01Trapeziod Area.dll
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\01Trapeziod Area.pdb

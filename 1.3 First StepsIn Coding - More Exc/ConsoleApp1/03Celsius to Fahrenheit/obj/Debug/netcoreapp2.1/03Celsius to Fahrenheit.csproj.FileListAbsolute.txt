@@ -1,0 +1,10 @@
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\03Celsius to Fahrenheit\bin\Debug\netcoreapp2.1\03Celsius to Fahrenheit.deps.json
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\03Celsius to Fahrenheit\bin\Debug\netcoreapp2.1\03Celsius to Fahrenheit.runtimeconfig.json
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\03Celsius to Fahrenheit\bin\Debug\netcoreapp2.1\03Celsius to Fahrenheit.runtimeconfig.dev.json
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\03Celsius to Fahrenheit\bin\Debug\netcoreapp2.1\03Celsius to Fahrenheit.dll
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\03Celsius to Fahrenheit\bin\Debug\netcoreapp2.1\03Celsius to Fahrenheit.pdb
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\03Celsius to Fahrenheit\obj\Debug\netcoreapp2.1\03Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\03Celsius to Fahrenheit\obj\Debug\netcoreapp2.1\03Celsius to Fahrenheit.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\03Celsius to Fahrenheit\obj\Debug\netcoreapp2.1\03Celsius to Fahrenheit.AssemblyInfo.cs
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\03Celsius to Fahrenheit\obj\Debug\netcoreapp2.1\03Celsius to Fahrenheit.dll
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\03Celsius to Fahrenheit\obj\Debug\netcoreapp2.1\03Celsius to Fahrenheit.pdb
