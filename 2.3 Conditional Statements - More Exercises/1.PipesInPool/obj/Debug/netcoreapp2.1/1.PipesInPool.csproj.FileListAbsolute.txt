@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\1.PipesInPool\bin\Debug\netcoreapp2.1\1.PipesInPool.deps.json
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\1.PipesInPool\bin\Debug\netcoreapp2.1\1.PipesInPool.runtimeconfig.json
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\1.PipesInPool\bin\Debug\netcoreapp2.1\1.PipesInPool.runtimeconfig.dev.json
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\1.PipesInPool\bin\Debug\netcoreapp2.1\1.PipesInPool.dll
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\1.PipesInPool\bin\Debug\netcoreapp2.1\1.PipesInPool.pdb
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\1.PipesInPool\obj\Debug\netcoreapp2.1\1.PipesInPool.csprojAssemblyReference.cache
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\1.PipesInPool\obj\Debug\netcoreapp2.1\1.PipesInPool.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\1.PipesInPool\obj\Debug\netcoreapp2.1\1.PipesInPool.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\1.PipesInPool\obj\Debug\netcoreapp2.1\1.PipesInPool.AssemblyInfo.cs
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\1.PipesInPool\obj\Debug\netcoreapp2.1\1.PipesInPool.dll
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\1.PipesInPool\obj\Debug\netcoreapp2.1\1.PipesInPool.pdb

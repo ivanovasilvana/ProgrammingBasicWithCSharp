@@ -1,0 +1,10 @@
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\6.Pets\bin\Debug\netcoreapp2.1\6.Pets.deps.json
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\6.Pets\bin\Debug\netcoreapp2.1\6.Pets.runtimeconfig.json
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\6.Pets\bin\Debug\netcoreapp2.1\6.Pets.runtimeconfig.dev.json
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\6.Pets\bin\Debug\netcoreapp2.1\6.Pets.dll
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\6.Pets\bin\Debug\netcoreapp2.1\6.Pets.pdb
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\6.Pets\obj\Debug\netcoreapp2.1\6.Pets.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\6.Pets\obj\Debug\netcoreapp2.1\6.Pets.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\6.Pets\obj\Debug\netcoreapp2.1\6.Pets.AssemblyInfo.cs
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\6.Pets\obj\Debug\netcoreapp2.1\6.Pets.dll
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\6.Pets\obj\Debug\netcoreapp2.1\6.Pets.pdb

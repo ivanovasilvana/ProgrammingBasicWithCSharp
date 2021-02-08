@@ -1,0 +1,10 @@
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\7.FlowerShop\bin\Debug\netcoreapp2.1\7.FlowerShop.deps.json
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\7.FlowerShop\bin\Debug\netcoreapp2.1\7.FlowerShop.runtimeconfig.json
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\7.FlowerShop\bin\Debug\netcoreapp2.1\7.FlowerShop.runtimeconfig.dev.json
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\7.FlowerShop\bin\Debug\netcoreapp2.1\7.FlowerShop.dll
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\7.FlowerShop\bin\Debug\netcoreapp2.1\7.FlowerShop.pdb
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\7.FlowerShop\obj\Debug\netcoreapp2.1\7.FlowerShop.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\7.FlowerShop\obj\Debug\netcoreapp2.1\7.FlowerShop.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\7.FlowerShop\obj\Debug\netcoreapp2.1\7.FlowerShop.AssemblyInfo.cs
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\7.FlowerShop\obj\Debug\netcoreapp2.1\7.FlowerShop.dll
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\7.FlowerShop\obj\Debug\netcoreapp2.1\7.FlowerShop.pdb

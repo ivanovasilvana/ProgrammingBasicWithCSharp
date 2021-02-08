@@ -1,0 +1,10 @@
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\2.SleepyTomCat\bin\Debug\netcoreapp2.1\2.SleepyTomCat.deps.json
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\2.SleepyTomCat\bin\Debug\netcoreapp2.1\2.SleepyTomCat.runtimeconfig.json
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\2.SleepyTomCat\bin\Debug\netcoreapp2.1\2.SleepyTomCat.runtimeconfig.dev.json
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\2.SleepyTomCat\bin\Debug\netcoreapp2.1\2.SleepyTomCat.dll
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\2.SleepyTomCat\bin\Debug\netcoreapp2.1\2.SleepyTomCat.pdb
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\2.SleepyTomCat\obj\Debug\netcoreapp2.1\2.SleepyTomCat.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\2.SleepyTomCat\obj\Debug\netcoreapp2.1\2.SleepyTomCat.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\2.SleepyTomCat\obj\Debug\netcoreapp2.1\2.SleepyTomCat.AssemblyInfo.cs
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\2.SleepyTomCat\obj\Debug\netcoreapp2.1\2.SleepyTomCat.dll
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\2.SleepyTomCat\obj\Debug\netcoreapp2.1\2.SleepyTomCat.pdb

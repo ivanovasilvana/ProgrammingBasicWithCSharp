@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\4.TransportPrice\bin\Debug\netcoreapp2.1\4.TransportPrice.deps.json
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\4.TransportPrice\bin\Debug\netcoreapp2.1\4.TransportPrice.runtimeconfig.json
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\4.TransportPrice\bin\Debug\netcoreapp2.1\4.TransportPrice.runtimeconfig.dev.json
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\4.TransportPrice\bin\Debug\netcoreapp2.1\4.TransportPrice.dll
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\4.TransportPrice\bin\Debug\netcoreapp2.1\4.TransportPrice.pdb
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\4.TransportPrice\obj\Debug\netcoreapp2.1\4.TransportPrice.csprojAssemblyReference.cache
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\4.TransportPrice\obj\Debug\netcoreapp2.1\4.TransportPrice.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\4.TransportPrice\obj\Debug\netcoreapp2.1\4.TransportPrice.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\4.TransportPrice\obj\Debug\netcoreapp2.1\4.TransportPrice.AssemblyInfo.cs
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\4.TransportPrice\obj\Debug\netcoreapp2.1\4.TransportPrice.dll
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\4.TransportPrice\obj\Debug\netcoreapp2.1\4.TransportPrice.pdb

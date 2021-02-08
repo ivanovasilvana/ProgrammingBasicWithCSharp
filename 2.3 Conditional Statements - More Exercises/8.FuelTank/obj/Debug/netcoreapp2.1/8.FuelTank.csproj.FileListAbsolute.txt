@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\8.FuelTank\bin\Debug\netcoreapp2.1\8.FuelTank.deps.json
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\8.FuelTank\bin\Debug\netcoreapp2.1\8.FuelTank.runtimeconfig.json
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\8.FuelTank\bin\Debug\netcoreapp2.1\8.FuelTank.runtimeconfig.dev.json
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\8.FuelTank\bin\Debug\netcoreapp2.1\8.FuelTank.dll
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\8.FuelTank\bin\Debug\netcoreapp2.1\8.FuelTank.pdb
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\8.FuelTank\obj\Debug\netcoreapp2.1\8.FuelTank.csprojAssemblyReference.cache
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\8.FuelTank\obj\Debug\netcoreapp2.1\8.FuelTank.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\8.FuelTank\obj\Debug\netcoreapp2.1\8.FuelTank.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\8.FuelTank\obj\Debug\netcoreapp2.1\8.FuelTank.AssemblyInfo.cs
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\8.FuelTank\obj\Debug\netcoreapp2.1\8.FuelTank.dll
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\8.FuelTank\obj\Debug\netcoreapp2.1\8.FuelTank.pdb

@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\5.Firm\bin\Debug\netcoreapp2.1\5.Firm.deps.json
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\5.Firm\bin\Debug\netcoreapp2.1\5.Firm.runtimeconfig.json
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\5.Firm\bin\Debug\netcoreapp2.1\5.Firm.runtimeconfig.dev.json
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\5.Firm\bin\Debug\netcoreapp2.1\5.Firm.dll
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\5.Firm\bin\Debug\netcoreapp2.1\5.Firm.pdb
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\5.Firm\obj\Debug\netcoreapp2.1\5.Firm.csprojAssemblyReference.cache
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\5.Firm\obj\Debug\netcoreapp2.1\5.Firm.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\5.Firm\obj\Debug\netcoreapp2.1\5.Firm.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\5.Firm\obj\Debug\netcoreapp2.1\5.Firm.AssemblyInfo.cs
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\5.Firm\obj\Debug\netcoreapp2.1\5.Firm.dll
+D:\Softuni\Задачи\2.3ConditionalStatementsMoreExercises\5.Firm\obj\Debug\netcoreapp2.1\5.Firm.pdb
