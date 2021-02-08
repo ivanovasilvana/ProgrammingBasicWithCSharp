@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\SimpleCalculationExc\SimpleCalculationExc\2RadianstoDegrees\bin\Debug\netcoreapp2.1\2RadianstoDegrees.deps.json
+D:\Softuni\Задачи\SimpleCalculationExc\SimpleCalculationExc\2RadianstoDegrees\bin\Debug\netcoreapp2.1\2RadianstoDegrees.runtimeconfig.json
+D:\Softuni\Задачи\SimpleCalculationExc\SimpleCalculationExc\2RadianstoDegrees\bin\Debug\netcoreapp2.1\2RadianstoDegrees.runtimeconfig.dev.json
+D:\Softuni\Задачи\SimpleCalculationExc\SimpleCalculationExc\2RadianstoDegrees\bin\Debug\netcoreapp2.1\2RadianstoDegrees.dll
+D:\Softuni\Задачи\SimpleCalculationExc\SimpleCalculationExc\2RadianstoDegrees\bin\Debug\netcoreapp2.1\2RadianstoDegrees.pdb
+D:\Softuni\Задачи\SimpleCalculationExc\SimpleCalculationExc\2RadianstoDegrees\obj\Debug\netcoreapp2.1\2RadianstoDegrees.csprojAssemblyReference.cache
+D:\Softuni\Задачи\SimpleCalculationExc\SimpleCalculationExc\2RadianstoDegrees\obj\Debug\netcoreapp2.1\2RadianstoDegrees.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\SimpleCalculationExc\SimpleCalculationExc\2RadianstoDegrees\obj\Debug\netcoreapp2.1\2RadianstoDegrees.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\SimpleCalculationExc\SimpleCalculationExc\2RadianstoDegrees\obj\Debug\netcoreapp2.1\2RadianstoDegrees.AssemblyInfo.cs
+D:\Softuni\Задачи\SimpleCalculationExc\SimpleCalculationExc\2RadianstoDegrees\obj\Debug\netcoreapp2.1\2RadianstoDegrees.dll
+D:\Softuni\Задачи\SimpleCalculationExc\SimpleCalculationExc\2RadianstoDegrees\obj\Debug\netcoreapp2.1\2RadianstoDegrees.pdb
