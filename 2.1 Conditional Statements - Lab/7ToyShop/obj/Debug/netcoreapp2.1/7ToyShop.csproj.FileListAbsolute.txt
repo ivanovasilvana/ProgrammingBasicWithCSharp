@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\7ToyShop\bin\Debug\netcoreapp2.1\7ToyShop.deps.json
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\7ToyShop\bin\Debug\netcoreapp2.1\7ToyShop.runtimeconfig.json
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\7ToyShop\bin\Debug\netcoreapp2.1\7ToyShop.runtimeconfig.dev.json
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\7ToyShop\bin\Debug\netcoreapp2.1\7ToyShop.dll
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\7ToyShop\bin\Debug\netcoreapp2.1\7ToyShop.pdb
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\7ToyShop\obj\Debug\netcoreapp2.1\7ToyShop.csprojAssemblyReference.cache
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\7ToyShop\obj\Debug\netcoreapp2.1\7ToyShop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\7ToyShop\obj\Debug\netcoreapp2.1\7ToyShop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\7ToyShop\obj\Debug\netcoreapp2.1\7ToyShop.AssemblyInfo.cs
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\7ToyShop\obj\Debug\netcoreapp2.1\7ToyShop.dll
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\7ToyShop\obj\Debug\netcoreapp2.1\7ToyShop.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\6.AreaOfFigures\bin\Debug\netcoreapp2.1\6.AreaOfFigures.deps.json
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\6.AreaOfFigures\bin\Debug\netcoreapp2.1\6.AreaOfFigures.runtimeconfig.json
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\6.AreaOfFigures\bin\Debug\netcoreapp2.1\6.AreaOfFigures.runtimeconfig.dev.json
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\6.AreaOfFigures\bin\Debug\netcoreapp2.1\6.AreaOfFigures.dll
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\6.AreaOfFigures\bin\Debug\netcoreapp2.1\6.AreaOfFigures.pdb
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\6.AreaOfFigures\obj\Debug\netcoreapp2.1\6.AreaOfFigures.csprojAssemblyReference.cache
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\6.AreaOfFigures\obj\Debug\netcoreapp2.1\6.AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\6.AreaOfFigures\obj\Debug\netcoreapp2.1\6.AreaOfFigures.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\6.AreaOfFigures\obj\Debug\netcoreapp2.1\6.AreaOfFigures.AssemblyInfo.cs
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\6.AreaOfFigures\obj\Debug\netcoreapp2.1\6.AreaOfFigures.dll
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\6.AreaOfFigures\obj\Debug\netcoreapp2.1\6.AreaOfFigures.pdb

@@ -1,0 +1,10 @@
+D:\Softuni\Задачи\2.1 Conditional Statements - Lab\6.AreaOfFigures2\bin\Debug\netcoreapp2.1\6.AreaOfFigures2.deps.json
+D:\Softuni\Задачи\2.1 Conditional Statements - Lab\6.AreaOfFigures2\bin\Debug\netcoreapp2.1\6.AreaOfFigures2.runtimeconfig.json
+D:\Softuni\Задачи\2.1 Conditional Statements - Lab\6.AreaOfFigures2\bin\Debug\netcoreapp2.1\6.AreaOfFigures2.runtimeconfig.dev.json
+D:\Softuni\Задачи\2.1 Conditional Statements - Lab\6.AreaOfFigures2\bin\Debug\netcoreapp2.1\6.AreaOfFigures2.dll
+D:\Softuni\Задачи\2.1 Conditional Statements - Lab\6.AreaOfFigures2\bin\Debug\netcoreapp2.1\6.AreaOfFigures2.pdb
+D:\Softuni\Задачи\2.1 Conditional Statements - Lab\6.AreaOfFigures2\obj\Debug\netcoreapp2.1\6.AreaOfFigures2.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\2.1 Conditional Statements - Lab\6.AreaOfFigures2\obj\Debug\netcoreapp2.1\6.AreaOfFigures2.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\2.1 Conditional Statements - Lab\6.AreaOfFigures2\obj\Debug\netcoreapp2.1\6.AreaOfFigures2.AssemblyInfo.cs
+D:\Softuni\Задачи\2.1 Conditional Statements - Lab\6.AreaOfFigures2\obj\Debug\netcoreapp2.1\6.AreaOfFigures2.dll
+D:\Softuni\Задачи\2.1 Conditional Statements - Lab\6.AreaOfFigures2\obj\Debug\netcoreapp2.1\6.AreaOfFigures2.pdb

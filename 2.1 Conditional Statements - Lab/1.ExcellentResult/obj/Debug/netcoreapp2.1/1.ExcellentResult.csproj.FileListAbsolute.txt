@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\1.ExcellentResult\bin\Debug\netcoreapp2.1\1.ExcellentResult.deps.json
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\1.ExcellentResult\bin\Debug\netcoreapp2.1\1.ExcellentResult.runtimeconfig.json
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\1.ExcellentResult\bin\Debug\netcoreapp2.1\1.ExcellentResult.runtimeconfig.dev.json
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\1.ExcellentResult\bin\Debug\netcoreapp2.1\1.ExcellentResult.dll
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\1.ExcellentResult\bin\Debug\netcoreapp2.1\1.ExcellentResult.pdb
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\1.ExcellentResult\obj\Debug\netcoreapp2.1\1.ExcellentResult.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\1.ExcellentResult\obj\Debug\netcoreapp2.1\1.ExcellentResult.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\1.ExcellentResult\obj\Debug\netcoreapp2.1\1.ExcellentResult.AssemblyInfo.cs
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\1.ExcellentResult\obj\Debug\netcoreapp2.1\1.ExcellentResult.dll
+C:\Users\User\source\repos\2.1ConditionalStatements-Lab\1.ExcellentResult\obj\Debug\netcoreapp2.1\1.ExcellentResult.pdb
