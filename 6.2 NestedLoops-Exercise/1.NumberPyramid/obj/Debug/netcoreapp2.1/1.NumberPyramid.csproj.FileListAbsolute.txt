@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\6.2 NestedLoops-Exercise\1.NumberPyramid\bin\Debug\netcoreapp2.1\1.NumberPyramid.deps.json
+D:\Softuni\Задачи\6.2 NestedLoops-Exercise\1.NumberPyramid\bin\Debug\netcoreapp2.1\1.NumberPyramid.runtimeconfig.json
+D:\Softuni\Задачи\6.2 NestedLoops-Exercise\1.NumberPyramid\bin\Debug\netcoreapp2.1\1.NumberPyramid.runtimeconfig.dev.json
+D:\Softuni\Задачи\6.2 NestedLoops-Exercise\1.NumberPyramid\bin\Debug\netcoreapp2.1\1.NumberPyramid.dll
+D:\Softuni\Задачи\6.2 NestedLoops-Exercise\1.NumberPyramid\bin\Debug\netcoreapp2.1\1.NumberPyramid.pdb
+D:\Softuni\Задачи\6.2 NestedLoops-Exercise\1.NumberPyramid\obj\Debug\netcoreapp2.1\1.NumberPyramid.csprojAssemblyReference.cache
+D:\Softuni\Задачи\6.2 NestedLoops-Exercise\1.NumberPyramid\obj\Debug\netcoreapp2.1\1.NumberPyramid.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\6.2 NestedLoops-Exercise\1.NumberPyramid\obj\Debug\netcoreapp2.1\1.NumberPyramid.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\6.2 NestedLoops-Exercise\1.NumberPyramid\obj\Debug\netcoreapp2.1\1.NumberPyramid.AssemblyInfo.cs
+D:\Softuni\Задачи\6.2 NestedLoops-Exercise\1.NumberPyramid\obj\Debug\netcoreapp2.1\1.NumberPyramid.dll
+D:\Softuni\Задачи\6.2 NestedLoops-Exercise\1.NumberPyramid\obj\Debug\netcoreapp2.1\1.NumberPyramid.pdb
