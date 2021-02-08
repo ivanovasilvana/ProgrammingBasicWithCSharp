@@ -1,0 +1,10 @@
+D:\Softuni\HelloSoftUni\PetShop\bin\Debug\netcoreapp2.1\PetShop.deps.json
+D:\Softuni\HelloSoftUni\PetShop\bin\Debug\netcoreapp2.1\PetShop.runtimeconfig.json
+D:\Softuni\HelloSoftUni\PetShop\bin\Debug\netcoreapp2.1\PetShop.runtimeconfig.dev.json
+D:\Softuni\HelloSoftUni\PetShop\bin\Debug\netcoreapp2.1\PetShop.dll
+D:\Softuni\HelloSoftUni\PetShop\bin\Debug\netcoreapp2.1\PetShop.pdb
+D:\Softuni\HelloSoftUni\PetShop\obj\Debug\netcoreapp2.1\PetShop.csproj.CoreCompileInputs.cache
+D:\Softuni\HelloSoftUni\PetShop\obj\Debug\netcoreapp2.1\PetShop.AssemblyInfoInputs.cache
+D:\Softuni\HelloSoftUni\PetShop\obj\Debug\netcoreapp2.1\PetShop.AssemblyInfo.cs
+D:\Softuni\HelloSoftUni\PetShop\obj\Debug\netcoreapp2.1\PetShop.dll
+D:\Softuni\HelloSoftUni\PetShop\obj\Debug\netcoreapp2.1\PetShop.pdb

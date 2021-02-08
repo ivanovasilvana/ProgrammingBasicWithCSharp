@@ -1,0 +1,10 @@
+D:\Softuni\HelloSoftUni\ConsoleApp1\bin\Debug\netcoreapp2.1\SquareArea.deps.json
+D:\Softuni\HelloSoftUni\ConsoleApp1\bin\Debug\netcoreapp2.1\SquareArea.runtimeconfig.json
+D:\Softuni\HelloSoftUni\ConsoleApp1\bin\Debug\netcoreapp2.1\SquareArea.runtimeconfig.dev.json
+D:\Softuni\HelloSoftUni\ConsoleApp1\bin\Debug\netcoreapp2.1\SquareArea.dll
+D:\Softuni\HelloSoftUni\ConsoleApp1\bin\Debug\netcoreapp2.1\SquareArea.pdb
+D:\Softuni\HelloSoftUni\ConsoleApp1\obj\Debug\netcoreapp2.1\SquareArea.csproj.CoreCompileInputs.cache
+D:\Softuni\HelloSoftUni\ConsoleApp1\obj\Debug\netcoreapp2.1\SquareArea.AssemblyInfoInputs.cache
+D:\Softuni\HelloSoftUni\ConsoleApp1\obj\Debug\netcoreapp2.1\SquareArea.AssemblyInfo.cs
+D:\Softuni\HelloSoftUni\ConsoleApp1\obj\Debug\netcoreapp2.1\SquareArea.dll
+D:\Softuni\HelloSoftUni\ConsoleApp1\obj\Debug\netcoreapp2.1\SquareArea.pdb

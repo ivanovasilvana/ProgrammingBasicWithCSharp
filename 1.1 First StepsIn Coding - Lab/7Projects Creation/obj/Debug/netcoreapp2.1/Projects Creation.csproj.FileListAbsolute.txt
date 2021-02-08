@@ -1,0 +1,11 @@
+D:\Softuni\HelloSoftUni\Projects Creation\obj\Debug\netcoreapp2.1\Projects Creation.csproj.CoreCompileInputs.cache
+D:\Softuni\HelloSoftUni\Projects Creation\obj\Debug\netcoreapp2.1\Projects Creation.AssemblyInfoInputs.cache
+D:\Softuni\HelloSoftUni\Projects Creation\obj\Debug\netcoreapp2.1\Projects Creation.AssemblyInfo.cs
+D:\Softuni\HelloSoftUni\Projects Creation\bin\Debug\netcoreapp2.1\Projects Creation.deps.json
+D:\Softuni\HelloSoftUni\Projects Creation\bin\Debug\netcoreapp2.1\Projects Creation.runtimeconfig.json
+D:\Softuni\HelloSoftUni\Projects Creation\bin\Debug\netcoreapp2.1\Projects Creation.runtimeconfig.dev.json
+D:\Softuni\HelloSoftUni\Projects Creation\bin\Debug\netcoreapp2.1\Projects Creation.dll
+D:\Softuni\HelloSoftUni\Projects Creation\bin\Debug\netcoreapp2.1\Projects Creation.pdb
+D:\Softuni\HelloSoftUni\Projects Creation\obj\Debug\netcoreapp2.1\Projects Creation.dll
+D:\Softuni\HelloSoftUni\Projects Creation\obj\Debug\netcoreapp2.1\Projects Creation.pdb
+D:\Softuni\HelloSoftUni\Projects Creation\obj\Debug\netcoreapp2.1\Projects Creation.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\Softuni\HelloSoftUni\GreetingbyName\bin\Debug\netcoreapp2.1\GreetingbyName.deps.json
+D:\Softuni\HelloSoftUni\GreetingbyName\bin\Debug\netcoreapp2.1\GreetingbyName.runtimeconfig.json
+D:\Softuni\HelloSoftUni\GreetingbyName\bin\Debug\netcoreapp2.1\GreetingbyName.runtimeconfig.dev.json
+D:\Softuni\HelloSoftUni\GreetingbyName\bin\Debug\netcoreapp2.1\GreetingbyName.dll
+D:\Softuni\HelloSoftUni\GreetingbyName\bin\Debug\netcoreapp2.1\GreetingbyName.pdb
+D:\Softuni\HelloSoftUni\GreetingbyName\obj\Debug\netcoreapp2.1\GreetingbyName.csproj.CoreCompileInputs.cache
+D:\Softuni\HelloSoftUni\GreetingbyName\obj\Debug\netcoreapp2.1\GreetingbyName.AssemblyInfoInputs.cache
+D:\Softuni\HelloSoftUni\GreetingbyName\obj\Debug\netcoreapp2.1\GreetingbyName.AssemblyInfo.cs
+D:\Softuni\HelloSoftUni\GreetingbyName\obj\Debug\netcoreapp2.1\GreetingbyName.dll
+D:\Softuni\HelloSoftUni\GreetingbyName\obj\Debug\netcoreapp2.1\GreetingbyName.pdb

@@ -1,0 +1,11 @@
+D:\Softuni\HelloSoftUni\Nums1to10\bin\Debug\netcoreapp2.1\Nums1to10.deps.json
+D:\Softuni\HelloSoftUni\Nums1to10\bin\Debug\netcoreapp2.1\Nums1to10.runtimeconfig.json
+D:\Softuni\HelloSoftUni\Nums1to10\bin\Debug\netcoreapp2.1\Nums1to10.runtimeconfig.dev.json
+D:\Softuni\HelloSoftUni\Nums1to10\bin\Debug\netcoreapp2.1\Nums1to10.dll
+D:\Softuni\HelloSoftUni\Nums1to10\bin\Debug\netcoreapp2.1\Nums1to10.pdb
+D:\Softuni\HelloSoftUni\Nums1to10\obj\Debug\netcoreapp2.1\Nums1to10.csprojAssemblyReference.cache
+D:\Softuni\HelloSoftUni\Nums1to10\obj\Debug\netcoreapp2.1\Nums1to10.csproj.CoreCompileInputs.cache
+D:\Softuni\HelloSoftUni\Nums1to10\obj\Debug\netcoreapp2.1\Nums1to10.AssemblyInfoInputs.cache
+D:\Softuni\HelloSoftUni\Nums1to10\obj\Debug\netcoreapp2.1\Nums1to10.AssemblyInfo.cs
+D:\Softuni\HelloSoftUni\Nums1to10\obj\Debug\netcoreapp2.1\Nums1to10.dll
+D:\Softuni\HelloSoftUni\Nums1to10\obj\Debug\netcoreapp2.1\Nums1to10.pdb

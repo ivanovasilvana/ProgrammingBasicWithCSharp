@@ -1,0 +1,11 @@
+D:\Softuni\HelloSoftUni\FirstStepInCoding\bin\Debug\netcoreapp2.1\FirstStepInCoding.deps.json
+D:\Softuni\HelloSoftUni\FirstStepInCoding\bin\Debug\netcoreapp2.1\FirstStepInCoding.runtimeconfig.json
+D:\Softuni\HelloSoftUni\FirstStepInCoding\bin\Debug\netcoreapp2.1\FirstStepInCoding.runtimeconfig.dev.json
+D:\Softuni\HelloSoftUni\FirstStepInCoding\bin\Debug\netcoreapp2.1\FirstStepInCoding.dll
+D:\Softuni\HelloSoftUni\FirstStepInCoding\bin\Debug\netcoreapp2.1\FirstStepInCoding.pdb
+D:\Softuni\HelloSoftUni\FirstStepInCoding\obj\Debug\netcoreapp2.1\FirstStepInCoding.csprojAssemblyReference.cache
+D:\Softuni\HelloSoftUni\FirstStepInCoding\obj\Debug\netcoreapp2.1\FirstStepInCoding.csproj.CoreCompileInputs.cache
+D:\Softuni\HelloSoftUni\FirstStepInCoding\obj\Debug\netcoreapp2.1\FirstStepInCoding.AssemblyInfoInputs.cache
+D:\Softuni\HelloSoftUni\FirstStepInCoding\obj\Debug\netcoreapp2.1\FirstStepInCoding.AssemblyInfo.cs
+D:\Softuni\HelloSoftUni\FirstStepInCoding\obj\Debug\netcoreapp2.1\FirstStepInCoding.dll
+D:\Softuni\HelloSoftUni\FirstStepInCoding\obj\Debug\netcoreapp2.1\FirstStepInCoding.pdb

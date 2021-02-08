@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\SimpleCalculation\3SquareArea\bin\Debug\netcoreapp2.1\3SquareArea.deps.json
+D:\Softuni\Задачи\SimpleCalculation\3SquareArea\bin\Debug\netcoreapp2.1\3SquareArea.runtimeconfig.json
+D:\Softuni\Задачи\SimpleCalculation\3SquareArea\bin\Debug\netcoreapp2.1\3SquareArea.runtimeconfig.dev.json
+D:\Softuni\Задачи\SimpleCalculation\3SquareArea\bin\Debug\netcoreapp2.1\3SquareArea.dll
+D:\Softuni\Задачи\SimpleCalculation\3SquareArea\bin\Debug\netcoreapp2.1\3SquareArea.pdb
+D:\Softuni\Задачи\SimpleCalculation\3SquareArea\obj\Debug\netcoreapp2.1\3SquareArea.csprojAssemblyReference.cache
+D:\Softuni\Задачи\SimpleCalculation\3SquareArea\obj\Debug\netcoreapp2.1\3SquareArea.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\SimpleCalculation\3SquareArea\obj\Debug\netcoreapp2.1\3SquareArea.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\SimpleCalculation\3SquareArea\obj\Debug\netcoreapp2.1\3SquareArea.AssemblyInfo.cs
+D:\Softuni\Задачи\SimpleCalculation\3SquareArea\obj\Debug\netcoreapp2.1\3SquareArea.dll
+D:\Softuni\Задачи\SimpleCalculation\3SquareArea\obj\Debug\netcoreapp2.1\3SquareArea.pdb

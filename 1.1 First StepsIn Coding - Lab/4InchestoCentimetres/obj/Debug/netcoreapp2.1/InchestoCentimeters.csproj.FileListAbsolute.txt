@@ -1,0 +1,11 @@
+D:\Softuni\HelloSoftUni\ConsoleApp2\bin\Debug\netcoreapp2.1\InchestoCentimeters.deps.json
+D:\Softuni\HelloSoftUni\ConsoleApp2\bin\Debug\netcoreapp2.1\InchestoCentimeters.runtimeconfig.json
+D:\Softuni\HelloSoftUni\ConsoleApp2\bin\Debug\netcoreapp2.1\InchestoCentimeters.runtimeconfig.dev.json
+D:\Softuni\HelloSoftUni\ConsoleApp2\bin\Debug\netcoreapp2.1\InchestoCentimeters.dll
+D:\Softuni\HelloSoftUni\ConsoleApp2\bin\Debug\netcoreapp2.1\InchestoCentimeters.pdb
+D:\Softuni\HelloSoftUni\ConsoleApp2\obj\Debug\netcoreapp2.1\InchestoCentimeters.csprojAssemblyReference.cache
+D:\Softuni\HelloSoftUni\ConsoleApp2\obj\Debug\netcoreapp2.1\InchestoCentimeters.csproj.CoreCompileInputs.cache
+D:\Softuni\HelloSoftUni\ConsoleApp2\obj\Debug\netcoreapp2.1\InchestoCentimeters.AssemblyInfoInputs.cache
+D:\Softuni\HelloSoftUni\ConsoleApp2\obj\Debug\netcoreapp2.1\InchestoCentimeters.AssemblyInfo.cs
+D:\Softuni\HelloSoftUni\ConsoleApp2\obj\Debug\netcoreapp2.1\InchestoCentimeters.dll
+D:\Softuni\HelloSoftUni\ConsoleApp2\obj\Debug\netcoreapp2.1\InchestoCentimeters.pdb
