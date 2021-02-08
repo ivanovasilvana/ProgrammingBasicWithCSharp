@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\3.2 Conditional Statements Advanced - Exc\Cinema\7.HotelRoom2\bin\Debug\netcoreapp2.1\7HotelRoom.deps.json
+D:\Softuni\Задачи\3.2 Conditional Statements Advanced - Exc\Cinema\7.HotelRoom2\bin\Debug\netcoreapp2.1\7HotelRoom.runtimeconfig.json
+D:\Softuni\Задачи\3.2 Conditional Statements Advanced - Exc\Cinema\7.HotelRoom2\bin\Debug\netcoreapp2.1\7HotelRoom.runtimeconfig.dev.json
+D:\Softuni\Задачи\3.2 Conditional Statements Advanced - Exc\Cinema\7.HotelRoom2\bin\Debug\netcoreapp2.1\7HotelRoom.dll
+D:\Softuni\Задачи\3.2 Conditional Statements Advanced - Exc\Cinema\7.HotelRoom2\bin\Debug\netcoreapp2.1\7HotelRoom.pdb
+D:\Softuni\Задачи\3.2 Conditional Statements Advanced - Exc\Cinema\7.HotelRoom2\obj\Debug\netcoreapp2.1\7HotelRoom.csprojAssemblyReference.cache
+D:\Softuni\Задачи\3.2 Conditional Statements Advanced - Exc\Cinema\7.HotelRoom2\obj\Debug\netcoreapp2.1\7HotelRoom.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\3.2 Conditional Statements Advanced - Exc\Cinema\7.HotelRoom2\obj\Debug\netcoreapp2.1\7HotelRoom.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\3.2 Conditional Statements Advanced - Exc\Cinema\7.HotelRoom2\obj\Debug\netcoreapp2.1\7HotelRoom.AssemblyInfo.cs
+D:\Softuni\Задачи\3.2 Conditional Statements Advanced - Exc\Cinema\7.HotelRoom2\obj\Debug\netcoreapp2.1\7HotelRoom.dll
+D:\Softuni\Задачи\3.2 Conditional Statements Advanced - Exc\Cinema\7.HotelRoom2\obj\Debug\netcoreapp2.1\7HotelRoom.pdb

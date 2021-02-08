@@ -1,0 +1,22 @@
+D:\Softuni\Задачи\3.3 Conditional Statements Exc\Cinema\8.OnTimeForTheExam\bin\Debug\netcoreapp2.1\8.OnTimeForTheExam.deps.json
+D:\Softuni\Задачи\3.3 Conditional Statements Exc\Cinema\8.OnTimeForTheExam\bin\Debug\netcoreapp2.1\8.OnTimeForTheExam.runtimeconfig.json
+D:\Softuni\Задачи\3.3 Conditional Statements Exc\Cinema\8.OnTimeForTheExam\bin\Debug\netcoreapp2.1\8.OnTimeForTheExam.runtimeconfig.dev.json
+D:\Softuni\Задачи\3.3 Conditional Statements Exc\Cinema\8.OnTimeForTheExam\bin\Debug\netcoreapp2.1\8.OnTimeForTheExam.dll
+D:\Softuni\Задачи\3.3 Conditional Statements Exc\Cinema\8.OnTimeForTheExam\bin\Debug\netcoreapp2.1\8.OnTimeForTheExam.pdb
+D:\Softuni\Задачи\3.3 Conditional Statements Exc\Cinema\8.OnTimeForTheExam\obj\Debug\netcoreapp2.1\8.OnTimeForTheExam.csprojAssemblyReference.cache
+D:\Softuni\Задачи\3.3 Conditional Statements Exc\Cinema\8.OnTimeForTheExam\obj\Debug\netcoreapp2.1\8.OnTimeForTheExam.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\3.3 Conditional Statements Exc\Cinema\8.OnTimeForTheExam\obj\Debug\netcoreapp2.1\8.OnTimeForTheExam.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\3.3 Conditional Statements Exc\Cinema\8.OnTimeForTheExam\obj\Debug\netcoreapp2.1\8.OnTimeForTheExam.AssemblyInfo.cs
+D:\Softuni\Задачи\3.3 Conditional Statements Exc\Cinema\8.OnTimeForTheExam\obj\Debug\netcoreapp2.1\8.OnTimeForTheExam.dll
+D:\Softuni\Задачи\3.3 Conditional Statements Exc\Cinema\8.OnTimeForTheExam\obj\Debug\netcoreapp2.1\8.OnTimeForTheExam.pdb
+D:\Softuni\Задачи\3.3 Conditional Statements Advanced Exc\Cinema\8.OnTimeForTheExam\bin\Debug\netcoreapp2.1\8.OnTimeForTheExam.deps.json
+D:\Softuni\Задачи\3.3 Conditional Statements Advanced Exc\Cinema\8.OnTimeForTheExam\bin\Debug\netcoreapp2.1\8.OnTimeForTheExam.runtimeconfig.json
+D:\Softuni\Задачи\3.3 Conditional Statements Advanced Exc\Cinema\8.OnTimeForTheExam\bin\Debug\netcoreapp2.1\8.OnTimeForTheExam.runtimeconfig.dev.json
+D:\Softuni\Задачи\3.3 Conditional Statements Advanced Exc\Cinema\8.OnTimeForTheExam\bin\Debug\netcoreapp2.1\8.OnTimeForTheExam.dll
+D:\Softuni\Задачи\3.3 Conditional Statements Advanced Exc\Cinema\8.OnTimeForTheExam\bin\Debug\netcoreapp2.1\8.OnTimeForTheExam.pdb
+D:\Softuni\Задачи\3.3 Conditional Statements Advanced Exc\Cinema\8.OnTimeForTheExam\obj\Debug\netcoreapp2.1\8.OnTimeForTheExam.csprojAssemblyReference.cache
+D:\Softuni\Задачи\3.3 Conditional Statements Advanced Exc\Cinema\8.OnTimeForTheExam\obj\Debug\netcoreapp2.1\8.OnTimeForTheExam.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\3.3 Conditional Statements Advanced Exc\Cinema\8.OnTimeForTheExam\obj\Debug\netcoreapp2.1\8.OnTimeForTheExam.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\3.3 Conditional Statements Advanced Exc\Cinema\8.OnTimeForTheExam\obj\Debug\netcoreapp2.1\8.OnTimeForTheExam.AssemblyInfo.cs
+D:\Softuni\Задачи\3.3 Conditional Statements Advanced Exc\Cinema\8.OnTimeForTheExam\obj\Debug\netcoreapp2.1\8.OnTimeForTheExam.dll
+D:\Softuni\Задачи\3.3 Conditional Statements Advanced Exc\Cinema\8.OnTimeForTheExam\obj\Debug\netcoreapp2.1\8.OnTimeForTheExam.pdb
