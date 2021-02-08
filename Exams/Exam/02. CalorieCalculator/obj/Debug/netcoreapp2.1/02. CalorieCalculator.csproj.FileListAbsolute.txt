@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\Exams\Exam\02. CalorieCalculator\bin\Debug\netcoreapp2.1\02. CalorieCalculator.deps.json
+D:\Softuni\Задачи\Exams\Exam\02. CalorieCalculator\bin\Debug\netcoreapp2.1\02. CalorieCalculator.runtimeconfig.json
+D:\Softuni\Задачи\Exams\Exam\02. CalorieCalculator\bin\Debug\netcoreapp2.1\02. CalorieCalculator.runtimeconfig.dev.json
+D:\Softuni\Задачи\Exams\Exam\02. CalorieCalculator\bin\Debug\netcoreapp2.1\02. CalorieCalculator.dll
+D:\Softuni\Задачи\Exams\Exam\02. CalorieCalculator\bin\Debug\netcoreapp2.1\02. CalorieCalculator.pdb
+D:\Softuni\Задачи\Exams\Exam\02. CalorieCalculator\obj\Debug\netcoreapp2.1\02. CalorieCalculator.csprojAssemblyReference.cache
+D:\Softuni\Задачи\Exams\Exam\02. CalorieCalculator\obj\Debug\netcoreapp2.1\02. CalorieCalculator.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\Exams\Exam\02. CalorieCalculator\obj\Debug\netcoreapp2.1\02. CalorieCalculator.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\Exams\Exam\02. CalorieCalculator\obj\Debug\netcoreapp2.1\02. CalorieCalculator.AssemblyInfo.cs
+D:\Softuni\Задачи\Exams\Exam\02. CalorieCalculator\obj\Debug\netcoreapp2.1\02. CalorieCalculator.dll
+D:\Softuni\Задачи\Exams\Exam\02. CalorieCalculator\obj\Debug\netcoreapp2.1\02. CalorieCalculator.pdb

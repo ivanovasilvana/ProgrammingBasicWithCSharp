@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\Exams\Exam-March2020\05. CareOfPuppy\bin\Debug\netcoreapp2.1\05. CareOfPuppy.deps.json
+D:\Softuni\Задачи\Exams\Exam-March2020\05. CareOfPuppy\bin\Debug\netcoreapp2.1\05. CareOfPuppy.runtimeconfig.json
+D:\Softuni\Задачи\Exams\Exam-March2020\05. CareOfPuppy\bin\Debug\netcoreapp2.1\05. CareOfPuppy.runtimeconfig.dev.json
+D:\Softuni\Задачи\Exams\Exam-March2020\05. CareOfPuppy\bin\Debug\netcoreapp2.1\05. CareOfPuppy.dll
+D:\Softuni\Задачи\Exams\Exam-March2020\05. CareOfPuppy\bin\Debug\netcoreapp2.1\05. CareOfPuppy.pdb
+D:\Softuni\Задачи\Exams\Exam-March2020\05. CareOfPuppy\obj\Debug\netcoreapp2.1\05. CareOfPuppy.csprojAssemblyReference.cache
+D:\Softuni\Задачи\Exams\Exam-March2020\05. CareOfPuppy\obj\Debug\netcoreapp2.1\05. CareOfPuppy.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\Exams\Exam-March2020\05. CareOfPuppy\obj\Debug\netcoreapp2.1\05. CareOfPuppy.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\Exams\Exam-March2020\05. CareOfPuppy\obj\Debug\netcoreapp2.1\05. CareOfPuppy.AssemblyInfo.cs
+D:\Softuni\Задачи\Exams\Exam-March2020\05. CareOfPuppy\obj\Debug\netcoreapp2.1\05. CareOfPuppy.dll
+D:\Softuni\Задачи\Exams\Exam-March2020\05. CareOfPuppy\obj\Debug\netcoreapp2.1\05. CareOfPuppy.pdb

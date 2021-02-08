@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exam-March2020\01. SuppliesForSchool\bin\Debug\netcoreapp2.1\01. SuppliesForSchool.deps.json
+C:\Users\User\source\repos\Exam-March2020\01. SuppliesForSchool\bin\Debug\netcoreapp2.1\01. SuppliesForSchool.runtimeconfig.json
+C:\Users\User\source\repos\Exam-March2020\01. SuppliesForSchool\bin\Debug\netcoreapp2.1\01. SuppliesForSchool.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exam-March2020\01. SuppliesForSchool\bin\Debug\netcoreapp2.1\01. SuppliesForSchool.dll
+C:\Users\User\source\repos\Exam-March2020\01. SuppliesForSchool\bin\Debug\netcoreapp2.1\01. SuppliesForSchool.pdb
+C:\Users\User\source\repos\Exam-March2020\01. SuppliesForSchool\obj\Debug\netcoreapp2.1\01. SuppliesForSchool.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exam-March2020\01. SuppliesForSchool\obj\Debug\netcoreapp2.1\01. SuppliesForSchool.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exam-March2020\01. SuppliesForSchool\obj\Debug\netcoreapp2.1\01. SuppliesForSchool.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exam-March2020\01. SuppliesForSchool\obj\Debug\netcoreapp2.1\01. SuppliesForSchool.AssemblyInfo.cs
+C:\Users\User\source\repos\Exam-March2020\01. SuppliesForSchool\obj\Debug\netcoreapp2.1\01. SuppliesForSchool.dll
+C:\Users\User\source\repos\Exam-March2020\01. SuppliesForSchool\obj\Debug\netcoreapp2.1\01. SuppliesForSchool.pdb

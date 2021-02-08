@@ -1,0 +1,10 @@
+D:\Softuni\Задачи\Exams\Exam\04. CatFood\bin\Debug\netcoreapp2.1\04. CatFood.deps.json
+D:\Softuni\Задачи\Exams\Exam\04. CatFood\bin\Debug\netcoreapp2.1\04. CatFood.runtimeconfig.json
+D:\Softuni\Задачи\Exams\Exam\04. CatFood\bin\Debug\netcoreapp2.1\04. CatFood.runtimeconfig.dev.json
+D:\Softuni\Задачи\Exams\Exam\04. CatFood\bin\Debug\netcoreapp2.1\04. CatFood.dll
+D:\Softuni\Задачи\Exams\Exam\04. CatFood\bin\Debug\netcoreapp2.1\04. CatFood.pdb
+D:\Softuni\Задачи\Exams\Exam\04. CatFood\obj\Debug\netcoreapp2.1\04. CatFood.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\Exams\Exam\04. CatFood\obj\Debug\netcoreapp2.1\04. CatFood.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\Exams\Exam\04. CatFood\obj\Debug\netcoreapp2.1\04. CatFood.AssemblyInfo.cs
+D:\Softuni\Задачи\Exams\Exam\04. CatFood\obj\Debug\netcoreapp2.1\04. CatFood.dll
+D:\Softuni\Задачи\Exams\Exam\04. CatFood\obj\Debug\netcoreapp2.1\04. CatFood.pdb

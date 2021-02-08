@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\Exams\Exam-June2019\03. Gymnastics\bin\Debug\netcoreapp2.1\03. Gymnastics.deps.json
+D:\Softuni\Задачи\Exams\Exam-June2019\03. Gymnastics\bin\Debug\netcoreapp2.1\03. Gymnastics.runtimeconfig.json
+D:\Softuni\Задачи\Exams\Exam-June2019\03. Gymnastics\bin\Debug\netcoreapp2.1\03. Gymnastics.runtimeconfig.dev.json
+D:\Softuni\Задачи\Exams\Exam-June2019\03. Gymnastics\bin\Debug\netcoreapp2.1\03. Gymnastics.dll
+D:\Softuni\Задачи\Exams\Exam-June2019\03. Gymnastics\bin\Debug\netcoreapp2.1\03. Gymnastics.pdb
+D:\Softuni\Задачи\Exams\Exam-June2019\03. Gymnastics\obj\Debug\netcoreapp2.1\03. Gymnastics.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\Exams\Exam-June2019\03. Gymnastics\obj\Debug\netcoreapp2.1\03. Gymnastics.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\Exams\Exam-June2019\03. Gymnastics\obj\Debug\netcoreapp2.1\03. Gymnastics.AssemblyInfo.cs
+D:\Softuni\Задачи\Exams\Exam-June2019\03. Gymnastics\obj\Debug\netcoreapp2.1\03. Gymnastics.dll
+D:\Softuni\Задачи\Exams\Exam-June2019\03. Gymnastics\obj\Debug\netcoreapp2.1\03. Gymnastics.pdb
+D:\Softuni\Задачи\Exams\Exam-June2019\03. Gymnastics\obj\Debug\netcoreapp2.1\03. Gymnastics.csprojAssemblyReference.cache

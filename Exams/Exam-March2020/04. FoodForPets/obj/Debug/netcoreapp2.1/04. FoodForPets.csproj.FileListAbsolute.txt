@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\Exams\Exam-March2020\04. FoodForPets\bin\Debug\netcoreapp2.1\04. FoodForPets.deps.json
+D:\Softuni\Задачи\Exams\Exam-March2020\04. FoodForPets\bin\Debug\netcoreapp2.1\04. FoodForPets.runtimeconfig.json
+D:\Softuni\Задачи\Exams\Exam-March2020\04. FoodForPets\bin\Debug\netcoreapp2.1\04. FoodForPets.runtimeconfig.dev.json
+D:\Softuni\Задачи\Exams\Exam-March2020\04. FoodForPets\bin\Debug\netcoreapp2.1\04. FoodForPets.dll
+D:\Softuni\Задачи\Exams\Exam-March2020\04. FoodForPets\bin\Debug\netcoreapp2.1\04. FoodForPets.pdb
+D:\Softuni\Задачи\Exams\Exam-March2020\04. FoodForPets\obj\Debug\netcoreapp2.1\04. FoodForPets.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\Exams\Exam-March2020\04. FoodForPets\obj\Debug\netcoreapp2.1\04. FoodForPets.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\Exams\Exam-March2020\04. FoodForPets\obj\Debug\netcoreapp2.1\04. FoodForPets.AssemblyInfo.cs
+D:\Softuni\Задачи\Exams\Exam-March2020\04. FoodForPets\obj\Debug\netcoreapp2.1\04. FoodForPets.dll
+D:\Softuni\Задачи\Exams\Exam-March2020\04. FoodForPets\obj\Debug\netcoreapp2.1\04. FoodForPets.pdb
+D:\Softuni\Задачи\Exams\Exam-March2020\04. FoodForPets\obj\Debug\netcoreapp2.1\04. FoodForPets.csprojAssemblyReference.cache

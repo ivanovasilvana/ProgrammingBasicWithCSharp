@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exam-March2020\Exam-March2020\bin\Debug\netcoreapp2.1\01. ChangeBureau.deps.json
+C:\Users\User\source\repos\Exam-March2020\Exam-March2020\bin\Debug\netcoreapp2.1\01. ChangeBureau.runtimeconfig.json
+C:\Users\User\source\repos\Exam-March2020\Exam-March2020\bin\Debug\netcoreapp2.1\01. ChangeBureau.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exam-March2020\Exam-March2020\bin\Debug\netcoreapp2.1\01. ChangeBureau.dll
+C:\Users\User\source\repos\Exam-March2020\Exam-March2020\bin\Debug\netcoreapp2.1\01. ChangeBureau.pdb
+C:\Users\User\source\repos\Exam-March2020\Exam-March2020\obj\Debug\netcoreapp2.1\01. ChangeBureau.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exam-March2020\Exam-March2020\obj\Debug\netcoreapp2.1\01. ChangeBureau.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exam-March2020\Exam-March2020\obj\Debug\netcoreapp2.1\01. ChangeBureau.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exam-March2020\Exam-March2020\obj\Debug\netcoreapp2.1\01. ChangeBureau.AssemblyInfo.cs
+C:\Users\User\source\repos\Exam-March2020\Exam-March2020\obj\Debug\netcoreapp2.1\01. ChangeBureau.dll
+C:\Users\User\source\repos\Exam-March2020\Exam-March2020\obj\Debug\netcoreapp2.1\01. ChangeBureau.pdb

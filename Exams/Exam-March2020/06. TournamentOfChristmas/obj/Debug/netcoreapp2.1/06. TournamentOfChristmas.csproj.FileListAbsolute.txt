@@ -1,0 +1,10 @@
+D:\Softuni\Задачи\Exams\Exam-March2020\06. TournamentOfChristmas\bin\Debug\netcoreapp2.1\06. TournamentOfChristmas.deps.json
+D:\Softuni\Задачи\Exams\Exam-March2020\06. TournamentOfChristmas\bin\Debug\netcoreapp2.1\06. TournamentOfChristmas.runtimeconfig.json
+D:\Softuni\Задачи\Exams\Exam-March2020\06. TournamentOfChristmas\bin\Debug\netcoreapp2.1\06. TournamentOfChristmas.runtimeconfig.dev.json
+D:\Softuni\Задачи\Exams\Exam-March2020\06. TournamentOfChristmas\bin\Debug\netcoreapp2.1\06. TournamentOfChristmas.dll
+D:\Softuni\Задачи\Exams\Exam-March2020\06. TournamentOfChristmas\bin\Debug\netcoreapp2.1\06. TournamentOfChristmas.pdb
+D:\Softuni\Задачи\Exams\Exam-March2020\06. TournamentOfChristmas\obj\Debug\netcoreapp2.1\06. TournamentOfChristmas.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\Exams\Exam-March2020\06. TournamentOfChristmas\obj\Debug\netcoreapp2.1\06. TournamentOfChristmas.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\Exams\Exam-March2020\06. TournamentOfChristmas\obj\Debug\netcoreapp2.1\06. TournamentOfChristmas.AssemblyInfo.cs
+D:\Softuni\Задачи\Exams\Exam-March2020\06. TournamentOfChristmas\obj\Debug\netcoreapp2.1\06. TournamentOfChristmas.dll
+D:\Softuni\Задачи\Exams\Exam-March2020\06. TournamentOfChristmas\obj\Debug\netcoreapp2.1\06. TournamentOfChristmas.pdb

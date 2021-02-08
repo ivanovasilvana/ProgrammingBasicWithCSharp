@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\Exams\Exam-March2020\05. SuitcasesLoad\bin\Debug\netcoreapp2.1\05. SuitcasesLoad.deps.json
+D:\Softuni\Задачи\Exams\Exam-March2020\05. SuitcasesLoad\bin\Debug\netcoreapp2.1\05. SuitcasesLoad.runtimeconfig.json
+D:\Softuni\Задачи\Exams\Exam-March2020\05. SuitcasesLoad\bin\Debug\netcoreapp2.1\05. SuitcasesLoad.runtimeconfig.dev.json
+D:\Softuni\Задачи\Exams\Exam-March2020\05. SuitcasesLoad\bin\Debug\netcoreapp2.1\05. SuitcasesLoad.dll
+D:\Softuni\Задачи\Exams\Exam-March2020\05. SuitcasesLoad\bin\Debug\netcoreapp2.1\05. SuitcasesLoad.pdb
+D:\Softuni\Задачи\Exams\Exam-March2020\05. SuitcasesLoad\obj\Debug\netcoreapp2.1\05. SuitcasesLoad.csprojAssemblyReference.cache
+D:\Softuni\Задачи\Exams\Exam-March2020\05. SuitcasesLoad\obj\Debug\netcoreapp2.1\05. SuitcasesLoad.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\Exams\Exam-March2020\05. SuitcasesLoad\obj\Debug\netcoreapp2.1\05. SuitcasesLoad.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\Exams\Exam-March2020\05. SuitcasesLoad\obj\Debug\netcoreapp2.1\05. SuitcasesLoad.AssemblyInfo.cs
+D:\Softuni\Задачи\Exams\Exam-March2020\05. SuitcasesLoad\obj\Debug\netcoreapp2.1\05. SuitcasesLoad.dll
+D:\Softuni\Задачи\Exams\Exam-March2020\05. SuitcasesLoad\obj\Debug\netcoreapp2.1\05. SuitcasesLoad.pdb

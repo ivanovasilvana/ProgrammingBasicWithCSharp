@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\Exams\Exam-June2019\02. LunchBreak\bin\Debug\netcoreapp2.1\02. LunchBreak.deps.json
+D:\Softuni\Задачи\Exams\Exam-June2019\02. LunchBreak\bin\Debug\netcoreapp2.1\02. LunchBreak.runtimeconfig.json
+D:\Softuni\Задачи\Exams\Exam-June2019\02. LunchBreak\bin\Debug\netcoreapp2.1\02. LunchBreak.runtimeconfig.dev.json
+D:\Softuni\Задачи\Exams\Exam-June2019\02. LunchBreak\bin\Debug\netcoreapp2.1\02. LunchBreak.dll
+D:\Softuni\Задачи\Exams\Exam-June2019\02. LunchBreak\bin\Debug\netcoreapp2.1\02. LunchBreak.pdb
+D:\Softuni\Задачи\Exams\Exam-June2019\02. LunchBreak\obj\Debug\netcoreapp2.1\02. LunchBreak.csprojAssemblyReference.cache
+D:\Softuni\Задачи\Exams\Exam-June2019\02. LunchBreak\obj\Debug\netcoreapp2.1\02. LunchBreak.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\Exams\Exam-June2019\02. LunchBreak\obj\Debug\netcoreapp2.1\02. LunchBreak.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\Exams\Exam-June2019\02. LunchBreak\obj\Debug\netcoreapp2.1\02. LunchBreak.AssemblyInfo.cs
+D:\Softuni\Задачи\Exams\Exam-June2019\02. LunchBreak\obj\Debug\netcoreapp2.1\02. LunchBreak.dll
+D:\Softuni\Задачи\Exams\Exam-June2019\02. LunchBreak\obj\Debug\netcoreapp2.1\02. LunchBreak.pdb

@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\Exams\Exam\01. Programming Book\bin\Debug\netcoreapp2.1\01. Programming Book.deps.json
+D:\Softuni\Задачи\Exams\Exam\01. Programming Book\bin\Debug\netcoreapp2.1\01. Programming Book.runtimeconfig.json
+D:\Softuni\Задачи\Exams\Exam\01. Programming Book\bin\Debug\netcoreapp2.1\01. Programming Book.runtimeconfig.dev.json
+D:\Softuni\Задачи\Exams\Exam\01. Programming Book\bin\Debug\netcoreapp2.1\01. Programming Book.dll
+D:\Softuni\Задачи\Exams\Exam\01. Programming Book\bin\Debug\netcoreapp2.1\01. Programming Book.pdb
+D:\Softuni\Задачи\Exams\Exam\01. Programming Book\obj\Debug\netcoreapp2.1\01. Programming Book.csprojAssemblyReference.cache
+D:\Softuni\Задачи\Exams\Exam\01. Programming Book\obj\Debug\netcoreapp2.1\01. Programming Book.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\Exams\Exam\01. Programming Book\obj\Debug\netcoreapp2.1\01. Programming Book.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\Exams\Exam\01. Programming Book\obj\Debug\netcoreapp2.1\01. Programming Book.AssemblyInfo.cs
+D:\Softuni\Задачи\Exams\Exam\01. Programming Book\obj\Debug\netcoreapp2.1\01. Programming Book.dll
+D:\Softuni\Задачи\Exams\Exam\01. Programming Book\obj\Debug\netcoreapp2.1\01. Programming Book.pdb

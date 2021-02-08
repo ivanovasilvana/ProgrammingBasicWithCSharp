@@ -1,0 +1,10 @@
+D:\Softuni\Задачи\Exams\Exam-June2019\05. TouristShop\bin\Debug\netcoreapp2.1\05. TouristShop.deps.json
+D:\Softuni\Задачи\Exams\Exam-June2019\05. TouristShop\bin\Debug\netcoreapp2.1\05. TouristShop.runtimeconfig.json
+D:\Softuni\Задачи\Exams\Exam-June2019\05. TouristShop\bin\Debug\netcoreapp2.1\05. TouristShop.runtimeconfig.dev.json
+D:\Softuni\Задачи\Exams\Exam-June2019\05. TouristShop\bin\Debug\netcoreapp2.1\05. TouristShop.dll
+D:\Softuni\Задачи\Exams\Exam-June2019\05. TouristShop\bin\Debug\netcoreapp2.1\05. TouristShop.pdb
+D:\Softuni\Задачи\Exams\Exam-June2019\05. TouristShop\obj\Debug\netcoreapp2.1\05. TouristShop.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\Exams\Exam-June2019\05. TouristShop\obj\Debug\netcoreapp2.1\05. TouristShop.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\Exams\Exam-June2019\05. TouristShop\obj\Debug\netcoreapp2.1\05. TouristShop.AssemblyInfo.cs
+D:\Softuni\Задачи\Exams\Exam-June2019\05. TouristShop\obj\Debug\netcoreapp2.1\05. TouristShop.dll
+D:\Softuni\Задачи\Exams\Exam-June2019\05. TouristShop\obj\Debug\netcoreapp2.1\05. TouristShop.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Exam-March2020\02. CatWalking\obj\Debug\netcoreapp2.1\02. CatWalking.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exam-March2020\02. CatWalking\obj\Debug\netcoreapp2.1\02. CatWalking.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exam-March2020\02. CatWalking\obj\Debug\netcoreapp2.1\02. CatWalking.AssemblyInfo.cs
+C:\Users\User\source\repos\Exam-March2020\02. CatWalking\bin\Debug\netcoreapp2.1\02. CatWalking.deps.json
+C:\Users\User\source\repos\Exam-March2020\02. CatWalking\bin\Debug\netcoreapp2.1\02. CatWalking.runtimeconfig.json
+C:\Users\User\source\repos\Exam-March2020\02. CatWalking\bin\Debug\netcoreapp2.1\02. CatWalking.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exam-March2020\02. CatWalking\bin\Debug\netcoreapp2.1\02. CatWalking.dll
+C:\Users\User\source\repos\Exam-March2020\02. CatWalking\bin\Debug\netcoreapp2.1\02. CatWalking.pdb
+C:\Users\User\source\repos\Exam-March2020\02. CatWalking\obj\Debug\netcoreapp2.1\02. CatWalking.dll
+C:\Users\User\source\repos\Exam-March2020\02. CatWalking\obj\Debug\netcoreapp2.1\02. CatWalking.pdb

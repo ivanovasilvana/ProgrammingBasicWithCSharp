@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\Exams\Exam-June2019\01. MovieProfit\bin\Debug\netcoreapp2.1\01. MovieProfit.deps.json
+D:\Softuni\Задачи\Exams\Exam-June2019\01. MovieProfit\bin\Debug\netcoreapp2.1\01. MovieProfit.runtimeconfig.json
+D:\Softuni\Задачи\Exams\Exam-June2019\01. MovieProfit\bin\Debug\netcoreapp2.1\01. MovieProfit.runtimeconfig.dev.json
+D:\Softuni\Задачи\Exams\Exam-June2019\01. MovieProfit\bin\Debug\netcoreapp2.1\01. MovieProfit.dll
+D:\Softuni\Задачи\Exams\Exam-June2019\01. MovieProfit\bin\Debug\netcoreapp2.1\01. MovieProfit.pdb
+D:\Softuni\Задачи\Exams\Exam-June2019\01. MovieProfit\obj\Debug\netcoreapp2.1\01. MovieProfit.csprojAssemblyReference.cache
+D:\Softuni\Задачи\Exams\Exam-June2019\01. MovieProfit\obj\Debug\netcoreapp2.1\01. MovieProfit.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\Exams\Exam-June2019\01. MovieProfit\obj\Debug\netcoreapp2.1\01. MovieProfit.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\Exams\Exam-June2019\01. MovieProfit\obj\Debug\netcoreapp2.1\01. MovieProfit.AssemblyInfo.cs
+D:\Softuni\Задачи\Exams\Exam-June2019\01. MovieProfit\obj\Debug\netcoreapp2.1\01. MovieProfit.dll
+D:\Softuni\Задачи\Exams\Exam-June2019\01. MovieProfit\obj\Debug\netcoreapp2.1\01. MovieProfit.pdb

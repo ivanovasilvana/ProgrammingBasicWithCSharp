@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\Exams\Exam-June2019\04. MovieRatings\bin\Debug\netcoreapp2.1\04. MovieRatings.deps.json
+D:\Softuni\Задачи\Exams\Exam-June2019\04. MovieRatings\bin\Debug\netcoreapp2.1\04. MovieRatings.runtimeconfig.json
+D:\Softuni\Задачи\Exams\Exam-June2019\04. MovieRatings\bin\Debug\netcoreapp2.1\04. MovieRatings.runtimeconfig.dev.json
+D:\Softuni\Задачи\Exams\Exam-June2019\04. MovieRatings\bin\Debug\netcoreapp2.1\04. MovieRatings.dll
+D:\Softuni\Задачи\Exams\Exam-June2019\04. MovieRatings\bin\Debug\netcoreapp2.1\04. MovieRatings.pdb
+D:\Softuni\Задачи\Exams\Exam-June2019\04. MovieRatings\obj\Debug\netcoreapp2.1\04. MovieRatings.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\Exams\Exam-June2019\04. MovieRatings\obj\Debug\netcoreapp2.1\04. MovieRatings.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\Exams\Exam-June2019\04. MovieRatings\obj\Debug\netcoreapp2.1\04. MovieRatings.AssemblyInfo.cs
+D:\Softuni\Задачи\Exams\Exam-June2019\04. MovieRatings\obj\Debug\netcoreapp2.1\04. MovieRatings.dll
+D:\Softuni\Задачи\Exams\Exam-June2019\04. MovieRatings\obj\Debug\netcoreapp2.1\04. MovieRatings.pdb
+D:\Softuni\Задачи\Exams\Exam-June2019\04. MovieRatings\obj\Debug\netcoreapp2.1\04. MovieRatings.csprojAssemblyReference.cache

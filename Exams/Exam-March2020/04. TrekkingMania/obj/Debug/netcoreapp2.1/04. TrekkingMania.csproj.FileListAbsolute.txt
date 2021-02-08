@@ -1,0 +1,10 @@
+D:\Softuni\Задачи\Exams\Exam-March2020\04. TrekkingMania\bin\Debug\netcoreapp2.1\04. TrekkingMania.deps.json
+D:\Softuni\Задачи\Exams\Exam-March2020\04. TrekkingMania\bin\Debug\netcoreapp2.1\04. TrekkingMania.runtimeconfig.json
+D:\Softuni\Задачи\Exams\Exam-March2020\04. TrekkingMania\bin\Debug\netcoreapp2.1\04. TrekkingMania.runtimeconfig.dev.json
+D:\Softuni\Задачи\Exams\Exam-March2020\04. TrekkingMania\bin\Debug\netcoreapp2.1\04. TrekkingMania.dll
+D:\Softuni\Задачи\Exams\Exam-March2020\04. TrekkingMania\bin\Debug\netcoreapp2.1\04. TrekkingMania.pdb
+D:\Softuni\Задачи\Exams\Exam-March2020\04. TrekkingMania\obj\Debug\netcoreapp2.1\04. TrekkingMania.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\Exams\Exam-March2020\04. TrekkingMania\obj\Debug\netcoreapp2.1\04. TrekkingMania.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\Exams\Exam-March2020\04. TrekkingMania\obj\Debug\netcoreapp2.1\04. TrekkingMania.AssemblyInfo.cs
+D:\Softuni\Задачи\Exams\Exam-March2020\04. TrekkingMania\obj\Debug\netcoreapp2.1\04. TrekkingMania.dll
+D:\Softuni\Задачи\Exams\Exam-March2020\04. TrekkingMania\obj\Debug\netcoreapp2.1\04. TrekkingMania.pdb

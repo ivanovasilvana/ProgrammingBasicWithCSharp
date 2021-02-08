@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Exam-March2020\03. FitnessCard\bin\Debug\netcoreapp2.1\03. FitnessCard.deps.json
+C:\Users\User\source\repos\Exam-March2020\03. FitnessCard\bin\Debug\netcoreapp2.1\03. FitnessCard.runtimeconfig.json
+C:\Users\User\source\repos\Exam-March2020\03. FitnessCard\bin\Debug\netcoreapp2.1\03. FitnessCard.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exam-March2020\03. FitnessCard\bin\Debug\netcoreapp2.1\03. FitnessCard.dll
+C:\Users\User\source\repos\Exam-March2020\03. FitnessCard\bin\Debug\netcoreapp2.1\03. FitnessCard.pdb
+C:\Users\User\source\repos\Exam-March2020\03. FitnessCard\obj\Debug\netcoreapp2.1\03. FitnessCard.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exam-March2020\03. FitnessCard\obj\Debug\netcoreapp2.1\03. FitnessCard.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exam-March2020\03. FitnessCard\obj\Debug\netcoreapp2.1\03. FitnessCard.AssemblyInfo.cs
+C:\Users\User\source\repos\Exam-March2020\03. FitnessCard\obj\Debug\netcoreapp2.1\03. FitnessCard.dll
+C:\Users\User\source\repos\Exam-March2020\03. FitnessCard\obj\Debug\netcoreapp2.1\03. FitnessCard.pdb

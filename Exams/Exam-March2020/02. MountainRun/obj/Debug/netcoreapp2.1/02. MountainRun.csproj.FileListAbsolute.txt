@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Exam-March2020\02. MountainRun\bin\Debug\netcoreapp2.1\02. MountainRun.deps.json
+C:\Users\User\source\repos\Exam-March2020\02. MountainRun\bin\Debug\netcoreapp2.1\02. MountainRun.runtimeconfig.json
+C:\Users\User\source\repos\Exam-March2020\02. MountainRun\bin\Debug\netcoreapp2.1\02. MountainRun.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exam-March2020\02. MountainRun\bin\Debug\netcoreapp2.1\02. MountainRun.dll
+C:\Users\User\source\repos\Exam-March2020\02. MountainRun\bin\Debug\netcoreapp2.1\02. MountainRun.pdb
+C:\Users\User\source\repos\Exam-March2020\02. MountainRun\obj\Debug\netcoreapp2.1\02. MountainRun.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exam-March2020\02. MountainRun\obj\Debug\netcoreapp2.1\02. MountainRun.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exam-March2020\02. MountainRun\obj\Debug\netcoreapp2.1\02. MountainRun.AssemblyInfo.cs
+C:\Users\User\source\repos\Exam-March2020\02. MountainRun\obj\Debug\netcoreapp2.1\02. MountainRun.dll
+C:\Users\User\source\repos\Exam-March2020\02. MountainRun\obj\Debug\netcoreapp2.1\02. MountainRun.pdb

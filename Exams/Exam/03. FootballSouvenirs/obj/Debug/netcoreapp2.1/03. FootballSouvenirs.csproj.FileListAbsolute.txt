@@ -1,0 +1,10 @@
+D:\Softuni\Задачи\Exams\Exam\03. FootballSouvenirs\bin\Debug\netcoreapp2.1\03. FootballSouvenirs.deps.json
+D:\Softuni\Задачи\Exams\Exam\03. FootballSouvenirs\bin\Debug\netcoreapp2.1\03. FootballSouvenirs.runtimeconfig.json
+D:\Softuni\Задачи\Exams\Exam\03. FootballSouvenirs\bin\Debug\netcoreapp2.1\03. FootballSouvenirs.runtimeconfig.dev.json
+D:\Softuni\Задачи\Exams\Exam\03. FootballSouvenirs\bin\Debug\netcoreapp2.1\03. FootballSouvenirs.dll
+D:\Softuni\Задачи\Exams\Exam\03. FootballSouvenirs\bin\Debug\netcoreapp2.1\03. FootballSouvenirs.pdb
+D:\Softuni\Задачи\Exams\Exam\03. FootballSouvenirs\obj\Debug\netcoreapp2.1\03. FootballSouvenirs.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\Exams\Exam\03. FootballSouvenirs\obj\Debug\netcoreapp2.1\03. FootballSouvenirs.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\Exams\Exam\03. FootballSouvenirs\obj\Debug\netcoreapp2.1\03. FootballSouvenirs.AssemblyInfo.cs
+D:\Softuni\Задачи\Exams\Exam\03. FootballSouvenirs\obj\Debug\netcoreapp2.1\03. FootballSouvenirs.dll
+D:\Softuni\Задачи\Exams\Exam\03. FootballSouvenirs\obj\Debug\netcoreapp2.1\03. FootballSouvenirs.pdb

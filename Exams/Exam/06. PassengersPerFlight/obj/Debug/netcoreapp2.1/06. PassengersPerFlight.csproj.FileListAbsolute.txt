@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\Exams\Exam\06. PassengersPerFlight\bin\Debug\netcoreapp2.1\06. PassengersPerFlight.deps.json
+D:\Softuni\Задачи\Exams\Exam\06. PassengersPerFlight\bin\Debug\netcoreapp2.1\06. PassengersPerFlight.runtimeconfig.json
+D:\Softuni\Задачи\Exams\Exam\06. PassengersPerFlight\bin\Debug\netcoreapp2.1\06. PassengersPerFlight.runtimeconfig.dev.json
+D:\Softuni\Задачи\Exams\Exam\06. PassengersPerFlight\bin\Debug\netcoreapp2.1\06. PassengersPerFlight.dll
+D:\Softuni\Задачи\Exams\Exam\06. PassengersPerFlight\bin\Debug\netcoreapp2.1\06. PassengersPerFlight.pdb
+D:\Softuni\Задачи\Exams\Exam\06. PassengersPerFlight\obj\Debug\netcoreapp2.1\06. PassengersPerFlight.csprojAssemblyReference.cache
+D:\Softuni\Задачи\Exams\Exam\06. PassengersPerFlight\obj\Debug\netcoreapp2.1\06. PassengersPerFlight.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\Exams\Exam\06. PassengersPerFlight\obj\Debug\netcoreapp2.1\06. PassengersPerFlight.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\Exams\Exam\06. PassengersPerFlight\obj\Debug\netcoreapp2.1\06. PassengersPerFlight.AssemblyInfo.cs
+D:\Softuni\Задачи\Exams\Exam\06. PassengersPerFlight\obj\Debug\netcoreapp2.1\06. PassengersPerFlight.dll
+D:\Softuni\Задачи\Exams\Exam\06. PassengersPerFlight\obj\Debug\netcoreapp2.1\06. PassengersPerFlight.pdb

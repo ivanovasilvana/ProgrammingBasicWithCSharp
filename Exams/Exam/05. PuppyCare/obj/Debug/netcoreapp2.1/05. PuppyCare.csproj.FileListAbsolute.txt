@@ -1,0 +1,10 @@
+D:\Softuni\Задачи\Exams\Exam\05. PuppyCare\bin\Debug\netcoreapp2.1\05. PuppyCare.deps.json
+D:\Softuni\Задачи\Exams\Exam\05. PuppyCare\bin\Debug\netcoreapp2.1\05. PuppyCare.runtimeconfig.json
+D:\Softuni\Задачи\Exams\Exam\05. PuppyCare\bin\Debug\netcoreapp2.1\05. PuppyCare.runtimeconfig.dev.json
+D:\Softuni\Задачи\Exams\Exam\05. PuppyCare\bin\Debug\netcoreapp2.1\05. PuppyCare.dll
+D:\Softuni\Задачи\Exams\Exam\05. PuppyCare\bin\Debug\netcoreapp2.1\05. PuppyCare.pdb
+D:\Softuni\Задачи\Exams\Exam\05. PuppyCare\obj\Debug\netcoreapp2.1\05. PuppyCare.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\Exams\Exam\05. PuppyCare\obj\Debug\netcoreapp2.1\05. PuppyCare.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\Exams\Exam\05. PuppyCare\obj\Debug\netcoreapp2.1\05. PuppyCare.AssemblyInfo.cs
+D:\Softuni\Задачи\Exams\Exam\05. PuppyCare\obj\Debug\netcoreapp2.1\05. PuppyCare.dll
+D:\Softuni\Задачи\Exams\Exam\05. PuppyCare\obj\Debug\netcoreapp2.1\05. PuppyCare.pdb
