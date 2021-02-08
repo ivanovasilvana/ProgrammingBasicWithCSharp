@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\5.1 While Loop - Lab\7.MinNumber\bin\Debug\netcoreapp2.1\7.MinNumber.deps.json
+D:\Softuni\Задачи\5.1 While Loop - Lab\7.MinNumber\bin\Debug\netcoreapp2.1\7.MinNumber.runtimeconfig.json
+D:\Softuni\Задачи\5.1 While Loop - Lab\7.MinNumber\bin\Debug\netcoreapp2.1\7.MinNumber.runtimeconfig.dev.json
+D:\Softuni\Задачи\5.1 While Loop - Lab\7.MinNumber\bin\Debug\netcoreapp2.1\7.MinNumber.dll
+D:\Softuni\Задачи\5.1 While Loop - Lab\7.MinNumber\bin\Debug\netcoreapp2.1\7.MinNumber.pdb
+D:\Softuni\Задачи\5.1 While Loop - Lab\7.MinNumber\obj\Debug\netcoreapp2.1\7.MinNumber.csprojAssemblyReference.cache
+D:\Softuni\Задачи\5.1 While Loop - Lab\7.MinNumber\obj\Debug\netcoreapp2.1\7.MinNumber.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\5.1 While Loop - Lab\7.MinNumber\obj\Debug\netcoreapp2.1\7.MinNumber.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\5.1 While Loop - Lab\7.MinNumber\obj\Debug\netcoreapp2.1\7.MinNumber.AssemblyInfo.cs
+D:\Softuni\Задачи\5.1 While Loop - Lab\7.MinNumber\obj\Debug\netcoreapp2.1\7.MinNumber.dll
+D:\Softuni\Задачи\5.1 While Loop - Lab\7.MinNumber\obj\Debug\netcoreapp2.1\7.MinNumber.pdb

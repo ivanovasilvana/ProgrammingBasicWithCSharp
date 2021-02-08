@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\5.1 While Loop - Lab\5.AccountBalance\bin\Debug\netcoreapp2.1\5.AccountBalance.deps.json
+D:\Softuni\Задачи\5.1 While Loop - Lab\5.AccountBalance\bin\Debug\netcoreapp2.1\5.AccountBalance.runtimeconfig.json
+D:\Softuni\Задачи\5.1 While Loop - Lab\5.AccountBalance\bin\Debug\netcoreapp2.1\5.AccountBalance.runtimeconfig.dev.json
+D:\Softuni\Задачи\5.1 While Loop - Lab\5.AccountBalance\bin\Debug\netcoreapp2.1\5.AccountBalance.dll
+D:\Softuni\Задачи\5.1 While Loop - Lab\5.AccountBalance\bin\Debug\netcoreapp2.1\5.AccountBalance.pdb
+D:\Softuni\Задачи\5.1 While Loop - Lab\5.AccountBalance\obj\Debug\netcoreapp2.1\5.AccountBalance.csprojAssemblyReference.cache
+D:\Softuni\Задачи\5.1 While Loop - Lab\5.AccountBalance\obj\Debug\netcoreapp2.1\5.AccountBalance.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\5.1 While Loop - Lab\5.AccountBalance\obj\Debug\netcoreapp2.1\5.AccountBalance.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\5.1 While Loop - Lab\5.AccountBalance\obj\Debug\netcoreapp2.1\5.AccountBalance.AssemblyInfo.cs
+D:\Softuni\Задачи\5.1 While Loop - Lab\5.AccountBalance\obj\Debug\netcoreapp2.1\5.AccountBalance.dll
+D:\Softuni\Задачи\5.1 While Loop - Lab\5.AccountBalance\obj\Debug\netcoreapp2.1\5.AccountBalance.pdb

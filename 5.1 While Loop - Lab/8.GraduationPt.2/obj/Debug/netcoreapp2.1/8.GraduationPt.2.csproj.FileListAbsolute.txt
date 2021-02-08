@@ -1,0 +1,22 @@
+D:\Softuni\Задачи\4.1While Loop - Lab\8.GraduationPt.2\bin\Debug\netcoreapp2.1\8.GraduationPt.2.deps.json
+D:\Softuni\Задачи\4.1While Loop - Lab\8.GraduationPt.2\bin\Debug\netcoreapp2.1\8.GraduationPt.2.runtimeconfig.json
+D:\Softuni\Задачи\4.1While Loop - Lab\8.GraduationPt.2\bin\Debug\netcoreapp2.1\8.GraduationPt.2.runtimeconfig.dev.json
+D:\Softuni\Задачи\4.1While Loop - Lab\8.GraduationPt.2\bin\Debug\netcoreapp2.1\8.GraduationPt.2.dll
+D:\Softuni\Задачи\4.1While Loop - Lab\8.GraduationPt.2\bin\Debug\netcoreapp2.1\8.GraduationPt.2.pdb
+D:\Softuni\Задачи\4.1While Loop - Lab\8.GraduationPt.2\obj\Debug\netcoreapp2.1\8.GraduationPt.2.csprojAssemblyReference.cache
+D:\Softuni\Задачи\4.1While Loop - Lab\8.GraduationPt.2\obj\Debug\netcoreapp2.1\8.GraduationPt.2.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\4.1While Loop - Lab\8.GraduationPt.2\obj\Debug\netcoreapp2.1\8.GraduationPt.2.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\4.1While Loop - Lab\8.GraduationPt.2\obj\Debug\netcoreapp2.1\8.GraduationPt.2.AssemblyInfo.cs
+D:\Softuni\Задачи\4.1While Loop - Lab\8.GraduationPt.2\obj\Debug\netcoreapp2.1\8.GraduationPt.2.dll
+D:\Softuni\Задачи\4.1While Loop - Lab\8.GraduationPt.2\obj\Debug\netcoreapp2.1\8.GraduationPt.2.pdb
+D:\Softuni\Задачи\5.1 While Loop - Lab\8.GraduationPt.2\bin\Debug\netcoreapp2.1\8.GraduationPt.2.deps.json
+D:\Softuni\Задачи\5.1 While Loop - Lab\8.GraduationPt.2\bin\Debug\netcoreapp2.1\8.GraduationPt.2.runtimeconfig.json
+D:\Softuni\Задачи\5.1 While Loop - Lab\8.GraduationPt.2\bin\Debug\netcoreapp2.1\8.GraduationPt.2.runtimeconfig.dev.json
+D:\Softuni\Задачи\5.1 While Loop - Lab\8.GraduationPt.2\bin\Debug\netcoreapp2.1\8.GraduationPt.2.dll
+D:\Softuni\Задачи\5.1 While Loop - Lab\8.GraduationPt.2\bin\Debug\netcoreapp2.1\8.GraduationPt.2.pdb
+D:\Softuni\Задачи\5.1 While Loop - Lab\8.GraduationPt.2\obj\Debug\netcoreapp2.1\8.GraduationPt.2.csprojAssemblyReference.cache
+D:\Softuni\Задачи\5.1 While Loop - Lab\8.GraduationPt.2\obj\Debug\netcoreapp2.1\8.GraduationPt.2.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\5.1 While Loop - Lab\8.GraduationPt.2\obj\Debug\netcoreapp2.1\8.GraduationPt.2.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\5.1 While Loop - Lab\8.GraduationPt.2\obj\Debug\netcoreapp2.1\8.GraduationPt.2.AssemblyInfo.cs
+D:\Softuni\Задачи\5.1 While Loop - Lab\8.GraduationPt.2\obj\Debug\netcoreapp2.1\8.GraduationPt.2.dll
+D:\Softuni\Задачи\5.1 While Loop - Lab\8.GraduationPt.2\obj\Debug\netcoreapp2.1\8.GraduationPt.2.pdb

@@ -1,0 +1,22 @@
+D:\Softuni\Задачи\4.1While Loop - Lab\6.MaxNumber\bin\Debug\netcoreapp2.1\6.MaxNumber.deps.json
+D:\Softuni\Задачи\4.1While Loop - Lab\6.MaxNumber\bin\Debug\netcoreapp2.1\6.MaxNumber.runtimeconfig.json
+D:\Softuni\Задачи\4.1While Loop - Lab\6.MaxNumber\bin\Debug\netcoreapp2.1\6.MaxNumber.runtimeconfig.dev.json
+D:\Softuni\Задачи\4.1While Loop - Lab\6.MaxNumber\bin\Debug\netcoreapp2.1\6.MaxNumber.dll
+D:\Softuni\Задачи\4.1While Loop - Lab\6.MaxNumber\bin\Debug\netcoreapp2.1\6.MaxNumber.pdb
+D:\Softuni\Задачи\4.1While Loop - Lab\6.MaxNumber\obj\Debug\netcoreapp2.1\6.MaxNumber.csprojAssemblyReference.cache
+D:\Softuni\Задачи\4.1While Loop - Lab\6.MaxNumber\obj\Debug\netcoreapp2.1\6.MaxNumber.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\4.1While Loop - Lab\6.MaxNumber\obj\Debug\netcoreapp2.1\6.MaxNumber.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\4.1While Loop - Lab\6.MaxNumber\obj\Debug\netcoreapp2.1\6.MaxNumber.AssemblyInfo.cs
+D:\Softuni\Задачи\4.1While Loop - Lab\6.MaxNumber\obj\Debug\netcoreapp2.1\6.MaxNumber.dll
+D:\Softuni\Задачи\4.1While Loop - Lab\6.MaxNumber\obj\Debug\netcoreapp2.1\6.MaxNumber.pdb
+D:\Softuni\Задачи\5.1 While Loop - Lab\6.MaxNumber\bin\Debug\netcoreapp2.1\6.MaxNumber.deps.json
+D:\Softuni\Задачи\5.1 While Loop - Lab\6.MaxNumber\bin\Debug\netcoreapp2.1\6.MaxNumber.runtimeconfig.json
+D:\Softuni\Задачи\5.1 While Loop - Lab\6.MaxNumber\bin\Debug\netcoreapp2.1\6.MaxNumber.runtimeconfig.dev.json
+D:\Softuni\Задачи\5.1 While Loop - Lab\6.MaxNumber\bin\Debug\netcoreapp2.1\6.MaxNumber.dll
+D:\Softuni\Задачи\5.1 While Loop - Lab\6.MaxNumber\bin\Debug\netcoreapp2.1\6.MaxNumber.pdb
+D:\Softuni\Задачи\5.1 While Loop - Lab\6.MaxNumber\obj\Debug\netcoreapp2.1\6.MaxNumber.csprojAssemblyReference.cache
+D:\Softuni\Задачи\5.1 While Loop - Lab\6.MaxNumber\obj\Debug\netcoreapp2.1\6.MaxNumber.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\5.1 While Loop - Lab\6.MaxNumber\obj\Debug\netcoreapp2.1\6.MaxNumber.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\5.1 While Loop - Lab\6.MaxNumber\obj\Debug\netcoreapp2.1\6.MaxNumber.AssemblyInfo.cs
+D:\Softuni\Задачи\5.1 While Loop - Lab\6.MaxNumber\obj\Debug\netcoreapp2.1\6.MaxNumber.dll
+D:\Softuni\Задачи\5.1 While Loop - Lab\6.MaxNumber\obj\Debug\netcoreapp2.1\6.MaxNumber.pdb
