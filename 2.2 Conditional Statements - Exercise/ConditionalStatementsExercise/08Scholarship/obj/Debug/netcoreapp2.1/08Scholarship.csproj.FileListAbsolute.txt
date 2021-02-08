@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\08Scholarship\obj\Debug\netcoreapp2.1\08Scholarship.csprojAssemblyReference.cache
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\08Scholarship\obj\Debug\netcoreapp2.1\08Scholarship.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\08Scholarship\obj\Debug\netcoreapp2.1\08Scholarship.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\08Scholarship\obj\Debug\netcoreapp2.1\08Scholarship.AssemblyInfo.cs
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\08Scholarship\bin\Debug\netcoreapp2.1\08Scholarship.deps.json
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\08Scholarship\bin\Debug\netcoreapp2.1\08Scholarship.runtimeconfig.json
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\08Scholarship\bin\Debug\netcoreapp2.1\08Scholarship.runtimeconfig.dev.json
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\08Scholarship\bin\Debug\netcoreapp2.1\08Scholarship.dll
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\08Scholarship\bin\Debug\netcoreapp2.1\08Scholarship.pdb
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\08Scholarship\obj\Debug\netcoreapp2.1\08Scholarship.dll
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\08Scholarship\obj\Debug\netcoreapp2.1\08Scholarship.pdb
