@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\6Bills\bin\Debug\netcoreapp2.1\6Bills.deps.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\6Bills\bin\Debug\netcoreapp2.1\6Bills.runtimeconfig.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\6Bills\bin\Debug\netcoreapp2.1\6Bills.runtimeconfig.dev.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\6Bills\bin\Debug\netcoreapp2.1\6Bills.dll
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\6Bills\bin\Debug\netcoreapp2.1\6Bills.pdb
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\6Bills\obj\Debug\netcoreapp2.1\6Bills.csprojAssemblyReference.cache
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\6Bills\obj\Debug\netcoreapp2.1\6Bills.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\6Bills\obj\Debug\netcoreapp2.1\6Bills.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\6Bills\obj\Debug\netcoreapp2.1\6Bills.AssemblyInfo.cs
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\6Bills\obj\Debug\netcoreapp2.1\6Bills.dll
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\6Bills\obj\Debug\netcoreapp2.1\6Bills.pdb

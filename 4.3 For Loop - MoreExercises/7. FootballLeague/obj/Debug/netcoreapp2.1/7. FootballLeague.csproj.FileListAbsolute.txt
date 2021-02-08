@@ -1,0 +1,10 @@
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\7. FootballLeague\bin\Debug\netcoreapp2.1\7. FootballLeague.deps.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\7. FootballLeague\bin\Debug\netcoreapp2.1\7. FootballLeague.runtimeconfig.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\7. FootballLeague\bin\Debug\netcoreapp2.1\7. FootballLeague.runtimeconfig.dev.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\7. FootballLeague\bin\Debug\netcoreapp2.1\7. FootballLeague.dll
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\7. FootballLeague\bin\Debug\netcoreapp2.1\7. FootballLeague.pdb
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\7. FootballLeague\obj\Debug\netcoreapp2.1\7. FootballLeague.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\7. FootballLeague\obj\Debug\netcoreapp2.1\7. FootballLeague.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\7. FootballLeague\obj\Debug\netcoreapp2.1\7. FootballLeague.AssemblyInfo.cs
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\7. FootballLeague\obj\Debug\netcoreapp2.1\7. FootballLeague.dll
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\7. FootballLeague\obj\Debug\netcoreapp2.1\7. FootballLeague.pdb

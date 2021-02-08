@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\8. EqualPairs\bin\Debug\netcoreapp2.1\8. EqualPairs.deps.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\8. EqualPairs\bin\Debug\netcoreapp2.1\8. EqualPairs.runtimeconfig.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\8. EqualPairs\bin\Debug\netcoreapp2.1\8. EqualPairs.runtimeconfig.dev.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\8. EqualPairs\bin\Debug\netcoreapp2.1\8. EqualPairs.dll
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\8. EqualPairs\bin\Debug\netcoreapp2.1\8. EqualPairs.pdb
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\8. EqualPairs\obj\Debug\netcoreapp2.1\8. EqualPairs.csprojAssemblyReference.cache
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\8. EqualPairs\obj\Debug\netcoreapp2.1\8. EqualPairs.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\8. EqualPairs\obj\Debug\netcoreapp2.1\8. EqualPairs.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\8. EqualPairs\obj\Debug\netcoreapp2.1\8. EqualPairs.AssemblyInfo.cs
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\8. EqualPairs\obj\Debug\netcoreapp2.1\8. EqualPairs.dll
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\8. EqualPairs\obj\Debug\netcoreapp2.1\8. EqualPairs.pdb

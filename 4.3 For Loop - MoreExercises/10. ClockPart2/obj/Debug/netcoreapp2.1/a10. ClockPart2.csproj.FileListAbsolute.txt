@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\10. ClockPart2\bin\Debug\netcoreapp2.1\a10. ClockPart2.deps.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\10. ClockPart2\bin\Debug\netcoreapp2.1\a10. ClockPart2.runtimeconfig.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\10. ClockPart2\bin\Debug\netcoreapp2.1\a10. ClockPart2.runtimeconfig.dev.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\10. ClockPart2\bin\Debug\netcoreapp2.1\a10. ClockPart2.dll
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\10. ClockPart2\bin\Debug\netcoreapp2.1\a10. ClockPart2.pdb
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\10. ClockPart2\obj\Debug\netcoreapp2.1\a10. ClockPart2.csprojAssemblyReference.cache
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\10. ClockPart2\obj\Debug\netcoreapp2.1\a10. ClockPart2.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\10. ClockPart2\obj\Debug\netcoreapp2.1\a10. ClockPart2.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\10. ClockPart2\obj\Debug\netcoreapp2.1\a10. ClockPart2.AssemblyInfo.cs
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\10. ClockPart2\obj\Debug\netcoreapp2.1\a10. ClockPart2.dll
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\10. ClockPart2\obj\Debug\netcoreapp2.1\a10. ClockPart2.pdb

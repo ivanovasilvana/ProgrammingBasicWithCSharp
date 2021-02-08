@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\4.3ForLoopMoreExercises\1.BackToThePast\bin\Debug\netcoreapp2.1\1.BackToThePast.deps.json
+C:\Users\User\source\repos\4.3ForLoopMoreExercises\1.BackToThePast\bin\Debug\netcoreapp2.1\1.BackToThePast.runtimeconfig.json
+C:\Users\User\source\repos\4.3ForLoopMoreExercises\1.BackToThePast\bin\Debug\netcoreapp2.1\1.BackToThePast.runtimeconfig.dev.json
+C:\Users\User\source\repos\4.3ForLoopMoreExercises\1.BackToThePast\bin\Debug\netcoreapp2.1\1.BackToThePast.dll
+C:\Users\User\source\repos\4.3ForLoopMoreExercises\1.BackToThePast\bin\Debug\netcoreapp2.1\1.BackToThePast.pdb
+C:\Users\User\source\repos\4.3ForLoopMoreExercises\1.BackToThePast\obj\Debug\netcoreapp2.1\1.BackToThePast.csprojAssemblyReference.cache
+C:\Users\User\source\repos\4.3ForLoopMoreExercises\1.BackToThePast\obj\Debug\netcoreapp2.1\1.BackToThePast.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\4.3ForLoopMoreExercises\1.BackToThePast\obj\Debug\netcoreapp2.1\1.BackToThePast.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\4.3ForLoopMoreExercises\1.BackToThePast\obj\Debug\netcoreapp2.1\1.BackToThePast.AssemblyInfo.cs
+C:\Users\User\source\repos\4.3ForLoopMoreExercises\1.BackToThePast\obj\Debug\netcoreapp2.1\1.BackToThePast.dll
+C:\Users\User\source\repos\4.3ForLoopMoreExercises\1.BackToThePast\obj\Debug\netcoreapp2.1\1.BackToThePast.pdb
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\1.BackToThePast\bin\Debug\netcoreapp2.1\1.BackToThePast.deps.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\1.BackToThePast\bin\Debug\netcoreapp2.1\1.BackToThePast.runtimeconfig.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\1.BackToThePast\bin\Debug\netcoreapp2.1\1.BackToThePast.runtimeconfig.dev.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\1.BackToThePast\bin\Debug\netcoreapp2.1\1.BackToThePast.dll
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\1.BackToThePast\bin\Debug\netcoreapp2.1\1.BackToThePast.pdb
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\1.BackToThePast\obj\Debug\netcoreapp2.1\1.BackToThePast.csprojAssemblyReference.cache
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\1.BackToThePast\obj\Debug\netcoreapp2.1\1.BackToThePast.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\1.BackToThePast\obj\Debug\netcoreapp2.1\1.BackToThePast.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\1.BackToThePast\obj\Debug\netcoreapp2.1\1.BackToThePast.AssemblyInfo.cs
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\1.BackToThePast\obj\Debug\netcoreapp2.1\1.BackToThePast.dll
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\1.BackToThePast\obj\Debug\netcoreapp2.1\1.BackToThePast.pdb

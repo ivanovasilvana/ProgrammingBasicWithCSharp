@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\2.Hospital\bin\Debug\netcoreapp2.1\2.Hospital.deps.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\2.Hospital\bin\Debug\netcoreapp2.1\2.Hospital.runtimeconfig.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\2.Hospital\bin\Debug\netcoreapp2.1\2.Hospital.runtimeconfig.dev.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\2.Hospital\bin\Debug\netcoreapp2.1\2.Hospital.dll
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\2.Hospital\bin\Debug\netcoreapp2.1\2.Hospital.pdb
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\2.Hospital\obj\Debug\netcoreapp2.1\2.Hospital.csprojAssemblyReference.cache
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\2.Hospital\obj\Debug\netcoreapp2.1\2.Hospital.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\2.Hospital\obj\Debug\netcoreapp2.1\2.Hospital.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\2.Hospital\obj\Debug\netcoreapp2.1\2.Hospital.AssemblyInfo.cs
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\2.Hospital\obj\Debug\netcoreapp2.1\2.Hospital.dll
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\2.Hospital\obj\Debug\netcoreapp2.1\2.Hospital.pdb

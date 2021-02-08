@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\4.Grades\bin\Debug\netcoreapp2.1\4.Grades.deps.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\4.Grades\bin\Debug\netcoreapp2.1\4.Grades.runtimeconfig.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\4.Grades\bin\Debug\netcoreapp2.1\4.Grades.runtimeconfig.dev.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\4.Grades\bin\Debug\netcoreapp2.1\4.Grades.dll
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\4.Grades\bin\Debug\netcoreapp2.1\4.Grades.pdb
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\4.Grades\obj\Debug\netcoreapp2.1\4.Grades.csprojAssemblyReference.cache
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\4.Grades\obj\Debug\netcoreapp2.1\4.Grades.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\4.Grades\obj\Debug\netcoreapp2.1\4.Grades.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\4.Grades\obj\Debug\netcoreapp2.1\4.Grades.AssemblyInfo.cs
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\4.Grades\obj\Debug\netcoreapp2.1\4.Grades.dll
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\4.Grades\obj\Debug\netcoreapp2.1\4.Grades.pdb

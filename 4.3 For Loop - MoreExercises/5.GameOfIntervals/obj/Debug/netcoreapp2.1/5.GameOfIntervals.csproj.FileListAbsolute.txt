@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\5.GameOfIntervals\bin\Debug\netcoreapp2.1\5.GameOfIntervals.deps.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\5.GameOfIntervals\bin\Debug\netcoreapp2.1\5.GameOfIntervals.runtimeconfig.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\5.GameOfIntervals\bin\Debug\netcoreapp2.1\5.GameOfIntervals.runtimeconfig.dev.json
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\5.GameOfIntervals\bin\Debug\netcoreapp2.1\5.GameOfIntervals.dll
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\5.GameOfIntervals\bin\Debug\netcoreapp2.1\5.GameOfIntervals.pdb
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\5.GameOfIntervals\obj\Debug\netcoreapp2.1\5.GameOfIntervals.csprojAssemblyReference.cache
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\5.GameOfIntervals\obj\Debug\netcoreapp2.1\5.GameOfIntervals.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\5.GameOfIntervals\obj\Debug\netcoreapp2.1\5.GameOfIntervals.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\5.GameOfIntervals\obj\Debug\netcoreapp2.1\5.GameOfIntervals.AssemblyInfo.cs
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\5.GameOfIntervals\obj\Debug\netcoreapp2.1\5.GameOfIntervals.dll
+D:\Softuni\Задачи\4.3 For Loop - MoreExercises\5.GameOfIntervals\obj\Debug\netcoreapp2.1\5.GameOfIntervals.pdb
