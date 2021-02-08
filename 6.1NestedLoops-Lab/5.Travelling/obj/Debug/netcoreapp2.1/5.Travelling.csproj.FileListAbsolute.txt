@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\6.1NestedLoops-Lab\5.Travelling\bin\Debug\netcoreapp2.1\5.Travelling.deps.json
+C:\Users\User\source\repos\6.1NestedLoops-Lab\5.Travelling\bin\Debug\netcoreapp2.1\5.Travelling.runtimeconfig.json
+C:\Users\User\source\repos\6.1NestedLoops-Lab\5.Travelling\bin\Debug\netcoreapp2.1\5.Travelling.runtimeconfig.dev.json
+C:\Users\User\source\repos\6.1NestedLoops-Lab\5.Travelling\bin\Debug\netcoreapp2.1\5.Travelling.dll
+C:\Users\User\source\repos\6.1NestedLoops-Lab\5.Travelling\bin\Debug\netcoreapp2.1\5.Travelling.pdb
+C:\Users\User\source\repos\6.1NestedLoops-Lab\5.Travelling\obj\Debug\netcoreapp2.1\5.Travelling.csprojAssemblyReference.cache
+C:\Users\User\source\repos\6.1NestedLoops-Lab\5.Travelling\obj\Debug\netcoreapp2.1\5.Travelling.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\6.1NestedLoops-Lab\5.Travelling\obj\Debug\netcoreapp2.1\5.Travelling.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\6.1NestedLoops-Lab\5.Travelling\obj\Debug\netcoreapp2.1\5.Travelling.AssemblyInfo.cs
+C:\Users\User\source\repos\6.1NestedLoops-Lab\5.Travelling\obj\Debug\netcoreapp2.1\5.Travelling.dll
+C:\Users\User\source\repos\6.1NestedLoops-Lab\5.Travelling\obj\Debug\netcoreapp2.1\5.Travelling.pdb
