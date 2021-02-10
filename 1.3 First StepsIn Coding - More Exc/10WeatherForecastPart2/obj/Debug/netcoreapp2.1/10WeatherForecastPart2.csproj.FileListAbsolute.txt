@@ -1,0 +1,10 @@
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\10WeatherForecastPart2\bin\Debug\netcoreapp2.1\10WeatherForecastPart2.deps.json
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\10WeatherForecastPart2\bin\Debug\netcoreapp2.1\10WeatherForecastPart2.runtimeconfig.json
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\10WeatherForecastPart2\bin\Debug\netcoreapp2.1\10WeatherForecastPart2.runtimeconfig.dev.json
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\10WeatherForecastPart2\bin\Debug\netcoreapp2.1\10WeatherForecastPart2.dll
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\10WeatherForecastPart2\bin\Debug\netcoreapp2.1\10WeatherForecastPart2.pdb
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\10WeatherForecastPart2\obj\Debug\netcoreapp2.1\10WeatherForecastPart2.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\10WeatherForecastPart2\obj\Debug\netcoreapp2.1\10WeatherForecastPart2.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\10WeatherForecastPart2\obj\Debug\netcoreapp2.1\10WeatherForecastPart2.AssemblyInfo.cs
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\10WeatherForecastPart2\obj\Debug\netcoreapp2.1\10WeatherForecastPart2.dll
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\10WeatherForecastPart2\obj\Debug\netcoreapp2.1\10WeatherForecastPart2.pdb

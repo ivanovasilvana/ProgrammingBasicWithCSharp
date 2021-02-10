@@ -1,0 +1,10 @@
+D:\Softuni\Задачи\SimpleCalculationExc\SimpleCalculationExc\SimpleCalculationExc\bin\Debug\netcoreapp2.1\1USDtoBGN.deps.json
+D:\Softuni\Задачи\SimpleCalculationExc\SimpleCalculationExc\SimpleCalculationExc\bin\Debug\netcoreapp2.1\1USDtoBGN.runtimeconfig.json
+D:\Softuni\Задачи\SimpleCalculationExc\SimpleCalculationExc\SimpleCalculationExc\bin\Debug\netcoreapp2.1\1USDtoBGN.runtimeconfig.dev.json
+D:\Softuni\Задачи\SimpleCalculationExc\SimpleCalculationExc\SimpleCalculationExc\bin\Debug\netcoreapp2.1\1USDtoBGN.dll
+D:\Softuni\Задачи\SimpleCalculationExc\SimpleCalculationExc\SimpleCalculationExc\bin\Debug\netcoreapp2.1\1USDtoBGN.pdb
+D:\Softuni\Задачи\SimpleCalculationExc\SimpleCalculationExc\SimpleCalculationExc\obj\Debug\netcoreapp2.1\1USDtoBGN.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\SimpleCalculationExc\SimpleCalculationExc\SimpleCalculationExc\obj\Debug\netcoreapp2.1\1USDtoBGN.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\SimpleCalculationExc\SimpleCalculationExc\SimpleCalculationExc\obj\Debug\netcoreapp2.1\1USDtoBGN.AssemblyInfo.cs
+D:\Softuni\Задачи\SimpleCalculationExc\SimpleCalculationExc\SimpleCalculationExc\obj\Debug\netcoreapp2.1\1USDtoBGN.dll
+D:\Softuni\Задачи\SimpleCalculationExc\SimpleCalculationExc\SimpleCalculationExc\obj\Debug\netcoreapp2.1\1USDtoBGN.pdb

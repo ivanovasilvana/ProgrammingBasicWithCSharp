@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\3.3 Conditional Statements Advanced - More Exc\3.3 Conditional Statements Advanced - More Exc\7.SchoolCamp\bin\Debug\netcoreapp2.1\7.SchoolCamp.deps.json
+D:\Softuni\Задачи\3.3 Conditional Statements Advanced - More Exc\3.3 Conditional Statements Advanced - More Exc\7.SchoolCamp\bin\Debug\netcoreapp2.1\7.SchoolCamp.runtimeconfig.json
+D:\Softuni\Задачи\3.3 Conditional Statements Advanced - More Exc\3.3 Conditional Statements Advanced - More Exc\7.SchoolCamp\bin\Debug\netcoreapp2.1\7.SchoolCamp.runtimeconfig.dev.json
+D:\Softuni\Задачи\3.3 Conditional Statements Advanced - More Exc\3.3 Conditional Statements Advanced - More Exc\7.SchoolCamp\bin\Debug\netcoreapp2.1\7.SchoolCamp.dll
+D:\Softuni\Задачи\3.3 Conditional Statements Advanced - More Exc\3.3 Conditional Statements Advanced - More Exc\7.SchoolCamp\bin\Debug\netcoreapp2.1\7.SchoolCamp.pdb
+D:\Softuni\Задачи\3.3 Conditional Statements Advanced - More Exc\3.3 Conditional Statements Advanced - More Exc\7.SchoolCamp\obj\Debug\netcoreapp2.1\7.SchoolCamp.csprojAssemblyReference.cache
+D:\Softuni\Задачи\3.3 Conditional Statements Advanced - More Exc\3.3 Conditional Statements Advanced - More Exc\7.SchoolCamp\obj\Debug\netcoreapp2.1\7.SchoolCamp.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\3.3 Conditional Statements Advanced - More Exc\3.3 Conditional Statements Advanced - More Exc\7.SchoolCamp\obj\Debug\netcoreapp2.1\7.SchoolCamp.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\3.3 Conditional Statements Advanced - More Exc\3.3 Conditional Statements Advanced - More Exc\7.SchoolCamp\obj\Debug\netcoreapp2.1\7.SchoolCamp.AssemblyInfo.cs
+D:\Softuni\Задачи\3.3 Conditional Statements Advanced - More Exc\3.3 Conditional Statements Advanced - More Exc\7.SchoolCamp\obj\Debug\netcoreapp2.1\7.SchoolCamp.dll
+D:\Softuni\Задачи\3.3 Conditional Statements Advanced - More Exc\3.3 Conditional Statements Advanced - More Exc\7.SchoolCamp\obj\Debug\netcoreapp2.1\7.SchoolCamp.pdb

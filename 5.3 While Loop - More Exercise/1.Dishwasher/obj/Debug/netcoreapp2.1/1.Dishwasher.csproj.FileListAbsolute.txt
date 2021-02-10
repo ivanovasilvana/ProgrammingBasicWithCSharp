@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\5.3 While Loop - More Exercise\5.3WhileLoopMoreExercise\1.Dishwasher\bin\Debug\netcoreapp2.1\1.Dishwasher.deps.json
+D:\Softuni\Задачи\5.3 While Loop - More Exercise\5.3WhileLoopMoreExercise\1.Dishwasher\bin\Debug\netcoreapp2.1\1.Dishwasher.runtimeconfig.json
+D:\Softuni\Задачи\5.3 While Loop - More Exercise\5.3WhileLoopMoreExercise\1.Dishwasher\bin\Debug\netcoreapp2.1\1.Dishwasher.runtimeconfig.dev.json
+D:\Softuni\Задачи\5.3 While Loop - More Exercise\5.3WhileLoopMoreExercise\1.Dishwasher\bin\Debug\netcoreapp2.1\1.Dishwasher.dll
+D:\Softuni\Задачи\5.3 While Loop - More Exercise\5.3WhileLoopMoreExercise\1.Dishwasher\bin\Debug\netcoreapp2.1\1.Dishwasher.pdb
+D:\Softuni\Задачи\5.3 While Loop - More Exercise\5.3WhileLoopMoreExercise\1.Dishwasher\obj\Debug\netcoreapp2.1\1.Dishwasher.csprojAssemblyReference.cache
+D:\Softuni\Задачи\5.3 While Loop - More Exercise\5.3WhileLoopMoreExercise\1.Dishwasher\obj\Debug\netcoreapp2.1\1.Dishwasher.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\5.3 While Loop - More Exercise\5.3WhileLoopMoreExercise\1.Dishwasher\obj\Debug\netcoreapp2.1\1.Dishwasher.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\5.3 While Loop - More Exercise\5.3WhileLoopMoreExercise\1.Dishwasher\obj\Debug\netcoreapp2.1\1.Dishwasher.AssemblyInfo.cs
+D:\Softuni\Задачи\5.3 While Loop - More Exercise\5.3WhileLoopMoreExercise\1.Dishwasher\obj\Debug\netcoreapp2.1\1.Dishwasher.dll
+D:\Softuni\Задачи\5.3 While Loop - More Exercise\5.3WhileLoopMoreExercise\1.Dishwasher\obj\Debug\netcoreapp2.1\1.Dishwasher.pdb

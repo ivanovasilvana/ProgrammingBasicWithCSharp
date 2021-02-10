@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\04MetricConverter\bin\Debug\netcoreapp2.1\04MetricConverter.deps.json
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\04MetricConverter\bin\Debug\netcoreapp2.1\04MetricConverter.runtimeconfig.json
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\04MetricConverter\bin\Debug\netcoreapp2.1\04MetricConverter.runtimeconfig.dev.json
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\04MetricConverter\bin\Debug\netcoreapp2.1\04MetricConverter.dll
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\04MetricConverter\bin\Debug\netcoreapp2.1\04MetricConverter.pdb
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\04MetricConverter\obj\Debug\netcoreapp2.1\04MetricConverter.csprojAssemblyReference.cache
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\04MetricConverter\obj\Debug\netcoreapp2.1\04MetricConverter.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\04MetricConverter\obj\Debug\netcoreapp2.1\04MetricConverter.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\04MetricConverter\obj\Debug\netcoreapp2.1\04MetricConverter.AssemblyInfo.cs
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\04MetricConverter\obj\Debug\netcoreapp2.1\04MetricConverter.dll
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\04MetricConverter\obj\Debug\netcoreapp2.1\04MetricConverter.pdb

@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\05Time+15Minutes\bin\Debug\netcoreapp2.1\05Time+15Minutes.deps.json
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\05Time+15Minutes\bin\Debug\netcoreapp2.1\05Time+15Minutes.runtimeconfig.json
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\05Time+15Minutes\bin\Debug\netcoreapp2.1\05Time+15Minutes.runtimeconfig.dev.json
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\05Time+15Minutes\bin\Debug\netcoreapp2.1\05Time+15Minutes.dll
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\05Time+15Minutes\bin\Debug\netcoreapp2.1\05Time+15Minutes.pdb
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\05Time+15Minutes\obj\Debug\netcoreapp2.1\05Time+15Minutes.csprojAssemblyReference.cache
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\05Time+15Minutes\obj\Debug\netcoreapp2.1\05Time+15Minutes.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\05Time+15Minutes\obj\Debug\netcoreapp2.1\05Time+15Minutes.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\05Time+15Minutes\obj\Debug\netcoreapp2.1\05Time+15Minutes.AssemblyInfo.cs
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\05Time+15Minutes\obj\Debug\netcoreapp2.1\05Time+15Minutes.dll
+D:\Softuni\Задачи\2.2ConditionalStatementsExercise\ConditionalStatementsExercise\05Time+15Minutes\obj\Debug\netcoreapp2.1\05Time+15Minutes.pdb

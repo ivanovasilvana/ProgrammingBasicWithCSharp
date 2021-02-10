@@ -1,0 +1,10 @@
+D:\Softuni\Задачи\5.3 While Loop - More Exercise\5.3WhileLoopMoreExercise\5.AverageNumber\bin\Debug\netcoreapp2.1\5.AverageNumber.deps.json
+D:\Softuni\Задачи\5.3 While Loop - More Exercise\5.3WhileLoopMoreExercise\5.AverageNumber\bin\Debug\netcoreapp2.1\5.AverageNumber.runtimeconfig.json
+D:\Softuni\Задачи\5.3 While Loop - More Exercise\5.3WhileLoopMoreExercise\5.AverageNumber\bin\Debug\netcoreapp2.1\5.AverageNumber.runtimeconfig.dev.json
+D:\Softuni\Задачи\5.3 While Loop - More Exercise\5.3WhileLoopMoreExercise\5.AverageNumber\bin\Debug\netcoreapp2.1\5.AverageNumber.dll
+D:\Softuni\Задачи\5.3 While Loop - More Exercise\5.3WhileLoopMoreExercise\5.AverageNumber\bin\Debug\netcoreapp2.1\5.AverageNumber.pdb
+D:\Softuni\Задачи\5.3 While Loop - More Exercise\5.3WhileLoopMoreExercise\5.AverageNumber\obj\Debug\netcoreapp2.1\5.AverageNumber.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\5.3 While Loop - More Exercise\5.3WhileLoopMoreExercise\5.AverageNumber\obj\Debug\netcoreapp2.1\5.AverageNumber.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\5.3 While Loop - More Exercise\5.3WhileLoopMoreExercise\5.AverageNumber\obj\Debug\netcoreapp2.1\5.AverageNumber.AssemblyInfo.cs
+D:\Softuni\Задачи\5.3 While Loop - More Exercise\5.3WhileLoopMoreExercise\5.AverageNumber\obj\Debug\netcoreapp2.1\5.AverageNumber.dll
+D:\Softuni\Задачи\5.3 While Loop - More Exercise\5.3WhileLoopMoreExercise\5.AverageNumber\obj\Debug\netcoreapp2.1\5.AverageNumber.pdb

@@ -1,0 +1,11 @@
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\07HousePainting\bin\Debug\netcoreapp2.1\07HousePainting.deps.json
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\07HousePainting\bin\Debug\netcoreapp2.1\07HousePainting.runtimeconfig.json
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\07HousePainting\bin\Debug\netcoreapp2.1\07HousePainting.runtimeconfig.dev.json
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\07HousePainting\bin\Debug\netcoreapp2.1\07HousePainting.dll
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\07HousePainting\bin\Debug\netcoreapp2.1\07HousePainting.pdb
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\07HousePainting\obj\Debug\netcoreapp2.1\07HousePainting.csprojAssemblyReference.cache
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\07HousePainting\obj\Debug\netcoreapp2.1\07HousePainting.csproj.CoreCompileInputs.cache
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\07HousePainting\obj\Debug\netcoreapp2.1\07HousePainting.AssemblyInfoInputs.cache
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\07HousePainting\obj\Debug\netcoreapp2.1\07HousePainting.AssemblyInfo.cs
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\07HousePainting\obj\Debug\netcoreapp2.1\07HousePainting.dll
+D:\Softuni\Задачи\1.3SimpleCalculationMoreExc\ConsoleApp1\07HousePainting\obj\Debug\netcoreapp2.1\07HousePainting.pdb
