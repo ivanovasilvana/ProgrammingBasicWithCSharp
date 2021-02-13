@@ -6,35 +6,28 @@ namespace _10._Profit
     {
         static void Main(string[] args)
         {
-            int countOfOneBgn = int.Parse(Console.ReadLine());
-            int countOfTwoBgn = int.Parse(Console.ReadLine());
-            int countOfFiveBgn = int.Parse(Console.ReadLine());
+            int countOne = int.Parse(Console.ReadLine());
+            int countTwo = int.Parse(Console.ReadLine());
+            int countFive = int.Parse(Console.ReadLine());
             int sum = int.Parse(Console.ReadLine());
 
-            int currentSum = 0;
-            int counterOne = 0;
-            int counterTwo = 0;
-            int counterFive = 0;
 
-            for (int five = 0; five <= countOfFiveBgn; five++)
+            for (int one = 0; one <= countOne; one++)
             {
-                counterFive++;
-                currentSum += five * 5;
-                for (int two = 0; two <= countOfTwoBgn; two++)
+
+                for (int two = 0; two <= countTwo; two++)
                 {
-                    counterTwo++;
-                    currentSum += two * 2;
-                    for (int one = 0; 0 <= countOfOneBgn; one++)
+
+                    for (int five = 0; five <= countFive; five++)
                     {
-                        counterOne++;
-                        currentSum += one;
-                        if (currentSum == sum)
+                        if (one * 1 + two * 2 + five * 5 == sum)
                         {
-                            Console.WriteLine($"{counterOne} * 1 lv. + {counterTwo} * 2 lv. + {counterFive} * 5 lv. = {sum}lv.");
+                            Console.WriteLine($"{one}*1 lv. + {two}*2 lv. + {five}*5 lv. = {sum}lv.");
                         }
                     }
                 }
             }
+
         }
     }
 }
