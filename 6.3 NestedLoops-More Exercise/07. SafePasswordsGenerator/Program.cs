@@ -9,8 +9,9 @@ namespace _07._SafePasswordsGenerator
             int a = int.Parse(Console.ReadLine());
             int b = int.Parse(Console.ReadLine());
             int max = int.Parse(Console.ReadLine());
+            int counter = 0;
+            bool isTrue = true;
 
-            int currentCombination = 0;
             for (int A = 35; A <= 55; A++)
             {
                 for (int B = 64; B <= 96; B++)
@@ -19,16 +20,42 @@ namespace _07._SafePasswordsGenerator
                     {
                         for (int y = 1; y <= b; y++)
                         {
-                            currentCombination++;
-                            Console.WriteLine($"{Convert.ToChar(A)}{Convert.ToChar(B)}{x}{y}{Convert.ToChar(B)}{Convert.ToChar(A)}|");
+                            counter++;
+                            if (counter > max)
+                            {
+                                isTrue = true;
+                                break;
+                            }
+                            Console.Write($"{Convert.ToChar(A)}{Convert.ToChar(B)}{x}{y}{Convert.ToChar(B)}{Convert.ToChar(A)}|");
                             if (x == a && y == b)
                             {
+                                isTrue = true;
                                 break;
+                            }
+                            A++;
+                            if (A > 55)
+                            {
+                                A = 35;
+                            }
+                            B++;
+                            if (B > 96)
+                            {
+                                B = 64;
                             }
                         }
                     }
+                    if (isTrue)
+                    {
+                        break;
+                    }
+                }
+                if (isTrue)
+                {
+                    break;
                 }
             }
+
+            
         }
     }
 }

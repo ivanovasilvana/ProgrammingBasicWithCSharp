@@ -22,7 +22,7 @@ namespace _10._Profit
                     {
                         if (one * 1 + two * 2 + five * 5 == sum)
                         {
-                            Console.WriteLine($"{one}*1 lv. + {two}*2 lv. + {five}*5 lv. = {sum}lv.");
+                            Console.WriteLine($"{one} * 1 lv. + {two} * 2 lv. + {five} * 5 lv. = {sum} lv.");
                         }
                     }
                 }
