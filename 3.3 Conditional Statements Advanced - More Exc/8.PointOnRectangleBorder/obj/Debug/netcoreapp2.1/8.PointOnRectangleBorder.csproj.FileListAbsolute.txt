@@ -9,3 +9,15 @@ D:\Softuni\Задачи\3.3 Conditional Statements Advanced - More Exc\3.3 Condi
 D:\Softuni\Задачи\3.3 Conditional Statements Advanced - More Exc\3.3 Conditional Statements Advanced - More Exc\8.PointOnRectangleBorder\obj\Debug\netcoreapp2.1\8.PointOnRectangleBorder.dll
 D:\Softuni\Задачи\3.3 Conditional Statements Advanced - More Exc\3.3 Conditional Statements Advanced - More Exc\8.PointOnRectangleBorder\obj\Debug\netcoreapp2.1\8.PointOnRectangleBorder.pdb
 D:\Softuni\Задачи\3.3 Conditional Statements Advanced - More Exc\3.3 Conditional Statements Advanced - More Exc\8.PointOnRectangleBorder\obj\Debug\netcoreapp2.1\8.PointOnRectangleBorder.csprojAssemblyReference.cache
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\8.PointOnRectangleBorder\bin\Debug\netcoreapp2.1\8.PointOnRectangleBorder.deps.json
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\8.PointOnRectangleBorder\bin\Debug\netcoreapp2.1\8.PointOnRectangleBorder.runtimeconfig.json
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\8.PointOnRectangleBorder\bin\Debug\netcoreapp2.1\8.PointOnRectangleBorder.runtimeconfig.dev.json
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\8.PointOnRectangleBorder\bin\Debug\netcoreapp2.1\8.PointOnRectangleBorder.dll
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\8.PointOnRectangleBorder\bin\Debug\netcoreapp2.1\8.PointOnRectangleBorder.pdb
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\8.PointOnRectangleBorder\obj\Debug\netcoreapp2.1\8.PointOnRectangleBorder.csprojAssemblyReference.cache
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\8.PointOnRectangleBorder\obj\Debug\netcoreapp2.1\8.PointOnRectangleBorder.AssemblyInfoInputs.cache
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\8.PointOnRectangleBorder\obj\Debug\netcoreapp2.1\8.PointOnRectangleBorder.AssemblyInfo.cs
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\8.PointOnRectangleBorder\obj\Debug\netcoreapp2.1\8.PointOnRectangleBorder.csproj.CoreCompileInputs.cache
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\8.PointOnRectangleBorder\obj\Debug\netcoreapp2.1\8.PointOnRectangleBorder.dll
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\8.PointOnRectangleBorder\obj\Debug\netcoreapp2.1\8.PointOnRectangleBorder.pdb
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\8.PointOnRectangleBorder\obj\Debug\netcoreapp2.1\8.PointOnRectangleBorder.genruntimeconfig.cache

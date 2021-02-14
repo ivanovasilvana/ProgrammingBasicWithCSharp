@@ -13,15 +13,15 @@ namespace _8.PointOnRectangleBorder
             double x = double.Parse(Console.ReadLine());
             double y = double.Parse(Console.ReadLine());
 
-            
 
-            if (((x == x1 || x == x2) && (y >= y1 || y <= y2)) || (( y == y1 || y == y2) && (x >= x1 || x <= x2 )))
+
+            if ((x > x1 && x < x2 && y > y1 && y < y2) || ((x < x1 || y < y1 || x > x2 || y > y2)))
             {
-                Console.WriteLine("Border");
+                Console.WriteLine("Inside / Outside");
             }
             else
             {
-                Console.WriteLine("Inside / Outside");
+                Console.WriteLine("Border");
             }
         }
     }

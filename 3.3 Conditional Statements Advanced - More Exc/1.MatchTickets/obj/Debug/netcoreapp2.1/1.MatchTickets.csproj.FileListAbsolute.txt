@@ -9,3 +9,15 @@ D:\Softuni\Задачи\3.3 Conditional Statements Advanced - More Exc\3.3 Condi
 D:\Softuni\Задачи\3.3 Conditional Statements Advanced - More Exc\3.3 Conditional Statements Advanced - More Exc\1.MatchTickets\obj\Debug\netcoreapp2.1\1.MatchTickets.AssemblyInfo.cs
 D:\Softuni\Задачи\3.3 Conditional Statements Advanced - More Exc\3.3 Conditional Statements Advanced - More Exc\1.MatchTickets\obj\Debug\netcoreapp2.1\1.MatchTickets.dll
 D:\Softuni\Задачи\3.3 Conditional Statements Advanced - More Exc\3.3 Conditional Statements Advanced - More Exc\1.MatchTickets\obj\Debug\netcoreapp2.1\1.MatchTickets.pdb
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\1.MatchTickets\bin\Debug\netcoreapp2.1\1.MatchTickets.deps.json
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\1.MatchTickets\bin\Debug\netcoreapp2.1\1.MatchTickets.runtimeconfig.json
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\1.MatchTickets\bin\Debug\netcoreapp2.1\1.MatchTickets.runtimeconfig.dev.json
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\1.MatchTickets\bin\Debug\netcoreapp2.1\1.MatchTickets.dll
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\1.MatchTickets\bin\Debug\netcoreapp2.1\1.MatchTickets.pdb
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\1.MatchTickets\obj\Debug\netcoreapp2.1\1.MatchTickets.csprojAssemblyReference.cache
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\1.MatchTickets\obj\Debug\netcoreapp2.1\1.MatchTickets.AssemblyInfoInputs.cache
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\1.MatchTickets\obj\Debug\netcoreapp2.1\1.MatchTickets.AssemblyInfo.cs
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\1.MatchTickets\obj\Debug\netcoreapp2.1\1.MatchTickets.csproj.CoreCompileInputs.cache
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\1.MatchTickets\obj\Debug\netcoreapp2.1\1.MatchTickets.dll
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\1.MatchTickets\obj\Debug\netcoreapp2.1\1.MatchTickets.pdb
+C:\СофтУни\Programming-Basic\3.3 Conditional Statements Advanced - More Exc\1.MatchTickets\obj\Debug\netcoreapp2.1\1.MatchTickets.genruntimeconfig.cache
