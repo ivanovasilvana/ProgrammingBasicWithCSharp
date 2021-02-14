@@ -13,24 +13,69 @@ namespace _3.StreamOfLetters
             bool isCFund = false;
             bool isOFund = false;
             bool isNFund = false;
-            bool isFirstFound = false;
+            bool isCFirstFound = true;
+            bool isOFirstFound = true;
+            bool isNFirstFound = true;
 
             while (input != "End")
             {
-                char letter = input[0];
-                bool isLetter = char.IsLetter(letter);
-
-                if (!isLetter)
+                char letter = char.Parse(input);
+                if ((int) letter >= 65 && (int) letter <= 90 || (int)letter >= 97 && (int)letter <= 122 )
                 {
-                    input = Console.ReadLine();
-                    continue;
-                }
+                    if (letter == 'c' && isCFund == false && isCFirstFound == true )
+                    {
+                        isCFund = true;
+                        isCFirstFound = false;
+                    }
 
+                    else if (letter == 'c' && isCFund == true && isCFirstFound == false)
+                    {
+                        result += letter;
+                    }
+                    if (letter == 'o' && isOFund == false && isOFirstFound == true)
+                    {
+                        isOFund = true;
+                        isOFirstFound = false;
+                    }
+
+                    else if (letter == 'o' && isOFund == true && isOFirstFound == false)
+                    {
+                        result += letter;
+                    }
+                    if (letter == 'n' && isNFund == false && isNFirstFound == true)
+                    {
+                        isNFund = true;
+                        isNFirstFound = false;
+                    }
+
+                    else if (letter == 'n' && isNFund == true && isNFirstFound == false)
+                    {
+                        result += letter;
+                    }
+                    else if (letter != 'n' && letter != 'c' && letter != 'o')
+                    {
+                        result += letter;
+                    }
+                    if (isCFund == true && isOFund == true && isNFund == true)
+                    {
+                        print += result + " ";
+                        result = string.Empty;
+                        isCFund = false;
+                        isOFund = false;
+                        isNFund = false;
+                        isCFirstFound = true;
+                        isOFirstFound = true;
+                        isNFirstFound = true;
+                    }
+                }
                 else
                 {
-                    if (letter == 'n')
+
                 }
+
+                input = Console.ReadLine();
             }
+            Console.Write($"{print} ");
         }
     }
 }

@@ -1,0 +1,12 @@
+C:\СофтУни\Programming-Basic\5.3 While Loop - More Exercise\3.StreamOfLetters\bin\Debug\netcoreapp2.1\3.StreamOfLetters.deps.json
+C:\СофтУни\Programming-Basic\5.3 While Loop - More Exercise\3.StreamOfLetters\bin\Debug\netcoreapp2.1\3.StreamOfLetters.runtimeconfig.json
+C:\СофтУни\Programming-Basic\5.3 While Loop - More Exercise\3.StreamOfLetters\bin\Debug\netcoreapp2.1\3.StreamOfLetters.runtimeconfig.dev.json
+C:\СофтУни\Programming-Basic\5.3 While Loop - More Exercise\3.StreamOfLetters\bin\Debug\netcoreapp2.1\3.StreamOfLetters.dll
+C:\СофтУни\Programming-Basic\5.3 While Loop - More Exercise\3.StreamOfLetters\bin\Debug\netcoreapp2.1\3.StreamOfLetters.pdb
+C:\СофтУни\Programming-Basic\5.3 While Loop - More Exercise\3.StreamOfLetters\obj\Debug\netcoreapp2.1\3.StreamOfLetters.csprojAssemblyReference.cache
+C:\СофтУни\Programming-Basic\5.3 While Loop - More Exercise\3.StreamOfLetters\obj\Debug\netcoreapp2.1\3.StreamOfLetters.AssemblyInfoInputs.cache
+C:\СофтУни\Programming-Basic\5.3 While Loop - More Exercise\3.StreamOfLetters\obj\Debug\netcoreapp2.1\3.StreamOfLetters.AssemblyInfo.cs
+C:\СофтУни\Programming-Basic\5.3 While Loop - More Exercise\3.StreamOfLetters\obj\Debug\netcoreapp2.1\3.StreamOfLetters.csproj.CoreCompileInputs.cache
+C:\СофтУни\Programming-Basic\5.3 While Loop - More Exercise\3.StreamOfLetters\obj\Debug\netcoreapp2.1\3.StreamOfLetters.dll
+C:\СофтУни\Programming-Basic\5.3 While Loop - More Exercise\3.StreamOfLetters\obj\Debug\netcoreapp2.1\3.StreamOfLetters.pdb
+C:\СофтУни\Programming-Basic\5.3 While Loop - More Exercise\3.StreamOfLetters\obj\Debug\netcoreapp2.1\3.StreamOfLetters.genruntimeconfig.cache
