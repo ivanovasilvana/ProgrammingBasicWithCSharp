@@ -11,13 +11,14 @@ namespace _06._WeddingSeats
             int countOfSeedsEvenRow = int.Parse(Console.ReadLine());
             int counter = 0;
 
-            for (char sector = 'A'; sector <= end; sector++)
+
+            for (char sector = 'A'; sector <= end; sector++, countOfRowA++)
             {
                 for (int rows = 1; rows <= countOfRowA; rows++)
                 {
                     if (rows % 2 != 0)
                     {
-                        for (int seeds = 97; seeds < 97 + countOfSeedsEvenRow; seeds++)
+                        for (char seeds = 'a'; seeds < 'a' + countOfSeedsEvenRow; seeds++)
                         {
                             Console.WriteLine($"{sector}{rows}{Convert.ToChar(seeds)}");
                             counter++;
@@ -25,13 +26,15 @@ namespace _06._WeddingSeats
                     }
                     else
                     {
-                        for (int seeds = 97; seeds < 97 + countOfSeedsEvenRow + 2; seeds++)
+                        for (char seeds = 'a'; seeds < 'a' + countOfSeedsEvenRow + 2; seeds++)
                         {
                             Console.WriteLine($"{sector}{rows}{Convert.ToChar(seeds)}");
                             counter++;
                         }
                     }
+                    
                 }
+                
             }
             Console.WriteLine(counter);
         }

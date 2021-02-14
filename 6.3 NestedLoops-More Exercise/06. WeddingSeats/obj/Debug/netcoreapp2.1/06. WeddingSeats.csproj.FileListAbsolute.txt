@@ -9,3 +9,15 @@ C:\Users\User\source\repos\1. UniquePINCodes\06. WeddingSeats\obj\Debug\netcorea
 C:\Users\User\source\repos\1. UniquePINCodes\06. WeddingSeats\obj\Debug\netcoreapp2.1\06. WeddingSeats.AssemblyInfo.cs
 C:\Users\User\source\repos\1. UniquePINCodes\06. WeddingSeats\obj\Debug\netcoreapp2.1\06. WeddingSeats.dll
 C:\Users\User\source\repos\1. UniquePINCodes\06. WeddingSeats\obj\Debug\netcoreapp2.1\06. WeddingSeats.pdb
+C:\СофтУни\Programming-Basic\6.3 NestedLoops-More Exercise\06. WeddingSeats\bin\Debug\netcoreapp2.1\06. WeddingSeats.deps.json
+C:\СофтУни\Programming-Basic\6.3 NestedLoops-More Exercise\06. WeddingSeats\bin\Debug\netcoreapp2.1\06. WeddingSeats.runtimeconfig.json
+C:\СофтУни\Programming-Basic\6.3 NestedLoops-More Exercise\06. WeddingSeats\bin\Debug\netcoreapp2.1\06. WeddingSeats.runtimeconfig.dev.json
+C:\СофтУни\Programming-Basic\6.3 NestedLoops-More Exercise\06. WeddingSeats\bin\Debug\netcoreapp2.1\06. WeddingSeats.dll
+C:\СофтУни\Programming-Basic\6.3 NestedLoops-More Exercise\06. WeddingSeats\bin\Debug\netcoreapp2.1\06. WeddingSeats.pdb
+C:\СофтУни\Programming-Basic\6.3 NestedLoops-More Exercise\06. WeddingSeats\obj\Debug\netcoreapp2.1\06. WeddingSeats.csprojAssemblyReference.cache
+C:\СофтУни\Programming-Basic\6.3 NestedLoops-More Exercise\06. WeddingSeats\obj\Debug\netcoreapp2.1\06. WeddingSeats.AssemblyInfoInputs.cache
+C:\СофтУни\Programming-Basic\6.3 NestedLoops-More Exercise\06. WeddingSeats\obj\Debug\netcoreapp2.1\06. WeddingSeats.AssemblyInfo.cs
+C:\СофтУни\Programming-Basic\6.3 NestedLoops-More Exercise\06. WeddingSeats\obj\Debug\netcoreapp2.1\06. WeddingSeats.csproj.CoreCompileInputs.cache
+C:\СофтУни\Programming-Basic\6.3 NestedLoops-More Exercise\06. WeddingSeats\obj\Debug\netcoreapp2.1\06. WeddingSeats.dll
+C:\СофтУни\Programming-Basic\6.3 NestedLoops-More Exercise\06. WeddingSeats\obj\Debug\netcoreapp2.1\06. WeddingSeats.pdb
+C:\СофтУни\Programming-Basic\6.3 NestedLoops-More Exercise\06. WeddingSeats\obj\Debug\netcoreapp2.1\06. WeddingSeats.genruntimeconfig.cache
