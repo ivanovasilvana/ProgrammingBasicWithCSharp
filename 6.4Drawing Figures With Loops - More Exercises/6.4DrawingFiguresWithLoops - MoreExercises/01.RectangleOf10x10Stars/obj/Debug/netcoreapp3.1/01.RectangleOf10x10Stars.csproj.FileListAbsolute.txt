@@ -1,0 +1,13 @@
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\01.RectangleOf10x10Stars\bin\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.exe
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\01.RectangleOf10x10Stars\bin\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.deps.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\01.RectangleOf10x10Stars\bin\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.runtimeconfig.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\01.RectangleOf10x10Stars\bin\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.runtimeconfig.dev.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\01.RectangleOf10x10Stars\bin\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.dll
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\01.RectangleOf10x10Stars\bin\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.pdb
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\01.RectangleOf10x10Stars\obj\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.csprojAssemblyReference.cache
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\01.RectangleOf10x10Stars\obj\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.AssemblyInfoInputs.cache
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\01.RectangleOf10x10Stars\obj\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.AssemblyInfo.cs
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\01.RectangleOf10x10Stars\obj\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.csproj.CoreCompileInputs.cache
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\01.RectangleOf10x10Stars\obj\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.dll
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\01.RectangleOf10x10Stars\obj\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.pdb
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\01.RectangleOf10x10Stars\obj\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.genruntimeconfig.cache

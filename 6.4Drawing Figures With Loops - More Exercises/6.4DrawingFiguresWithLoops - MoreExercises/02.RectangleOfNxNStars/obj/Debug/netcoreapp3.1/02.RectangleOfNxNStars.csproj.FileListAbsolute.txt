@@ -1,0 +1,12 @@
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\02.RectangleOfNxNStars\bin\Debug\netcoreapp3.1\02.RectangleOfNxNStars.exe
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\02.RectangleOfNxNStars\bin\Debug\netcoreapp3.1\02.RectangleOfNxNStars.deps.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\02.RectangleOfNxNStars\bin\Debug\netcoreapp3.1\02.RectangleOfNxNStars.runtimeconfig.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\02.RectangleOfNxNStars\bin\Debug\netcoreapp3.1\02.RectangleOfNxNStars.runtimeconfig.dev.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\02.RectangleOfNxNStars\bin\Debug\netcoreapp3.1\02.RectangleOfNxNStars.dll
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\02.RectangleOfNxNStars\bin\Debug\netcoreapp3.1\02.RectangleOfNxNStars.pdb
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\02.RectangleOfNxNStars\obj\Debug\netcoreapp3.1\02.RectangleOfNxNStars.AssemblyInfoInputs.cache
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\02.RectangleOfNxNStars\obj\Debug\netcoreapp3.1\02.RectangleOfNxNStars.AssemblyInfo.cs
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\02.RectangleOfNxNStars\obj\Debug\netcoreapp3.1\02.RectangleOfNxNStars.csproj.CoreCompileInputs.cache
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\02.RectangleOfNxNStars\obj\Debug\netcoreapp3.1\02.RectangleOfNxNStars.dll
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\02.RectangleOfNxNStars\obj\Debug\netcoreapp3.1\02.RectangleOfNxNStars.pdb
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\02.RectangleOfNxNStars\obj\Debug\netcoreapp3.1\02.RectangleOfNxNStars.genruntimeconfig.cache

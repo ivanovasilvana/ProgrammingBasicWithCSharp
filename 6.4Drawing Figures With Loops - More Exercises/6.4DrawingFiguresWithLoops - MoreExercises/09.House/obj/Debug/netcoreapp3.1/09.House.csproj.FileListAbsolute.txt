@@ -1,0 +1,12 @@
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\09.House\bin\Debug\netcoreapp3.1\09.House.exe
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\09.House\bin\Debug\netcoreapp3.1\09.House.deps.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\09.House\bin\Debug\netcoreapp3.1\09.House.runtimeconfig.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\09.House\bin\Debug\netcoreapp3.1\09.House.runtimeconfig.dev.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\09.House\bin\Debug\netcoreapp3.1\09.House.dll
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\09.House\bin\Debug\netcoreapp3.1\09.House.pdb
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\09.House\obj\Debug\netcoreapp3.1\09.House.AssemblyInfoInputs.cache
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\09.House\obj\Debug\netcoreapp3.1\09.House.AssemblyInfo.cs
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\09.House\obj\Debug\netcoreapp3.1\09.House.csproj.CoreCompileInputs.cache
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\09.House\obj\Debug\netcoreapp3.1\09.House.dll
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\09.House\obj\Debug\netcoreapp3.1\09.House.pdb
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\09.House\obj\Debug\netcoreapp3.1\09.House.genruntimeconfig.cache

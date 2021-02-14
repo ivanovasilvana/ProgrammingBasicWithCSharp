@@ -1,0 +1,12 @@
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\05.SquareFrame\bin\Debug\netcoreapp3.1\05.SquareFrame.exe
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\05.SquareFrame\bin\Debug\netcoreapp3.1\05.SquareFrame.deps.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\05.SquareFrame\bin\Debug\netcoreapp3.1\05.SquareFrame.runtimeconfig.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\05.SquareFrame\bin\Debug\netcoreapp3.1\05.SquareFrame.runtimeconfig.dev.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\05.SquareFrame\bin\Debug\netcoreapp3.1\05.SquareFrame.dll
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\05.SquareFrame\bin\Debug\netcoreapp3.1\05.SquareFrame.pdb
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\05.SquareFrame\obj\Debug\netcoreapp3.1\05.SquareFrame.AssemblyInfoInputs.cache
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\05.SquareFrame\obj\Debug\netcoreapp3.1\05.SquareFrame.AssemblyInfo.cs
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\05.SquareFrame\obj\Debug\netcoreapp3.1\05.SquareFrame.csproj.CoreCompileInputs.cache
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\05.SquareFrame\obj\Debug\netcoreapp3.1\05.SquareFrame.dll
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\05.SquareFrame\obj\Debug\netcoreapp3.1\05.SquareFrame.pdb
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\05.SquareFrame\obj\Debug\netcoreapp3.1\05.SquareFrame.genruntimeconfig.cache

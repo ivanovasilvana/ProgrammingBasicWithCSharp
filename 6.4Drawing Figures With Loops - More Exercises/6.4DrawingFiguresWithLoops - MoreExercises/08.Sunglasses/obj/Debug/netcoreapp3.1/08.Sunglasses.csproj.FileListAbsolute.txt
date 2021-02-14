@@ -1,0 +1,12 @@
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\08.Sunglasses\bin\Debug\netcoreapp3.1\08.Sunglasses.exe
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\08.Sunglasses\bin\Debug\netcoreapp3.1\08.Sunglasses.deps.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\08.Sunglasses\bin\Debug\netcoreapp3.1\08.Sunglasses.runtimeconfig.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\08.Sunglasses\bin\Debug\netcoreapp3.1\08.Sunglasses.runtimeconfig.dev.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\08.Sunglasses\bin\Debug\netcoreapp3.1\08.Sunglasses.dll
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\08.Sunglasses\bin\Debug\netcoreapp3.1\08.Sunglasses.pdb
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\08.Sunglasses\obj\Debug\netcoreapp3.1\08.Sunglasses.AssemblyInfoInputs.cache
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\08.Sunglasses\obj\Debug\netcoreapp3.1\08.Sunglasses.AssemblyInfo.cs
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\08.Sunglasses\obj\Debug\netcoreapp3.1\08.Sunglasses.csproj.CoreCompileInputs.cache
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\08.Sunglasses\obj\Debug\netcoreapp3.1\08.Sunglasses.dll
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\08.Sunglasses\obj\Debug\netcoreapp3.1\08.Sunglasses.pdb
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\08.Sunglasses\obj\Debug\netcoreapp3.1\08.Sunglasses.genruntimeconfig.cache

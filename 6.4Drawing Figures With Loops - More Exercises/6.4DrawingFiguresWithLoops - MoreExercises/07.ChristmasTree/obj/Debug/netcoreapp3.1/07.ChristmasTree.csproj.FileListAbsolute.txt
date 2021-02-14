@@ -1,0 +1,12 @@
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\07.ChristmasTree\bin\Debug\netcoreapp3.1\07.ChristmasTree.exe
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\07.ChristmasTree\bin\Debug\netcoreapp3.1\07.ChristmasTree.deps.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\07.ChristmasTree\bin\Debug\netcoreapp3.1\07.ChristmasTree.runtimeconfig.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\07.ChristmasTree\bin\Debug\netcoreapp3.1\07.ChristmasTree.runtimeconfig.dev.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\07.ChristmasTree\bin\Debug\netcoreapp3.1\07.ChristmasTree.dll
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\07.ChristmasTree\bin\Debug\netcoreapp3.1\07.ChristmasTree.pdb
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\07.ChristmasTree\obj\Debug\netcoreapp3.1\07.ChristmasTree.AssemblyInfoInputs.cache
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\07.ChristmasTree\obj\Debug\netcoreapp3.1\07.ChristmasTree.AssemblyInfo.cs
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\07.ChristmasTree\obj\Debug\netcoreapp3.1\07.ChristmasTree.csproj.CoreCompileInputs.cache
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\07.ChristmasTree\obj\Debug\netcoreapp3.1\07.ChristmasTree.dll
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\07.ChristmasTree\obj\Debug\netcoreapp3.1\07.ChristmasTree.pdb
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\07.ChristmasTree\obj\Debug\netcoreapp3.1\07.ChristmasTree.genruntimeconfig.cache

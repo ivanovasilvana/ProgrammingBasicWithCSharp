@@ -1,0 +1,13 @@
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\04.TriangleOfDollars\bin\Debug\netcoreapp3.1\04.TriangleOfDollars.exe
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\04.TriangleOfDollars\bin\Debug\netcoreapp3.1\04.TriangleOfDollars.deps.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\04.TriangleOfDollars\bin\Debug\netcoreapp3.1\04.TriangleOfDollars.runtimeconfig.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\04.TriangleOfDollars\bin\Debug\netcoreapp3.1\04.TriangleOfDollars.runtimeconfig.dev.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\04.TriangleOfDollars\bin\Debug\netcoreapp3.1\04.TriangleOfDollars.dll
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\04.TriangleOfDollars\bin\Debug\netcoreapp3.1\04.TriangleOfDollars.pdb
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\04.TriangleOfDollars\obj\Debug\netcoreapp3.1\04.TriangleOfDollars.csprojAssemblyReference.cache
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\04.TriangleOfDollars\obj\Debug\netcoreapp3.1\04.TriangleOfDollars.AssemblyInfoInputs.cache
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\04.TriangleOfDollars\obj\Debug\netcoreapp3.1\04.TriangleOfDollars.AssemblyInfo.cs
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\04.TriangleOfDollars\obj\Debug\netcoreapp3.1\04.TriangleOfDollars.csproj.CoreCompileInputs.cache
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\04.TriangleOfDollars\obj\Debug\netcoreapp3.1\04.TriangleOfDollars.dll
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\04.TriangleOfDollars\obj\Debug\netcoreapp3.1\04.TriangleOfDollars.pdb
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\04.TriangleOfDollars\obj\Debug\netcoreapp3.1\04.TriangleOfDollars.genruntimeconfig.cache

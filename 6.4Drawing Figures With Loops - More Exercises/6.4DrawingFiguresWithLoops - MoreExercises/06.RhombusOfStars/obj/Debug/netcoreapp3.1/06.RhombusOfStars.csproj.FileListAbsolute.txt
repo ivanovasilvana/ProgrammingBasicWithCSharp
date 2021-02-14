@@ -1,0 +1,12 @@
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\06.RhombusOfStars\bin\Debug\netcoreapp3.1\06.RhombusOfStars.exe
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\06.RhombusOfStars\bin\Debug\netcoreapp3.1\06.RhombusOfStars.deps.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\06.RhombusOfStars\bin\Debug\netcoreapp3.1\06.RhombusOfStars.runtimeconfig.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\06.RhombusOfStars\bin\Debug\netcoreapp3.1\06.RhombusOfStars.runtimeconfig.dev.json
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\06.RhombusOfStars\bin\Debug\netcoreapp3.1\06.RhombusOfStars.dll
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\06.RhombusOfStars\bin\Debug\netcoreapp3.1\06.RhombusOfStars.pdb
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\06.RhombusOfStars\obj\Debug\netcoreapp3.1\06.RhombusOfStars.AssemblyInfoInputs.cache
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\06.RhombusOfStars\obj\Debug\netcoreapp3.1\06.RhombusOfStars.AssemblyInfo.cs
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\06.RhombusOfStars\obj\Debug\netcoreapp3.1\06.RhombusOfStars.csproj.CoreCompileInputs.cache
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\06.RhombusOfStars\obj\Debug\netcoreapp3.1\06.RhombusOfStars.dll
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\06.RhombusOfStars\obj\Debug\netcoreapp3.1\06.RhombusOfStars.pdb
+C:\СофтУни\Programming-Basic\6.4Drawing Figures With Loops - More Exercises\6.4DrawingFiguresWithLoops - MoreExercises\06.RhombusOfStars\obj\Debug\netcoreapp3.1\06.RhombusOfStars.genruntimeconfig.cache
