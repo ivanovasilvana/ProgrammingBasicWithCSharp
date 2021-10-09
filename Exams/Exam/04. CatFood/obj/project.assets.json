@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\Exams\\Exam\\04. CatFood\\04. CatFood.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\Exams\\Exam\\04. CatFood\\04. CatFood.csproj",
       "projectName": "04. CatFood",
-      "projectPath": "D:\\Softuni\\Задачи\\Exams\\Exam\\04. CatFood\\04. CatFood.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\Exams\\Exam\\04. CatFood\\04. CatFood.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\Exams\\Exam\\04. CatFood\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\Exams\\Exam\\04. CatFood\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\2.3 Conditional Statements - More Exercises\\2.SleepyTomCat\\2.SleepyTomCat.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\2.3 Conditional Statements - More Exercises\\2.SleepyTomCat\\2.SleepyTomCat.csproj",
       "projectName": "2.SleepyTomCat",
-      "projectPath": "D:\\Softuni\\Задачи\\2.3 Conditional Statements - More Exercises\\2.SleepyTomCat\\2.SleepyTomCat.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.3 Conditional Statements - More Exercises\\2.SleepyTomCat\\2.SleepyTomCat.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\2.3 Conditional Statements - More Exercises\\2.SleepyTomCat\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.3 Conditional Statements - More Exercises\\2.SleepyTomCat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\2.3 Conditional Statements - More Exercises\\5.Firm\\5.Firm.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\2.3 Conditional Statements - More Exercises\\5.Firm\\5.Firm.csproj",
       "projectName": "5.Firm",
-      "projectPath": "D:\\Softuni\\Задачи\\2.3 Conditional Statements - More Exercises\\5.Firm\\5.Firm.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.3 Conditional Statements - More Exercises\\5.Firm\\5.Firm.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\2.3 Conditional Statements - More Exercises\\5.Firm\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.3 Conditional Statements - More Exercises\\5.Firm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

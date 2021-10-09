@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\2.3 Conditional Statements - More Exercises\\1.PipesInPool\\1.PipesInPool.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\2.3 Conditional Statements - More Exercises\\1.PipesInPool\\1.PipesInPool.csproj",
       "projectName": "1.PipesInPool",
-      "projectPath": "D:\\Softuni\\Задачи\\2.3 Conditional Statements - More Exercises\\1.PipesInPool\\1.PipesInPool.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.3 Conditional Statements - More Exercises\\1.PipesInPool\\1.PipesInPool.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\2.3 Conditional Statements - More Exercises\\1.PipesInPool\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.3 Conditional Statements - More Exercises\\1.PipesInPool\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\2.3 Conditional Statements - More Exercises\\8.FuelTank1\\8.FuelTank.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\2.3 Conditional Statements - More Exercises\\8.FuelTank1\\8.FuelTank.csproj",
       "projectName": "8.FuelTank",
-      "projectPath": "D:\\Softuni\\Задачи\\2.3 Conditional Statements - More Exercises\\8.FuelTank1\\8.FuelTank.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.3 Conditional Statements - More Exercises\\8.FuelTank1\\8.FuelTank.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\2.3 Conditional Statements - More Exercises\\8.FuelTank1\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.3 Conditional Statements - More Exercises\\8.FuelTank1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

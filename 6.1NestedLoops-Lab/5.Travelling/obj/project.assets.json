@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\6.1NestedLoops-Lab\\5.Travelling\\5.Travelling.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\6.1NestedLoops-Lab\\5.Travelling\\5.Travelling.csproj",
       "projectName": "5.Travelling",
-      "projectPath": "D:\\Softuni\\Задачи\\6.1NestedLoops-Lab\\5.Travelling\\5.Travelling.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\6.1NestedLoops-Lab\\5.Travelling\\5.Travelling.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\6.1NestedLoops-Lab\\5.Travelling\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\6.1NestedLoops-Lab\\5.Travelling\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

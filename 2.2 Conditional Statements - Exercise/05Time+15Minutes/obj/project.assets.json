@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\2.2ConditionalStatementsExercise\\ConditionalStatementsExercise\\05Time+15Minutes\\05Time+15Minutes.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\2.2 Conditional Statements - Exercise\\05Time+15Minutes\\05Time+15Minutes.csproj",
       "projectName": "05Time+15Minutes",
-      "projectPath": "D:\\Softuni\\Задачи\\2.2ConditionalStatementsExercise\\ConditionalStatementsExercise\\05Time+15Minutes\\05Time+15Minutes.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.2 Conditional Statements - Exercise\\05Time+15Minutes\\05Time+15Minutes.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\2.2ConditionalStatementsExercise\\ConditionalStatementsExercise\\05Time+15Minutes\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.2 Conditional Statements - Exercise\\05Time+15Minutes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

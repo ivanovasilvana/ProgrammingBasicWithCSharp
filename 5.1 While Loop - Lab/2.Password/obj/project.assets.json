@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\5.1 While Loop - Lab\\2.Password\\2.Password.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\5.1 While Loop - Lab\\2.Password\\2.Password.csproj",
       "projectName": "2.Password",
-      "projectPath": "D:\\Softuni\\Задачи\\5.1 While Loop - Lab\\2.Password\\2.Password.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\5.1 While Loop - Lab\\2.Password\\2.Password.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\5.1 While Loop - Lab\\2.Password\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\5.1 While Loop - Lab\\2.Password\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

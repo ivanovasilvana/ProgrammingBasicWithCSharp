@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\Exams\\Exam-March2020\\Exam-March2020\\01. ChangeBureau.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\Exams\\Exam-March2020\\Exam-March2020\\01. ChangeBureau.csproj",
       "projectName": "01. ChangeBureau",
-      "projectPath": "D:\\Softuni\\Задачи\\Exams\\Exam-March2020\\Exam-March2020\\01. ChangeBureau.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\Exams\\Exam-March2020\\Exam-March2020\\01. ChangeBureau.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\Exams\\Exam-March2020\\Exam-March2020\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\Exams\\Exam-March2020\\Exam-March2020\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

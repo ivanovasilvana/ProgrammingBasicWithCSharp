@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\6.1NestedLoops-Lab\\4.SumOfTwoNumbers\\4.SumOfTwoNumbers.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\6.1NestedLoops-Lab\\4.SumOfTwoNumbers\\4.SumOfTwoNumbers.csproj",
       "projectName": "4.SumOfTwoNumbers",
-      "projectPath": "D:\\Softuni\\Задачи\\6.1NestedLoops-Lab\\4.SumOfTwoNumbers\\4.SumOfTwoNumbers.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\6.1NestedLoops-Lab\\4.SumOfTwoNumbers\\4.SumOfTwoNumbers.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\6.1NestedLoops-Lab\\4.SumOfTwoNumbers\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\6.1NestedLoops-Lab\\4.SumOfTwoNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

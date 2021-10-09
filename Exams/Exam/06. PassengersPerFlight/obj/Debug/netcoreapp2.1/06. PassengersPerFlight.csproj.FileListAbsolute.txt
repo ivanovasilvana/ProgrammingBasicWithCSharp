@@ -9,3 +9,14 @@ D:\Softuni\Задачи\Exams\Exam\06. PassengersPerFlight\obj\Debug\netcoreapp2
 D:\Softuni\Задачи\Exams\Exam\06. PassengersPerFlight\obj\Debug\netcoreapp2.1\06. PassengersPerFlight.AssemblyInfo.cs
 D:\Softuni\Задачи\Exams\Exam\06. PassengersPerFlight\obj\Debug\netcoreapp2.1\06. PassengersPerFlight.dll
 D:\Softuni\Задачи\Exams\Exam\06. PassengersPerFlight\obj\Debug\netcoreapp2.1\06. PassengersPerFlight.pdb
+C:\СофтУни\C#\Programming-Basic\Exams\Exam\06. PassengersPerFlight\bin\Debug\netcoreapp2.1\06. PassengersPerFlight.deps.json
+C:\СофтУни\C#\Programming-Basic\Exams\Exam\06. PassengersPerFlight\bin\Debug\netcoreapp2.1\06. PassengersPerFlight.runtimeconfig.json
+C:\СофтУни\C#\Programming-Basic\Exams\Exam\06. PassengersPerFlight\bin\Debug\netcoreapp2.1\06. PassengersPerFlight.runtimeconfig.dev.json
+C:\СофтУни\C#\Programming-Basic\Exams\Exam\06. PassengersPerFlight\bin\Debug\netcoreapp2.1\06. PassengersPerFlight.dll
+C:\СофтУни\C#\Programming-Basic\Exams\Exam\06. PassengersPerFlight\bin\Debug\netcoreapp2.1\06. PassengersPerFlight.pdb
+C:\СофтУни\C#\Programming-Basic\Exams\Exam\06. PassengersPerFlight\obj\Debug\netcoreapp2.1\06. PassengersPerFlight.csprojAssemblyReference.cache
+C:\СофтУни\C#\Programming-Basic\Exams\Exam\06. PassengersPerFlight\obj\Debug\netcoreapp2.1\06. PassengersPerFlight.csproj.CoreCompileInputs.cache
+C:\СофтУни\C#\Programming-Basic\Exams\Exam\06. PassengersPerFlight\obj\Debug\netcoreapp2.1\06. PassengersPerFlight.AssemblyInfoInputs.cache
+C:\СофтУни\C#\Programming-Basic\Exams\Exam\06. PassengersPerFlight\obj\Debug\netcoreapp2.1\06. PassengersPerFlight.AssemblyInfo.cs
+C:\СофтУни\C#\Programming-Basic\Exams\Exam\06. PassengersPerFlight\obj\Debug\netcoreapp2.1\06. PassengersPerFlight.dll
+C:\СофтУни\C#\Programming-Basic\Exams\Exam\06. PassengersPerFlight\obj\Debug\netcoreapp2.1\06. PassengersPerFlight.pdb

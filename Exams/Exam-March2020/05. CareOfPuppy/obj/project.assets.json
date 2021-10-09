@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\Exams\\Exam-March2020\\05. CareOfPuppy\\05. CareOfPuppy.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\Exams\\Exam-March2020\\05. CareOfPuppy\\05. CareOfPuppy.csproj",
       "projectName": "05. CareOfPuppy",
-      "projectPath": "D:\\Softuni\\Задачи\\Exams\\Exam-March2020\\05. CareOfPuppy\\05. CareOfPuppy.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\Exams\\Exam-March2020\\05. CareOfPuppy\\05. CareOfPuppy.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\Exams\\Exam-March2020\\05. CareOfPuppy\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\Exams\\Exam-March2020\\05. CareOfPuppy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

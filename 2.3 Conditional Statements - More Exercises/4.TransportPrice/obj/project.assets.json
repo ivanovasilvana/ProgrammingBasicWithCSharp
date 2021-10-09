@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\2.3 Conditional Statements - More Exercises\\4.TransportPrice\\4.TransportPrice.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\2.3 Conditional Statements - More Exercises\\4.TransportPrice\\4.TransportPrice.csproj",
       "projectName": "4.TransportPrice",
-      "projectPath": "D:\\Softuni\\Задачи\\2.3 Conditional Statements - More Exercises\\4.TransportPrice\\4.TransportPrice.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.3 Conditional Statements - More Exercises\\4.TransportPrice\\4.TransportPrice.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\2.3 Conditional Statements - More Exercises\\4.TransportPrice\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.3 Conditional Statements - More Exercises\\4.TransportPrice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

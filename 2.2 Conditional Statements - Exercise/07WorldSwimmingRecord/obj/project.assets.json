@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\2.2ConditionalStatementsExercise\\ConditionalStatementsExercise\\07WorldSwimmingRecord\\07WorldSwimmingRecord.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\2.2 Conditional Statements - Exercise\\07WorldSwimmingRecord\\07WorldSwimmingRecord.csproj",
       "projectName": "07WorldSwimmingRecord",
-      "projectPath": "D:\\Softuni\\Задачи\\2.2ConditionalStatementsExercise\\ConditionalStatementsExercise\\07WorldSwimmingRecord\\07WorldSwimmingRecord.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.2 Conditional Statements - Exercise\\07WorldSwimmingRecord\\07WorldSwimmingRecord.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\2.2ConditionalStatementsExercise\\ConditionalStatementsExercise\\07WorldSwimmingRecord\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.2 Conditional Statements - Exercise\\07WorldSwimmingRecord\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\2.2ConditionalStatementsExercise\\ConditionalStatementsExercise\\06GodzillaVsKong\\06GodzillaVsKong.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\2.2 Conditional Statements - Exercise\\06GodzillaVsKong\\06GodzillaVsKong.csproj",
       "projectName": "06GodzillaVsKong",
-      "projectPath": "D:\\Softuni\\Задачи\\2.2ConditionalStatementsExercise\\ConditionalStatementsExercise\\06GodzillaVsKong\\06GodzillaVsKong.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.2 Conditional Statements - Exercise\\06GodzillaVsKong\\06GodzillaVsKong.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\2.2ConditionalStatementsExercise\\ConditionalStatementsExercise\\06GodzillaVsKong\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.2 Conditional Statements - Exercise\\06GodzillaVsKong\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

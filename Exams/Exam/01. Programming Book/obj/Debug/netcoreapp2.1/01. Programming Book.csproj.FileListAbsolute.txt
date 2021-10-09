@@ -9,3 +9,14 @@ D:\Softuni\Задачи\Exams\Exam\01. Programming Book\obj\Debug\netcoreapp2.1\
 D:\Softuni\Задачи\Exams\Exam\01. Programming Book\obj\Debug\netcoreapp2.1\01. Programming Book.AssemblyInfo.cs
 D:\Softuni\Задачи\Exams\Exam\01. Programming Book\obj\Debug\netcoreapp2.1\01. Programming Book.dll
 D:\Softuni\Задачи\Exams\Exam\01. Programming Book\obj\Debug\netcoreapp2.1\01. Programming Book.pdb
+C:\СофтУни\C#\Programming-Basic\Exams\Exam\01. Programming Book\bin\Debug\netcoreapp2.1\01. Programming Book.deps.json
+C:\СофтУни\C#\Programming-Basic\Exams\Exam\01. Programming Book\bin\Debug\netcoreapp2.1\01. Programming Book.runtimeconfig.json
+C:\СофтУни\C#\Programming-Basic\Exams\Exam\01. Programming Book\bin\Debug\netcoreapp2.1\01. Programming Book.runtimeconfig.dev.json
+C:\СофтУни\C#\Programming-Basic\Exams\Exam\01. Programming Book\bin\Debug\netcoreapp2.1\01. Programming Book.dll
+C:\СофтУни\C#\Programming-Basic\Exams\Exam\01. Programming Book\bin\Debug\netcoreapp2.1\01. Programming Book.pdb
+C:\СофтУни\C#\Programming-Basic\Exams\Exam\01. Programming Book\obj\Debug\netcoreapp2.1\01. Programming Book.csprojAssemblyReference.cache
+C:\СофтУни\C#\Programming-Basic\Exams\Exam\01. Programming Book\obj\Debug\netcoreapp2.1\01. Programming Book.csproj.CoreCompileInputs.cache
+C:\СофтУни\C#\Programming-Basic\Exams\Exam\01. Programming Book\obj\Debug\netcoreapp2.1\01. Programming Book.AssemblyInfoInputs.cache
+C:\СофтУни\C#\Programming-Basic\Exams\Exam\01. Programming Book\obj\Debug\netcoreapp2.1\01. Programming Book.AssemblyInfo.cs
+C:\СофтУни\C#\Programming-Basic\Exams\Exam\01. Programming Book\obj\Debug\netcoreapp2.1\01. Programming Book.dll
+C:\СофтУни\C#\Programming-Basic\Exams\Exam\01. Programming Book\obj\Debug\netcoreapp2.1\01. Programming Book.pdb

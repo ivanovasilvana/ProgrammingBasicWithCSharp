@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\2.2ConditionalStatementsExercise\\ConditionalStatementsExercise\\08Scholarship\\08Scholarship.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\2.2 Conditional Statements - Exercise\\08Scholarship\\08Scholarship.csproj",
       "projectName": "08Scholarship",
-      "projectPath": "D:\\Softuni\\Задачи\\2.2ConditionalStatementsExercise\\ConditionalStatementsExercise\\08Scholarship\\08Scholarship.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.2 Conditional Statements - Exercise\\08Scholarship\\08Scholarship.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\2.2ConditionalStatementsExercise\\ConditionalStatementsExercise\\08Scholarship\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.2 Conditional Statements - Exercise\\08Scholarship\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

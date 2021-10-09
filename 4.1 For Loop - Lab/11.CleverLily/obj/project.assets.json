@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\4.1 For Loop - Lab\\11.CleverLily\\a11.CleverLily.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\4.1 For Loop - Lab\\11.CleverLily\\a11.CleverLily.csproj",
       "projectName": "a11.CleverLily",
-      "projectPath": "D:\\Softuni\\Задачи\\4.1 For Loop - Lab\\11.CleverLily\\a11.CleverLily.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\4.1 For Loop - Lab\\11.CleverLily\\a11.CleverLily.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\4.1 For Loop - Lab\\11.CleverLily\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\4.1 For Loop - Lab\\11.CleverLily\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

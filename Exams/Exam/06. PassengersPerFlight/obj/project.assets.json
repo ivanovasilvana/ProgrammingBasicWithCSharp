@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\Exams\\Exam\\06. PassengersPerFlight\\06. PassengersPerFlight.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\Exams\\Exam\\06. PassengersPerFlight\\06. PassengersPerFlight.csproj",
       "projectName": "06. PassengersPerFlight",
-      "projectPath": "D:\\Softuni\\Задачи\\Exams\\Exam\\06. PassengersPerFlight\\06. PassengersPerFlight.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\Exams\\Exam\\06. PassengersPerFlight\\06. PassengersPerFlight.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\Exams\\Exam\\06. PassengersPerFlight\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\Exams\\Exam\\06. PassengersPerFlight\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

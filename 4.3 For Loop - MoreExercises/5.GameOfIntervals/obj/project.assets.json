@@ -688,17 +688,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\СофтУни\\Basic\\4.3 For Loop - MoreExercises\\5.GameOfIntervals\\5.GameOfIntervals.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\4.3 For Loop - MoreExercises\\5.GameOfIntervals\\5.GameOfIntervals.csproj",
       "projectName": "5.GameOfIntervals",
-      "projectPath": "C:\\СофтУни\\Basic\\4.3 For Loop - MoreExercises\\5.GameOfIntervals\\5.GameOfIntervals.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\4.3 For Loop - MoreExercises\\5.GameOfIntervals\\5.GameOfIntervals.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\СофтУни\\Basic\\4.3 For Loop - MoreExercises\\5.GameOfIntervals\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\4.3 For Loop - MoreExercises\\5.GameOfIntervals\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -712,7 +716,6 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "targetAlias": "netcoreapp2.1",
           "projectReferences": {}
         }
       },
@@ -724,26 +727,18 @@
     },
     "frameworks": {
       "netcoreapp2.1": {
-        "targetAlias": "netcoreapp2.1",
         "dependencies": {
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
           }
         },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }

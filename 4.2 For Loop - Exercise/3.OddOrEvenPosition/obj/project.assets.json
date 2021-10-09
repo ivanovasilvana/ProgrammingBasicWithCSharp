@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\4.2 For Loop - Exercise\\3.OddOrEvenPosition\\3.OddOrEvenPosition.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\4.2 For Loop - Exercise\\3.OddOrEvenPosition\\3.OddOrEvenPosition.csproj",
       "projectName": "3.OddOrEvenPosition",
-      "projectPath": "D:\\Softuni\\Задачи\\4.2 For Loop - Exercise\\3.OddOrEvenPosition\\3.OddOrEvenPosition.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\4.2 For Loop - Exercise\\3.OddOrEvenPosition\\3.OddOrEvenPosition.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\4.2 For Loop - Exercise\\3.OddOrEvenPosition\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\4.2 For Loop - Exercise\\3.OddOrEvenPosition\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

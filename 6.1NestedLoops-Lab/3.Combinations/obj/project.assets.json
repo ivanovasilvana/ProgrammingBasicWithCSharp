@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\6.1NestedLoops-Lab\\3.Combinations\\3.Combinations.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\6.1NestedLoops-Lab\\3.Combinations\\3.Combinations.csproj",
       "projectName": "3.Combinations",
-      "projectPath": "D:\\Softuni\\Задачи\\6.1NestedLoops-Lab\\3.Combinations\\3.Combinations.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\6.1NestedLoops-Lab\\3.Combinations\\3.Combinations.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\6.1NestedLoops-Lab\\3.Combinations\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\6.1NestedLoops-Lab\\3.Combinations\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

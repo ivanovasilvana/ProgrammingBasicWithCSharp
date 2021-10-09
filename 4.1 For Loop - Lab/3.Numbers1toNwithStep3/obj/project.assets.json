@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\4.1 For Loop - Lab\\3.Numbers1toNwithStep3\\3.Numbers1toNwithStep3.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\4.1 For Loop - Lab\\3.Numbers1toNwithStep3\\3.Numbers1toNwithStep3.csproj",
       "projectName": "3.Numbers1toNwithStep3",
-      "projectPath": "D:\\Softuni\\Задачи\\4.1 For Loop - Lab\\3.Numbers1toNwithStep3\\3.Numbers1toNwithStep3.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\4.1 For Loop - Lab\\3.Numbers1toNwithStep3\\3.Numbers1toNwithStep3.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\4.1 For Loop - Lab\\3.Numbers1toNwithStep3\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\4.1 For Loop - Lab\\3.Numbers1toNwithStep3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

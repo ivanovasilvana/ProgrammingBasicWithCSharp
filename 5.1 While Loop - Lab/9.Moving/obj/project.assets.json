@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\5.1 While Loop - Lab\\9.Moving\\9.Moving.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\5.1 While Loop - Lab\\9.Moving\\9.Moving.csproj",
       "projectName": "9.Moving",
-      "projectPath": "D:\\Softuni\\Задачи\\5.1 While Loop - Lab\\9.Moving\\9.Moving.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\5.1 While Loop - Lab\\9.Moving\\9.Moving.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\5.1 While Loop - Lab\\9.Moving\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\5.1 While Loop - Lab\\9.Moving\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

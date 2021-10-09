@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\6.1NestedLoops-Lab\\6.Building\\6.Building.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\6.1NestedLoops-Lab\\6.Building\\6.Building.csproj",
       "projectName": "6.Building",
-      "projectPath": "D:\\Softuni\\Задачи\\6.1NestedLoops-Lab\\6.Building\\6.Building.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\6.1NestedLoops-Lab\\6.Building\\6.Building.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\6.1NestedLoops-Lab\\6.Building\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\6.1NestedLoops-Lab\\6.Building\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

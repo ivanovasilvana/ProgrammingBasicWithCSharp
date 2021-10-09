@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\6.1NestedLoops-Lab\\2.MultiplicationTable\\2.MultiplicationTable.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\6.1NestedLoops-Lab\\2.MultiplicationTable\\2.MultiplicationTable.csproj",
       "projectName": "2.MultiplicationTable",
-      "projectPath": "D:\\Softuni\\Задачи\\6.1NestedLoops-Lab\\2.MultiplicationTable\\2.MultiplicationTable.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\6.1NestedLoops-Lab\\2.MultiplicationTable\\2.MultiplicationTable.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\6.1NestedLoops-Lab\\2.MultiplicationTable\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\6.1NestedLoops-Lab\\2.MultiplicationTable\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

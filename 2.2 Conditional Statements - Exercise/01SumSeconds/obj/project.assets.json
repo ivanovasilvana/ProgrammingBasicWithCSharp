@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\2.2ConditionalStatementsExercise\\ConditionalStatementsExercise\\01SumSeconds\\01SumSeconds.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\2.2 Conditional Statements - Exercise\\01SumSeconds\\01SumSeconds.csproj",
       "projectName": "01SumSeconds",
-      "projectPath": "D:\\Softuni\\Задачи\\2.2ConditionalStatementsExercise\\ConditionalStatementsExercise\\01SumSeconds\\01SumSeconds.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.2 Conditional Statements - Exercise\\01SumSeconds\\01SumSeconds.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\2.2ConditionalStatementsExercise\\ConditionalStatementsExercise\\01SumSeconds\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.2 Conditional Statements - Exercise\\01SumSeconds\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

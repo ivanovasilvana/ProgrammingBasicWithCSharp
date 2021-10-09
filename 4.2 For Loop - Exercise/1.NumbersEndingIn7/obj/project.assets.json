@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\4.2 For Loop - Exercise\\1.NumbersEndingIn7\\1.NumbersEndingIn7.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\4.2 For Loop - Exercise\\1.NumbersEndingIn7\\1.NumbersEndingIn7.csproj",
       "projectName": "1.NumbersEndingIn7",
-      "projectPath": "D:\\Softuni\\Задачи\\4.2 For Loop - Exercise\\1.NumbersEndingIn7\\1.NumbersEndingIn7.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\4.2 For Loop - Exercise\\1.NumbersEndingIn7\\1.NumbersEndingIn7.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\4.2 For Loop - Exercise\\1.NumbersEndingIn7\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\4.2 For Loop - Exercise\\1.NumbersEndingIn7\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

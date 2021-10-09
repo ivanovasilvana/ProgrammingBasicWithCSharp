@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\5.1 While Loop - Lab\\5.AccountBalance\\5.AccountBalance.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\5.1 While Loop - Lab\\5.AccountBalance\\5.AccountBalance.csproj",
       "projectName": "5.AccountBalance",
-      "projectPath": "D:\\Softuni\\Задачи\\5.1 While Loop - Lab\\5.AccountBalance\\5.AccountBalance.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\5.1 While Loop - Lab\\5.AccountBalance\\5.AccountBalance.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\5.1 While Loop - Lab\\5.AccountBalance\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\5.1 While Loop - Lab\\5.AccountBalance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\Задачи\\Exams\\Exam-March2020\\04. TrekkingMania\\04. TrekkingMania.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\Exams\\Exam-March2020\\04. TrekkingMania\\04. TrekkingMania.csproj",
       "projectName": "04. TrekkingMania",
-      "projectPath": "D:\\Softuni\\Задачи\\Exams\\Exam-March2020\\04. TrekkingMania\\04. TrekkingMania.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\Exams\\Exam-March2020\\04. TrekkingMania\\04. TrekkingMania.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\Задачи\\Exams\\Exam-March2020\\04. TrekkingMania\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\Exams\\Exam-March2020\\04. TrekkingMania\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
