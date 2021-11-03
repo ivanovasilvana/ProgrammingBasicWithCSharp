@@ -8,24 +8,32 @@ namespace _7WorkTime
         {
             int hour = int.Parse(Console.ReadLine());
             string day = Console.ReadLine();
-            if (day == "Monday" || day == "Tuesday" || day == "Wednesday" || day == "Thursday" || day == "Friday" || day == "Saturday")
+            switch (day)
             {
-                if (hour >= 10 && hour <= 18)
-                {
-                    Console.WriteLine("open");
-                }
+                case "Monday":
+                case "Tuesday":
+                case "Wednesday":
+                case "Thursday":
+                case "Friday":
 
-                else
-                {
+                    if (hour >= 10 && hour <= 18)
+                    {
+                        Console.WriteLine("open");
+                    }
+
+                    else
+                    {
+                        Console.WriteLine("closed");
+
+                    }
+                    break;
+                case "Saturday":
+                case "Sunday":
+
                     Console.WriteLine("closed");
-
-                }
+                    break;
             }
-            else if (day== "Sunday")
-            {
-                Console.WriteLine("closed");
 
-            }
         }
     }
 }
