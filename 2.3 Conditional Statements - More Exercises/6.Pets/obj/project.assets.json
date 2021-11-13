@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\2.3 Conditional Statements - More Exercises\\6.Pets\\6.Pets.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\ProgrammingBasicWithCSharp\\2.3 Conditional Statements - More Exercises\\6.Pets\\6.Pets.csproj",
       "projectName": "6.Pets",
-      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.3 Conditional Statements - More Exercises\\6.Pets\\6.Pets.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\ProgrammingBasicWithCSharp\\2.3 Conditional Statements - More Exercises\\6.Pets\\6.Pets.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.3 Conditional Statements - More Exercises\\6.Pets\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\ProgrammingBasicWithCSharp\\2.3 Conditional Statements - More Exercises\\6.Pets\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

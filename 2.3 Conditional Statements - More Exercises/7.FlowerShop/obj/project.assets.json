@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Basic\\2.3 Conditional Statements - More Exercises\\7.FlowerShop\\7.FlowerShop.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\ProgrammingBasicWithCSharp\\2.3 Conditional Statements - More Exercises\\7.FlowerShop\\7.FlowerShop.csproj",
       "projectName": "7.FlowerShop",
-      "projectPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.3 Conditional Statements - More Exercises\\7.FlowerShop\\7.FlowerShop.csproj",
+      "projectPath": "C:\\СофтУни\\C#\\ProgrammingBasicWithCSharp\\2.3 Conditional Statements - More Exercises\\7.FlowerShop\\7.FlowerShop.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\СофтУни\\C#\\Programming-Basic\\2.3 Conditional Statements - More Exercises\\7.FlowerShop\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\ProgrammingBasicWithCSharp\\2.3 Conditional Statements - More Exercises\\7.FlowerShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
